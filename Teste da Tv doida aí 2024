@@ -505,9 +505,9 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/45836
 http://voz.one:80/alexfnt/vTFBGKdUYq/45837
 #EXTINF:-1,GLOBO BAHIA SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/64231
-#EXTINF:-1,GLOBO BELEM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b8/Logotipo_da_Rede_Liberal.png",GLOBO BELEM
 http://voz.one:80/alexfnt/vTFBGKdUYq/64234
-#EXTINF:-1,GLOBO BELEM HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b8/Logotipo_da_Rede_Liberal.png",GLOBO BELEM HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/64233
 #EXTINF:-1,GLOBO BRASILIA FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/45863
@@ -762,9 +762,7 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/45895
 #EXTINF:-1,GLOBO TV DIARIO MOGI
 http://voz.one:80/alexfnt/vTFBGKdUYq/134003
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b8/Logotipo_da_Rede_Liberal.png",GLOBO TV LIBERAL BELEM
-http://voz.one:80/alexfnt/vTFBGKdUYq/65240
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b8/Logotipo_da_Rede_Liberal.png",GLOBO TV LIBERAL BELEM SD
-https://live-01.edge-vivo-ccp-pa.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS12aXZvLWNjcC1wYS52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MDQ5NzIxNDIsImlhdCI6MTcwNDg4NTc0MiwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiJhZTUzNGY2Mi1jMWQ4LTRmNGYtODliMy1lMjZiOTRlNDQyYTMiLCJwYXRoIjoiL251L2YoaT0yKS9nbG9iby1iZWwvcGxheWxpc3QubTN1OCJ9.QhvCH89Y5OWWk4CdYOqOk1-N30XW44-wItd6YQWxgiKOw_8FCBj9oHrf1etBQeogGJbJ6fzWE6vRQsP5VmDuAQluNQkS92kAyfJ1keQaLNnZil9PrFLiriH2wWQkwvo75mRl7CkuNjyh-OEN5-ta1yT8KFuK31HGsk3_yWKB3vDoJEmVr2GNmSCgbhSZJM3YPYgn6zSWPolkEP-rAoVuUsw7DrwC3SS4438k1RJAaOCTuj_f6R-cUd3C9AayrBO3jiwGgGd_CzL-mVSqnrqcKBxFluO0fPtJAfhzWjql6MhmGqR9ob97Btnd1SYOaIU1e8ALKFTyUTNTMg1rjvgC8A/nu/f(i=2)/globo-bel/playlist.m3u8?originpath=/linear/hls/pa/event/A7wbgxhAQnaOhYou_cLkMA/stream/de685795-5139-4799-871d-2ceeb402fc11:SCL/variant/3b7e974c93950e023dcd1be0a3bb5ac3/bandwidth/1835000.m3u8
+http://voz.one:80/alexfnt/vTFBGKdUYq/65240
 #EXTINF:-1,GLOBO TV MIRANTE COCAIS
 http://voz.one:80/alexfnt/vTFBGKdUYq/64227
 #EXTINF:-1,GLOBO TV MIRANTE SÃO LUIS
