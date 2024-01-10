@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo Sudoeste Bahia
 http://voz.one:80/alexfnt/vTFBGKdUYq/47695
 #EXTINF:-1 tvg-logo="https://s2-gshow.glbimg.com/MIpjFVNq4T7C7LrwS_0k4n6oSig=/0x0:600x338/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png",Cameras BBB - 01
@@ -85,29 +85,29 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/34014
 http://voz.one:80/alexfnt/vTFBGKdUYq/34012
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png",BABY TV HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/619
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg",Band
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",Band
 http://voz.one:80/alexfnt/vTFBGKdUYq/65271
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg",Band 4K
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",Band 4K
 http://voz.one:80/alexfnt/vTFBGKdUYq/218
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg",BAND BAHIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND BAHIA
 http://voz.one:80/alexfnt/vTFBGKdUYq/93635
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg",BAND BRASILIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND BRASILIA
 http://voz.one:80/alexfnt/vTFBGKdUYq/96148
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg",BAND CAMPINAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND CAMPINAS
 http://voz.one:80/alexfnt/vTFBGKdUYq/96149
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg",BAND CAMPINAS FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND CAMPINAS FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/242
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg",BAND CAMPINAS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND CAMPINAS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/241
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg",BAND CURITIBA FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND CURITIBA FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/244
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg",BAND GOIANIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND GOIANIA
 http://voz.one:80/alexfnt/vTFBGKdUYq/247
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg",BAND MG
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND MG
 http://voz.one:80/alexfnt/vTFBGKdUYq/95808
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg",BAND MG FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND MG FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/56237
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg",BAND MG HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND MG HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/56236
 #EXTINF:-1 tvg-logo="https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7020-1071_import.png",Band News (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13852
@@ -117,17 +117,17 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/682
 http://voz.one:80/alexfnt/vTFBGKdUYq/683
 #EXTINF:-1 tvg-logo="https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7020-1071_import.png",BAND NEWS SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/687
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg",BAND RJ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND RJ
 http://voz.one:80/alexfnt/vTFBGKdUYq/249
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg",BAND RJ HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND RJ HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/248
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg",BAND RS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND RS
 http://voz.one:80/alexfnt/vTFBGKdUYq/96147
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg",BAND SP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND SP
 http://voz.one:80/alexfnt/vTFBGKdUYq/252
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg",BAND SP FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND SP FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/250
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Rede_Bandeirantes_logo_2018.svg",BAND SP HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND SP HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/251
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_bandsports-hd_m.png",BAND SPORTS FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/385
@@ -197,65 +197,65 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/623
 http://voz.one:80/alexfnt/vTFBGKdUYq/624
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png",CartoonNetwork (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13858
-#EXTINF:-1,CAZE TV
+#EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2023/07/03/1163449859-copacazetv.jpg",CAZE TV
 http://voz.one:80/alexfnt/vTFBGKdUYq/133932
-#EXTINF:-1,CBN SÃO PAULO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CBN_logo.svg/1200px-CBN_logo.svg.png",CBN SÃO PAULO
 http://voz.one:80/alexfnt/vTFBGKdUYq/64386
-#EXTINF:-1,CHEF TV FHD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_chef-tv-brazil_m.png",CHEF TV FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/796
-#EXTINF:-1,CHEF TV HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_chef-tv-brazil_m.png",CHEF TV HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/746
-#EXTINF:-1,Chef TV SD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_chef-tv-brazil_m.png",Chef TV SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/65350
-#EXTINF:-1,CINE CANAL FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1024px-CinecanalLA.png",CINE CANAL FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/432
-#EXTINF:-1,CINE CANAL HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1024px-CinecanalLA.png",CINE CANAL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/433
-#EXTINF:-1,CINE CANAL SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1024px-CinecanalLA.png",CINE CANAL SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/434
-#EXTINF:-1,Cinemax (H265)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1920px-Cinemax_2016.svg.png",Cinemax (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13859
-#EXTINF:-1,CINEMAX FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1920px-Cinemax_2016.svg.png",CINEMAX FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/427
-#EXTINF:-1,CINEMAX HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1920px-Cinemax_2016.svg.png",CINEMAX HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/428
-#EXTINF:-1,CINEMAX SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1920px-Cinemax_2016.svg.png",CINEMAX SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/429
-#EXTINF:-1,CNN Brasil 4K
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png",CNN Brasil 4K
 http://voz.one:80/alexfnt/vTFBGKdUYq/89346
-#EXTINF:-1,CNN BRASIL FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png",CNN BRASIL FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/684
-#EXTINF:-1,CNN BRASIL HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png",CNN BRASIL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/685
-#EXTINF:-1,CNN BRASIL SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png",CNN BRASIL SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/688
-#EXTINF:-1,CNN ESPANHOL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/800px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",CNN ESPANHOL
 http://voz.one:80/alexfnt/vTFBGKdUYq/130688
-#EXTINF:-1,CNN INTERNACIONAL
+#EXTINF:-1 tvg-logo="https://scotteadams.github.io/m3yoyo/tvlogos/308ipcnn.png",CNN INTERNACIONAL
 http://voz.one:80/alexfnt/vTFBGKdUYq/130690
-#EXTINF:-1,Combate (H265)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Combate_logo.svg/1920px-Combate_logo.svg.png",Combate (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13860
-#EXTINF:-1,Combate 4K
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Combate_logo.svg/1920px-Combate_logo.svg.png",Combate 4K
 http://voz.one:80/alexfnt/vTFBGKdUYq/227
-#EXTINF:-1,COMBATE FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Combate_logo.svg/1920px-Combate_logo.svg.png",COMBATE FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/351
-#EXTINF:-1,COMBATE HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Combate_logo.svg/1920px-Combate_logo.svg.png",COMBATE HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/352
-#EXTINF:-1,COMBATE SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Combate_logo.svg/1920px-Combate_logo.svg.png",COMBATE SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/353
-#EXTINF:-1,Comedy Central (H265)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png",Comedy Central (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13861
-#EXTINF:-1,Comedy Central 4K
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png",Comedy Central 4K
 http://voz.one:80/alexfnt/vTFBGKdUYq/89348
-#EXTINF:-1,COMEDY CENTRAL FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png",COMEDY CENTRAL FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/757
-#EXTINF:-1,COMEDY CENTRAL HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png",COMEDY CENTRAL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/758
-#EXTINF:-1,COMEDY CENTRAL SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png",COMEDY CENTRAL SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/759
-#EXTINF:-1,COPA DO BRASIL 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/96/CopaDoBrasil.png",COPA DO BRASIL 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/83588
-#EXTINF:-1,COPA DO BRASIL 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/96/CopaDoBrasil.png",COPA DO BRASIL 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/89344
 #EXTINF:-1,COPA DO NORDESTE 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/75034
@@ -762,7 +762,7 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/45895
 #EXTINF:-1,GLOBO TV DIARIO MOGI
 http://voz.one:80/alexfnt/vTFBGKdUYq/134003
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b8/Logotipo_da_Rede_Liberal.png",GLOBO TV LIBERAL BELEM
-http://voz.one:80/alexfnt/vTFBGKdUYq/65240
+http://voz.one:80/alexfnt/vTFBGKdUYq/65240
 #EXTINF:-1,GLOBO TV MIRANTE COCAIS
 http://voz.one:80/alexfnt/vTFBGKdUYq/64227
 #EXTINF:-1,GLOBO TV MIRANTE SÃO LUIS
