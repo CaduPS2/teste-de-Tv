@@ -1,20 +1,4 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo Sudoeste Bahia
-http://voz.one:80/alexfnt/vTFBGKdUYq/47695
-#EXTINF:-1 tvg-logo="https://s2-gshow.glbimg.com/MIpjFVNq4T7C7LrwS_0k4n6oSig=/0x0:600x338/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png",Cameras BBB - 01
-http://voz.one:80/alexfnt/vTFBGKdUYq/254730
-#EXTINF:-1 tvg-logo="https://s2-gshow.glbimg.com/MIpjFVNq4T7C7LrwS_0k4n6oSig=/0x0:600x338/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png",Cameras BBB - 02
-http://voz.one:80/alexfnt/vTFBGKdUYq/254731
-#EXTINF:-1 tvg-logo="https://s2-gshow.glbimg.com/MIpjFVNq4T7C7LrwS_0k4n6oSig=/0x0:600x338/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png",Cameras BBB - 03
-http://voz.one:80/alexfnt/vTFBGKdUYq/254732
-#EXTINF:-1 tvg-logo="https://s2-gshow.glbimg.com/MIpjFVNq4T7C7LrwS_0k4n6oSig=/0x0:600x338/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png",Cameras BBB - 04
-http://voz.one:80/alexfnt/vTFBGKdUYq/258180
-#EXTINF:-1 tvg-logo="https://s2-gshow.glbimg.com/MIpjFVNq4T7C7LrwS_0k4n6oSig=/0x0:600x338/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png",Cameras BBB - 05
-http://voz.one:80/alexfnt/vTFBGKdUYq/258181
-#EXTINF:-1 tvg-logo="https://s2-gshow.glbimg.com/MIpjFVNq4T7C7LrwS_0k4n6oSig=/0x0:600x338/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png",Cameras BBB - 06
-http://voz.one:80/alexfnt/vTFBGKdUYq/258182
-#EXTINF:-1 tvg-logo="https://s2-gshow.glbimg.com/MIpjFVNq4T7C7LrwS_0k4n6oSig=/0x0:600x338/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png",Cameras BBB - 07
-http://voz.one:80/alexfnt/vTFBGKdUYq/260488
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1200px-A%26E-Network-Logo.svg.png",A&E (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13848
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1200px-A%26E-Network-Logo.svg.png",A&E FHD
@@ -159,6 +143,20 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/156035
 http://voz.one:80/alexfnt/vTFBGKdUYq/156036
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/12/Campeonato_Brasileiro_S%C3%A9rie_D_logo.png",Brasileirão Série D - 06
 http://voz.one:80/alexfnt/vTFBGKdUYq/156037
+#EXTINF:-1 tvg-logo="https://s2-gshow.glbimg.com/MIpjFVNq4T7C7LrwS_0k4n6oSig=/0x0:600x338/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png",Cameras BBB - 01
+http://voz.one:80/alexfnt/vTFBGKdUYq/254730
+#EXTINF:-1 tvg-logo="https://s2-gshow.glbimg.com/MIpjFVNq4T7C7LrwS_0k4n6oSig=/0x0:600x338/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png",Cameras BBB - 02
+http://voz.one:80/alexfnt/vTFBGKdUYq/254731
+#EXTINF:-1 tvg-logo="https://s2-gshow.glbimg.com/MIpjFVNq4T7C7LrwS_0k4n6oSig=/0x0:600x338/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png",Cameras BBB - 03
+http://voz.one:80/alexfnt/vTFBGKdUYq/254732
+#EXTINF:-1 tvg-logo="https://s2-gshow.glbimg.com/MIpjFVNq4T7C7LrwS_0k4n6oSig=/0x0:600x338/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png",Cameras BBB - 04
+http://voz.one:80/alexfnt/vTFBGKdUYq/258180
+#EXTINF:-1 tvg-logo="https://s2-gshow.glbimg.com/MIpjFVNq4T7C7LrwS_0k4n6oSig=/0x0:600x338/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png",Cameras BBB - 05
+http://voz.one:80/alexfnt/vTFBGKdUYq/258181
+#EXTINF:-1 tvg-logo="https://s2-gshow.glbimg.com/MIpjFVNq4T7C7LrwS_0k4n6oSig=/0x0:600x338/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png",Cameras BBB - 06
+http://voz.one:80/alexfnt/vTFBGKdUYq/258182
+#EXTINF:-1 tvg-logo="https://s2-gshow.glbimg.com/MIpjFVNq4T7C7LrwS_0k4n6oSig=/0x0:600x338/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png",Cameras BBB - 07
+http://voz.one:80/alexfnt/vTFBGKdUYq/260488
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/70/Campeonato_Brasileiro_S%C3%A9rie_C_logo.png",Campeonato Brasileiro Série C  (JOGO 3)
 http://voz.one:80/alexfnt/vTFBGKdUYq/156052
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/70/Campeonato_Brasileiro_S%C3%A9rie_C_logo.png",Campeonato Brasileiro Série C (JOGO 1)
@@ -725,6 +723,8 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/45805
 http://voz.one:80/alexfnt/vTFBGKdUYq/45855
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO SP SD²
 http://voz.one:80/alexfnt/vTFBGKdUYq/65238
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo Sudoeste Bahia
+http://voz.one:80/alexfnt/vTFBGKdUYq/47695
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TRIBUNA SANTOS FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/45839
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TRIBUNA SANTOS HD
@@ -913,73 +913,73 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/616
 http://voz.one:80/alexfnt/vTFBGKdUYq/617
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV  SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/768
-#EXTINF:-1 tvg-logo="",HGTV (H265)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13863
-#EXTINF:-1 tvg-logo="",HGTV FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/769
-#EXTINF:-1 tvg-logo="",HGTV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/770
-#EXTINF:-1 tvg-logo="",History (H265)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/800px-History_%282021%29.svg.png",History (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13893
-#EXTINF:-1 tvg-logo="",HISTORY CHANNEL FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/800px-History_%282021%29.svg.png",HISTORY CHANNEL FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/32
-#EXTINF:-1 tvg-logo="",HISTORY CHANNEL HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/800px-History_%282021%29.svg.png",HISTORY CHANNEL HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/33
-#EXTINF:-1 tvg-logo="",HISTORY CHANNEL SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/800px-History_%282021%29.svg.png",HISTORY CHANNEL SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/34
-#EXTINF:-1 tvg-logo="",ID - INVESTIGAÇÃO DISCOVERY (H265)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png",ID - INVESTIGAÇÃO DISCOVERY (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13895
-#EXTINF:-1 tvg-logo="",ID - INVESTIGAÇÃO DISCOVERY FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png",ID - INVESTIGAÇÃO DISCOVERY FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/35
-#EXTINF:-1 tvg-logo="",ID - INVESTIGAÇÃO DISCOVERY HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png",ID - INVESTIGAÇÃO DISCOVERY HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/37
-#EXTINF:-1 tvg-logo="",ID - INVESTIGAÇÃO DISCOVERY SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png",ID - INVESTIGAÇÃO DISCOVERY SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/36
-#EXTINF:-1 tvg-logo="",Igreja Mundial FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/IURD_logo.svg/2560px-IURD_logo.svg.png",Igreja Mundial FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/65393
-#EXTINF:-1 tvg-logo="",Igreja Universal HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/IURD_logo.svg/2560px-IURD_logo.svg.png",Igreja Universal HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/65394
-#EXTINF:-1 tvg-logo="",JP NEWS 4K
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png",JP NEWS 4K
 http://voz.one:80/alexfnt/vTFBGKdUYq/71487
-#EXTINF:-1 tvg-logo="",JP NEWS FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png",JP NEWS FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/71488
-#EXTINF:-1 tvg-logo="",JP NEWS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png",JP NEWS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/64284
-#EXTINF:-1 tvg-logo="",JP NEWS SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png",JP NEWS SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/64283
-#EXTINF:-1 tvg-logo="",Lifetime (H265)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",Lifetime (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13896
-#EXTINF:-1 tvg-logo="",LIFETIME FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",LIFETIME FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/445
-#EXTINF:-1 tvg-logo="",LIFETIME HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",LIFETIME HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/446
-#EXTINF:-1 tvg-logo="",LIFETIME SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",LIFETIME SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/447
-#EXTINF:-1 tvg-logo="",LIGA FUTSAL 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ee/LogoLNF.png",LIGA FUTSAL 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/65297
-#EXTINF:-1 tvg-logo="",LIGA FUTSAL 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ee/LogoLNF.png",LIGA FUTSAL 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/65296
-#EXTINF:-1 tvg-logo="",LIGA FUTSAL 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ee/LogoLNF.png",LIGA FUTSAL 3
 http://voz.one:80/alexfnt/vTFBGKdUYq/65295
-#EXTINF:-1 tvg-logo="",LIGA FUTSAL 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ee/LogoLNF.png",LIGA FUTSAL 4
 http://voz.one:80/alexfnt/vTFBGKdUYq/46133
-#EXTINF:-1 tvg-logo="",LOVE NATURE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",LOVE NATURE
 http://voz.one:80/alexfnt/vTFBGKdUYq/96150
-#EXTINF:-1 tvg-logo="",Megapix (H265)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png",Megapix (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13901
-#EXTINF:-1 tvg-logo="",Megapix 4K
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png",Megapix 4K
 http://voz.one:80/alexfnt/vTFBGKdUYq/233
-#EXTINF:-1 tvg-logo="",MEGAPIX FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png",MEGAPIX FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/448
-#EXTINF:-1 tvg-logo="",MEGAPIX HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png",MEGAPIX HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/449
-#EXTINF:-1 tvg-logo="",MEGAPIX SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png",MEGAPIX SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/450
-#EXTINF:-1 tvg-logo="",MG - 98.0 FM
+#EXTINF:-1 tvg-logo="https://www.98fmuberaba.com.br/wa_images/logos-98-fm-500x500_1.png",MG - 98.0 FM
 http://voz.one:80/alexfnt/vTFBGKdUYq/34042
-#EXTINF:-1 tvg-logo="",MG - Cultura FM 95.1
+#EXTINF:-1 tvg-logo="https://imprensaemidia.com.br/wp-content/uploads/2020/10/Cultura-fm.jpg",MG - Cultura FM 95.1
 http://voz.one:80/alexfnt/vTFBGKdUYq/34044
-#EXTINF:-1 tvg-logo="",MG - Itatiaia FM 95.7
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s7034/images/logod.png",MG - Itatiaia FM 95.7
 http://voz.one:80/alexfnt/vTFBGKdUYq/34043
 #EXTINF:-1 tvg-logo="",MODO VIAGEM FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/65334
