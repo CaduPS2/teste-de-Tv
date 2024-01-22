@@ -1,4 +1,4 @@
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo Sudoeste Bahia
 http://voz.one:80/alexfnt/vTFBGKdUYq/47695
 #EXTINF:-1 tvg-logo="https://s2-gshow.glbimg.com/MIpjFVNq4T7C7LrwS_0k4n6oSig=/0x0:600x338/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png",Cameras BBB - 01
@@ -839,79 +839,79 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/30
 http://voz.one:80/alexfnt/vTFBGKdUYq/31
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png",HBO (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13889
-#EXTINF:-1 tvg-logo="",HBO 2 FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HBO2_logo.png/640px-HBO2_logo.png",HBO 2 FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/594
-#EXTINF:-1 tvg-logo="",HBO 2 HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HBO2_logo.png/640px-HBO2_logo.png",HBO 2 HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/595
-#EXTINF:-1 tvg-logo="",HBO 2 SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/HBO2_logo.png/640px-HBO2_logo.png",HBO 2 SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/596
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png",HBO 4K
 http://voz.one:80/alexfnt/vTFBGKdUYq/232
-#EXTINF:-1 tvg-logo="",HBO Familly (H265)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",HBO Familly (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13888
-#EXTINF:-1 tvg-logo="",HBO FAMILY FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",HBO FAMILY FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/597
-#EXTINF:-1 tvg-logo="",HBO FAMILY HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",HBO FAMILY HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/598
-#EXTINF:-1 tvg-logo="",HBO FAMILY SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",HBO FAMILY SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/599
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png",HBO FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/600
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png",HBO HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/601
-#EXTINF:-1 tvg-logo="",HBO MAX 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Max_logo.svg/1920px-Max_logo.svg.png",HBO MAX 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/57702
-#EXTINF:-1 tvg-logo="",HBO MAX 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Max_logo.svg/1920px-Max_logo.svg.png",HBO MAX 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/57703
-#EXTINF:-1 tvg-logo="",HBO MAX 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Max_logo.svg/1920px-Max_logo.svg.png",HBO MAX 3
 http://voz.one:80/alexfnt/vTFBGKdUYq/57704
-#EXTINF:-1 tvg-logo="",HBO MAX 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Max_logo.svg/1920px-Max_logo.svg.png",HBO MAX 4
 http://voz.one:80/alexfnt/vTFBGKdUYq/66044
-#EXTINF:-1 tvg-logo="",HBO MAX 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Max_logo.svg/1920px-Max_logo.svg.png",HBO MAX 5
 http://voz.one:80/alexfnt/vTFBGKdUYq/124780
-#EXTINF:-1 tvg-logo="",HBO MUNDI (H265)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png",HBO MUNDI (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13898
-#EXTINF:-1 tvg-logo="",HBO MUNDI FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png",HBO MUNDI FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/602
-#EXTINF:-1 tvg-logo="",HBO MUNDI HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png",HBO MUNDI HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/603
-#EXTINF:-1 tvg-logo="",HBO MUNDI SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1280px-HBO_Mundi.svg.png",HBO MUNDI SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/604
-#EXTINF:-1 tvg-logo="",HBO PLUS (H265)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png",HBO PLUS (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13890
-#EXTINF:-1 tvg-logo="",HBO PLUS FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png",HBO PLUS FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/605
-#EXTINF:-1 tvg-logo="",HBO PLUS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png",HBO PLUS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/606
-#EXTINF:-1 tvg-logo="",HBO PLUS SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png",HBO PLUS SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/607
-#EXTINF:-1 tvg-logo="",HBO POP (H265)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/2560px-HBO_Pop.svg.png",HBO POP (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13900
-#EXTINF:-1 tvg-logo="",HBO POP FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/2560px-HBO_Pop.svg.png",HBO POP FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/608
-#EXTINF:-1 tvg-logo="",HBO POP HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/2560px-HBO_Pop.svg.png",HBO POP HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/609
-#EXTINF:-1 tvg-logo="",HBO POP SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/2560px-HBO_Pop.svg.png",HBO POP SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/610
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png",HBO SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/611
-#EXTINF:-1 tvg-logo="",HBO Signature (H265)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png",HBO Signature (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13891
-#EXTINF:-1 tvg-logo="",HBO SIGNATURE FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png",HBO SIGNATURE FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/612
-#EXTINF:-1 tvg-logo="",HBO SIGNATURE HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png",HBO SIGNATURE HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/613
-#EXTINF:-1 tvg-logo="",HBO SIGNATURE SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png",HBO SIGNATURE SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/614
-#EXTINF:-1 tvg-logo="",HBO XTREME (H265)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO XTREME (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13899
-#EXTINF:-1 tvg-logo="",HBO Xtreme FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/615
-#EXTINF:-1 tvg-logo="",HBO Xtreme HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/616
-#EXTINF:-1 tvg-logo="",HBO Xtreme SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",HBO Xtreme SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/617
-#EXTINF:-1 tvg-logo="",HGTV  SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png",HGTV  SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/768
 #EXTINF:-1 tvg-logo="",HGTV (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13863
@@ -1170,7 +1170,7 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/288
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png",Record BA HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/65252
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png",RECORD BELÉM HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/287
+https://par4.akamaized.net/hls/live/2037837/par4/master_720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png",RECORD BRASILIA HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/273
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png",RECORD CAMPINAS
