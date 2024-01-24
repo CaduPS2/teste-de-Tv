@@ -963,8 +963,6 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/65296
 http://voz.one:80/alexfnt/vTFBGKdUYq/65295
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ee/LogoLNF.png",LIGA FUTSAL 4
 http://voz.one:80/alexfnt/vTFBGKdUYq/46133
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Loading_TV.svg/1920px-Loading_TV.svg.png",Universo Loading
-https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",LOVE NATURE
 http://voz.one:80/alexfnt/vTFBGKdUYq/96150
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png",Megapix (H265)
@@ -1603,6 +1601,8 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/475
 http://voz.one:80/alexfnt/vTFBGKdUYq/476
 #EXTINF:-1 tvg-logo="",UNIVERSAL TV SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/477
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Loading_TV.svg/1920px-Loading_TV.svg.png",Universo Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="",Viva 4K
 http://voz.one:80/alexfnt/vTFBGKdUYq/89356
 #EXTINF:-1 tvg-logo="",VIVA FHD
