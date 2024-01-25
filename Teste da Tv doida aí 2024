@@ -1043,6 +1043,8 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/258289
 http://voz.one:80/alexfnt/vTFBGKdUYq/258290
 #EXTINF:-1 tvg-logo="",NBA - 04
 http://voz.one:80/alexfnt/vTFBGKdUYq/258291
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Eu1EH6fXEAM3b7k.jpg",Nick Clássico
+https://tvembed.net/nick-classico/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="",NICK JR FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/646
 #EXTINF:-1 tvg-logo="",NICK JR HD
@@ -1635,6 +1637,12 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/660
 http://voz.one:80/alexfnt/vTFBGKdUYq/661
 #EXTINF:-1 tvg-logo="",[24H] 3 Palavrinhas
 http://voz.one:80/alexfnt/vTFBGKdUYq/95650
+#EXTINF:-1 tvg-logo="https://baf3dc6608.cbaul-cdnwnd.com/0f8e019bf486de605d9af6157711aec5/200000009-27e5028dfc/anime.png",[24H] Anime Ação
+https://tvembed.net/anime-acao/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pngimg.es/d/anime_girl_PNG32.png",[24H] Anime Online
+https://tvembed.net/anime/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/z_90JYTZ0UUAm5LhWzlJMFlT7xs08qss7HZ1UNf40bxJdRWj3x-9NzvW3eChEWBtSLU",[24H] Anime TV
+https://stmv1.srvif.com/animetv/animetv/chunklist_w1338898206.m3u8
 #EXTINF:-1 tvg-logo="",[24H] Alladin
 http://voz.one:80/alexfnt/vTFBGKdUYq/95718
 #EXTINF:-1 tvg-logo="",[24H] As Meninas Super poderosas
