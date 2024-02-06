@@ -103,6 +103,8 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/682
 http://voz.one:80/alexfnt/vTFBGKdUYq/683
 #EXTINF:-1 tvg-logo="https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7020-1071_import.png",BAND NEWS SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/687
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png",Band RBATV
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1363902183.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND RJ
 http://voz.one:80/alexfnt/vTFBGKdUYq/249
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND RJ HD
@@ -1575,6 +1577,8 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/58815
 http://voz.one:80/alexfnt/vTFBGKdUYq/58816
 #EXTINF:-1 tvg-logo="",TV Justica
 http://voz.one:80/alexfnt/vTFBGKdUYq/45920
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Nova_Play_logo.svg/1200px-Nova_Play_logo.svg.png",TV Nova Play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1108218256.m3u8
 #EXTINF:-1 tvg-logo="",TV PAI ETERNO HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/49788
 #EXTINF:-1 tvg-logo="",TV PAMPA RS HD
@@ -1593,6 +1597,8 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/131018
 http://voz.one:80/alexfnt/vTFBGKdUYq/65263
 #EXTINF:-1 tvg-logo="",TVE HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/65264
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/4/44/Ubisoft_logo_%282003%29.png",Ubisoft TV
+https://stream.ads.ottera.tv/cl/240206cn1316k6io6n9sc1u4gg/1280x720_3413660_0_f.m3u8
 #EXTINF:-1 tvg-logo="",UFC FIGHT PASS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/130678
 #EXTINF:-1 tvg-logo="",Universal Channel 4K
@@ -1621,6 +1627,8 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/478
 http://voz.one:80/alexfnt/vTFBGKdUYq/479
 #EXTINF:-1 tvg-logo="",WARNER CHANNEL SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/480
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/f97L-y6_gwjAYxa9a_4mCy0Uee6tNlP6H6MLbUYUQgqkzIWZ88o80nELUKWBN8PNFbm9=s500-rw",WebTV Xtreme
+https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w155835109.m3u8
 #EXTINF:-1 tvg-logo="",Woohoo (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13942
 #EXTINF:-1 tvg-logo="",WOOHOO FHD
