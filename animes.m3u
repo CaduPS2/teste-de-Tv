@@ -19,7 +19,7 @@ http://sandrostoreps3.000webhostapp.com/LISTAS/ANIMES/DR.STONE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Classico" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/ANIMES/dbclassic.png" group-title="Japoneses", Dragon Ball
 http://sandrostoreps3.000webhostapp.com/LISTAS/ANIMES/DRAGON.BALL.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/ANIMES/dbz.png" group-title="Japoneses", Dragon Ball Z
-http://sandrostoreps3.000webhostapp.com/LISTAS/ANIMES/DRAGON.BALL.Z.m3u
+https://raw.githubusercontent.com/CaduPS2/teste-de-Tv/main/dragonballz.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/ANIMES/dbgt.png" group-title="Japoneses", Dragon Ball GT
 http://sandrostoreps3.000webhostapp.com/LISTAS/ANIMES/DRAGON.BALL.GT.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Dragon Ball SUPER" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/ANIMES/db-super.png" group-title="Japoneses", Dragon Ball Super
