@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/POSTER-MENU/FILMES/ACAO-FILMES.png", Ação | Crime
+http://sandrostoreps3.000webhostapp.com/LISTAS/FILMES/ACAO.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/POSTER-MENU/FILMES/AVENTURA-FILMES.png", Avetura ! Fantasia
+http://sandrostoreps3.000webhostapp.com/LISTAS/FILMES/AVENTURA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/POSTER-MENU/FILMES/COMEDIA-FILMES.png", Comédia | Família
+http://sandrostoreps3.000webhostapp.com/LISTAS/FILMES/COMEDIA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/POSTER-MENU/FILMES/CORRIDA-FILMES.png", Corrida | Adrenalina
+http://sandrostoreps3.000webhostapp.com/LISTAS/FILMES/CORRIDA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/POSTER-MENU/FILMES/GUERRA-FILMES.png", Guerra | Mitologia
+http://sandrostoreps3.000webhostapp.com/LISTAS/FILMES/GUERRA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/POSTER-MENU/FILMES/LUTA-FILMES.png", Luta | Artes Marciais 
+http://sandrostoreps3.000webhostapp.com/LISTAS/FILMES/LUTA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/POSTER-MENU/FILMES/ROMANCE-FILMES.png", Romance | Drama
+http://sandrostoreps3.000webhostapp.com/LISTAS/FILMES/ROMANCE.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/POSTER-MENU/FILMES/FICCAO-FILMES.png", Ficção | Ciência
+http://sandrostoreps3.000webhostapp.com/LISTAS/FILMES/SUSPENSE.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/POSTER-MENU/FILMES/TERROR-FILMES.png", Terror | Suspense
+http://sandrostoreps3.000webhostapp.com/LISTAS/FILMES/TERROR.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/POSTER-MENU/FILMES/SAGAS-FILMES.png",Sagas | Franquias
+http://sandrostoreps3.000webhostapp.com/LISTAS/FILMES/COLECAO.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/POSTER-MENU/FILMES/SOLICITADOS-FILMES.png", Pedidos | Adicionados
+http://sandrostoreps3.000webhostapp.com/LISTAS/FILMES/PEDIDOS.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/POSTER-MENU/FILMES/LANCAMENTOS-FILMES.png", Lançamentos | Adicionados
+http://sandrostoreps3.000webhostapp.com/LISTAS/FILMES/LANCAMENTOS.m3u
