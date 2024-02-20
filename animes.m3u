@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="Animes" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/ANIMES/AS.AVENTURAS.DE.JACKIE.CHAN.jpg" group-title="Japoneses", As Aventuras de Jackie Chan
-http://sandrostoreps3.000webhostapp.com/LISTAS/ANIMES/AS.AVENTURAS.DE.JACKIE.CHAN.m3u
+https://raw.githubusercontent.com/CaduPS2/teste-de-Tv/main/jackchan.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Animes" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/ANIMES/ASSASSINATION.CLASSROOM.jpg" group-title="Japoneses", Assassination Classroom
 http://sandrostoreps3.000webhostapp.com/LISTAS/ANIMES/ASSASSINATION.CLASSROOM.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Animes" tvg-logo="http://raw.githubusercontent.com/SANTPLAY/POSTERFLIX/main/POSTER/ANIMES/ATTACK.ON.TITAN.jpg" group-title="Japoneses", Attack on Titan
