@@ -810,7 +810,7 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/13886
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gloob_2022.svg/1920px-Gloob_2022.svg.png",GLOOB FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/639
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gloob_2022.svg/1920px-Gloob_2022.svg.png",GLOOB HD
-https://d31ii3fk8fd7mh.cloudfront.net/out/v1/6d0de306743f49a39b0bb146a6b978f3/index.mpd
+https://hlsplus.online/p2p/gloob/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gloob_2022.svg/1920px-Gloob_2022.svg.png",GLOOB SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/641
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/1200px-Gloobinho_logo.svg.png",GLOOBINHO FHD
