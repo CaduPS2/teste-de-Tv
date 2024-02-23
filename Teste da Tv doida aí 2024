@@ -1,842 +1,128 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1200px-A%26E-Network-Logo.svg.png",A&E (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13848
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1200px-A%26E-Network-Logo.svg.png",A&E FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/418
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1200px-A%26E-Network-Logo.svg.png",A&E HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/419
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1200px-A%26E-Network-Logo.svg.png",A&E SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/420
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/agro-canal-logo-9080B8B3AF-seeklogo.com.png",Agro Canal
-http://voz.one:80/alexfnt/vTFBGKdUYq/98672
+http://cdn.connectbr.com.br/AE/index.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/agro-canal-logo-9080B8B3AF-seeklogo.com.png",AgroBrasil TV
-http://voz.one:80/alexfnt/vTFBGKdUYq/65362
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/0/49460.v5.png",AL - Difusora AM 960
-http://voz.one:80/alexfnt/vTFBGKdUYq/34011
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/bc94901759ad457ecdb2ea59bd963eb6.jpg",AL - Gazeta AM 1260
-http://voz.one:80/alexfnt/vTFBGKdUYq/34008
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1280px-Amazon_Prime_Video_logo.svg.png",AMAZON PRIME JOGO 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/84336
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1280px-Amazon_Prime_Video_logo.svg.png",AMAZON PRIME JOGO 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/84337
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1280px-Amazon_Prime_Video_logo.svg.png",AMAZON PRIME JOGO 3
-http://voz.one:80/alexfnt/vTFBGKdUYq/84338
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Amazon_Prime_Video_logo.svg/1280px-Amazon_Prime_Video_logo.svg.png",AMAZON PRIME JOGO 4
-http://voz.one:80/alexfnt/vTFBGKdUYq/84339
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/800px-AMC_logo_2019.svg.png",AMC (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13849
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/800px-AMC_logo_2019.svg.png",AMC FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/421
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/800px-AMC_logo_2019.svg.png",AMC HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/422
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/800px-AMC_logo_2019.svg.png",AMC SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/423
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13850
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/225
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/1
+https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/2
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/AppleTV.png",Apple TV - LIVE
-http://voz.one:80/alexfnt/vTFBGKdUYq/250997
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/AppleTV.png",Apple TV - LIVE 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/250998
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/640px-Arte_1_logo.svg.png",ARTE 1 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/787
+https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/640px-Arte_1_logo.svg.png",ARTE 1 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/788
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arte_1_logo.svg/640px-Arte_1_logo.svg.png",ARTE 1 SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/789
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/800px-AXN_logo_%282015%29.svg.png",AXN (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13851
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/800px-AXN_logo_%282015%29.svg.png",AXN 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/89347
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/800px-AXN_logo_%282015%29.svg.png",AXN FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/424
+https://cdn-1.nxplay.com.br/ARTE1_TK/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/800px-AXN_logo_%282015%29.svg.png",AXN HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/425
+https://cdn-1.nxplay.com.br/AXN_TK/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/800px-AXN_logo_%282015%29.svg.png",AXN SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/426
-#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio17440_1544635650.jpg",BA - Band FM 99.1
-http://voz.one:80/alexfnt/vTFBGKdUYq/34013
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/6/127256.v3.png",BA - CBN FM 100.7
-http://voz.one:80/alexfnt/vTFBGKdUYq/34016
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s97756g.png",BA - Feliz FM 92.3
-http://voz.one:80/alexfnt/vTFBGKdUYq/34014
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/80/Logotipo_da_GFM.png",BA - GFM 90.1
-http://voz.one:80/alexfnt/vTFBGKdUYq/34012
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png",BABY TV HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/619
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",Band
-http://voz.one:80/alexfnt/vTFBGKdUYq/65271
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",Band 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/218
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND BAHIA
-http://voz.one:80/alexfnt/vTFBGKdUYq/93635
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND BRASILIA
-http://voz.one:80/alexfnt/vTFBGKdUYq/96148
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND CAMPINAS
-http://voz.one:80/alexfnt/vTFBGKdUYq/96149
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND CAMPINAS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/242
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND CAMPINAS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/241
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND CURITIBA FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/244
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND GOIANIA
-http://voz.one:80/alexfnt/vTFBGKdUYq/247
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND MG
-http://voz.one:80/alexfnt/vTFBGKdUYq/95808
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND MG FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/56237
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND MG HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/56236
-#EXTINF:-1 tvg-logo="https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7020-1071_import.png",Band News (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13852
-#EXTINF:-1 tvg-logo="https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7020-1071_import.png",BAND NEWS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/682
-#EXTINF:-1 tvg-logo="https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7020-1071_import.png",BAND NEWS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/683
-#EXTINF:-1 tvg-logo="https://brazil.mom-gmr.org/uploads/tx_lfrogmom/media/7020-1071_import.png",BAND NEWS SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/687
+https://cdn-1.nxplay.com.br/AXN_TK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png",Band RBATV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1363902183.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND RJ
-http://voz.one:80/alexfnt/vTFBGKdUYq/249
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND RJ HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/248
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND RS
-http://voz.one:80/alexfnt/vTFBGKdUYq/96147
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND SP
-http://voz.one:80/alexfnt/vTFBGKdUYq/252
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND SP FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/250
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/2554px-Rede_Bandeirantes_logo_2011.svg.png",BAND SP HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/251
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_bandsports-hd_m.png",BAND SPORTS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/385
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_bandsports-hd_m.png",BAND SPORTS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/387
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_bandsports-hd_m.png",BAND SPORTS SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/386
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_bandsports-hd_m.png",BandSports (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13853
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/1200px-Logo_of_Bis.svg.png",BIS (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13854
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/1200px-Logo_of_Bis.svg.png",BIS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/754
+http://cdn.connectbr.com.br:80/Band-Sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/1200px-Logo_of_Bis.svg.png",BIS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/755
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_of_Bis.svg/1200px-Logo_of_Bis.svg.png",BIS SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/756
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/12/Campeonato_Brasileiro_S%C3%A9rie_D_logo.png",Brasileirão Série D - 01
-http://voz.one:80/alexfnt/vTFBGKdUYq/156032
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/12/Campeonato_Brasileiro_S%C3%A9rie_D_logo.png",Brasileirão Série D - 02
-http://voz.one:80/alexfnt/vTFBGKdUYq/156033
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/12/Campeonato_Brasileiro_S%C3%A9rie_D_logo.png",Brasileirão Série D - 03
-http://voz.one:80/alexfnt/vTFBGKdUYq/156034
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/12/Campeonato_Brasileiro_S%C3%A9rie_D_logo.png",Brasileirão Série D - 04
-http://voz.one:80/alexfnt/vTFBGKdUYq/156035
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/12/Campeonato_Brasileiro_S%C3%A9rie_D_logo.png",Brasileirão Série D - 05
-http://voz.one:80/alexfnt/vTFBGKdUYq/156036
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/12/Campeonato_Brasileiro_S%C3%A9rie_D_logo.png",Brasileirão Série D - 06
-http://voz.one:80/alexfnt/vTFBGKdUYq/156037
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2463
 #EXTINF:-1 tvg-logo="https://s2-gshow.glbimg.com/MIpjFVNq4T7C7LrwS_0k4n6oSig=/0x0:600x338/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png",Cameras BBB - 01
-http://voz.one:80/alexfnt/vTFBGKdUYq/254730
+https://cr7v.short.gy/manotv/BBBc1/Index.m3u8
 #EXTINF:-1 tvg-logo="https://s2-gshow.glbimg.com/MIpjFVNq4T7C7LrwS_0k4n6oSig=/0x0:600x338/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png",Cameras BBB - 02
-http://voz.one:80/alexfnt/vTFBGKdUYq/254731
-#EXTINF:-1 tvg-logo="https://s2-gshow.glbimg.com/MIpjFVNq4T7C7LrwS_0k4n6oSig=/0x0:600x338/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png",Cameras BBB - 03
-http://voz.one:80/alexfnt/vTFBGKdUYq/254732
-#EXTINF:-1 tvg-logo="https://s2-gshow.glbimg.com/MIpjFVNq4T7C7LrwS_0k4n6oSig=/0x0:600x338/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png",Cameras BBB - 04
-http://voz.one:80/alexfnt/vTFBGKdUYq/258180
-#EXTINF:-1 tvg-logo="https://s2-gshow.glbimg.com/MIpjFVNq4T7C7LrwS_0k4n6oSig=/0x0:600x338/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png",Cameras BBB - 05
-http://voz.one:80/alexfnt/vTFBGKdUYq/258181
-#EXTINF:-1 tvg-logo="https://s2-gshow.glbimg.com/MIpjFVNq4T7C7LrwS_0k4n6oSig=/0x0:600x338/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png",Cameras BBB - 06
-http://voz.one:80/alexfnt/vTFBGKdUYq/258182
-#EXTINF:-1 tvg-logo="https://s2-gshow.glbimg.com/MIpjFVNq4T7C7LrwS_0k4n6oSig=/0x0:600x338/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2023/1/5/ZtAT7JTBGH8WXpR5Kmbw/logo-bbb-24.png",Cameras BBB - 07
-http://voz.one:80/alexfnt/vTFBGKdUYq/260488
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/70/Campeonato_Brasileiro_S%C3%A9rie_C_logo.png",Campeonato Brasileiro Série C  (JOGO 3)
-http://voz.one:80/alexfnt/vTFBGKdUYq/156052
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/70/Campeonato_Brasileiro_S%C3%A9rie_C_logo.png",Campeonato Brasileiro Série C (JOGO 1)
-http://voz.one:80/alexfnt/vTFBGKdUYq/156050
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/70/Campeonato_Brasileiro_S%C3%A9rie_C_logo.png",Campeonato Brasileiro Série C (JOGO 2)
-http://voz.one:80/alexfnt/vTFBGKdUYq/156051
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png",Canal Brasil (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13856
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png",CANAL BRASIL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45893
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png",CANAL BRASIL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45880
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png",CANAL BRASIL SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/123637
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png",CANAL DO BOI
-http://voz.one:80/alexfnt/vTFBGKdUYq/45887
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/38/Canalrural.png",CANAL RURAL
-http://voz.one:80/alexfnt/vTFBGKdUYq/56166
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Sony_Channel_LA_2023.png",Canal Sony (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13857
+https://cr7v.short.gy/manotv/BBBc2/Index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Sony_Channel_LA_2023.png",Canal Sony HD
+https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png",CANÇÃO NOVA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/56241
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png",Cartoon Network 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/226
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/625
+https://cdn-1.nxplay.com.br/CANCAO_NOVA_TK/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/626
+https://cdn2.connectbr.com.br/Cartoon-Network/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png",CARTOON NETWORK SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/627
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1000px-Cartoonito_-_Logo_2021.svg.png",Cartoonito (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13855
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1000px-Cartoonito_-_Logo_2021.svg.png",Cartoonito FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/622
+https://cdn-1.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1000px-Cartoonito_-_Logo_2021.svg.png",Cartoonito HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/623
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1000px-Cartoonito_-_Logo_2021.svg.png",Cartoonito SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/624
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png",CartoonNetwork (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13858
-#EXTINF:-1 tvg-logo="https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2023/07/03/1163449859-copacazetv.jpg",CAZE TV
-http://voz.one:80/alexfnt/vTFBGKdUYq/133932
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CBN_logo.svg/1200px-CBN_logo.svg.png",CBN SÃO PAULO
-http://voz.one:80/alexfnt/vTFBGKdUYq/64386
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_chef-tv-brazil_m.png",CHEF TV FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/796
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_chef-tv-brazil_m.png",CHEF TV HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/746
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_chef-tv-brazil_m.png",Chef TV SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65350
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1024px-CinecanalLA.png",CINE CANAL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/432
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1024px-CinecanalLA.png",CINE CANAL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/433
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1024px-CinecanalLA.png",CINE CANAL SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/434
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1920px-Cinemax_2016.svg.png",Cinemax (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13859
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1920px-Cinemax_2016.svg.png",CINEMAX FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/427
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/110684
+#EXTINF:-1 tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png",Caze TV Não é 24h 
+https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1920px-Cinemax_2016.svg.png",CINEMAX HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/428
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1920px-Cinemax_2016.svg.png",CINEMAX SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/429
+http://64.31.40.14:14031/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png",CNN Brasil 4K
 http://voz.one:80/alexfnt/vTFBGKdUYq/89346
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png",CNN BRASIL FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/684
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png",CNN BRASIL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/685
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1024px-CNN_Brasil.svg.png",CNN BRASIL SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/688
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/800px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",CNN ESPANHOL
-http://voz.one:80/alexfnt/vTFBGKdUYq/130688
+https://r-br.nxtv.com.br/CNN_BR/index.m3u8
 #EXTINF:-1 tvg-logo="https://scotteadams.github.io/m3yoyo/tvlogos/308ipcnn.png",CNN INTERNACIONAL
-http://voz.one:80/alexfnt/vTFBGKdUYq/130690
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Combate_logo.svg/1920px-Combate_logo.svg.png",Combate (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13860
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Combate_logo.svg/1920px-Combate_logo.svg.png",Combate 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/227
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Combate_logo.svg/1920px-Combate_logo.svg.png",COMBATE FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/351
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Combate_logo.svg/1920px-Combate_logo.svg.png",COMBATE HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/352
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Combate_logo.svg/1920px-Combate_logo.svg.png",COMBATE SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/353
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png",Comedy Central (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13861
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png",Comedy Central 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/89348
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png",COMEDY CENTRAL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/757
+http://209.222.97.92:16493/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png",COMEDY CENTRAL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/758
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/1920px-Comedy_Central_2018.svg.png",COMEDY CENTRAL SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/759
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/96/CopaDoBrasil.png",COPA DO BRASIL 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/83588
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/96/CopaDoBrasil.png",COPA DO BRASIL 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/89344
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png",COPA DO NORDESTE 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/75034
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png",COPA DO NORDESTE 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/75035
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Curta%21.svg/1280px-Logo_of_Curta%21.svg.png",Curta! FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65384
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/686
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Curta%21.svg/1280px-Logo_of_Curta%21.svg.png",Curta! HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65319
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Curta%21.svg/1280px-Logo_of_Curta%21.svg.png",Curta! SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/761
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/800px-DAZN_Logo_Master.svg.png",DAZN 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/354
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/800px-DAZN_Logo_Master.svg.png",DAZN 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/355
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/800px-DAZN_Logo_Master.svg.png",DAZN 3
-http://voz.one:80/alexfnt/vTFBGKdUYq/356
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/800px-DAZN_Logo_Master.svg.png",DAZN 4
-http://voz.one:80/alexfnt/vTFBGKdUYq/357
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/800px-DAZN_Logo_Master.svg.png",DAZN 5
-http://voz.one:80/alexfnt/vTFBGKdUYq/65282
-#EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/87/38/116771/1/c300.png",DF - Hunter 80s
-http://voz.one:80/alexfnt/vTFBGKdUYq/56136
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/tJJizSdBEPZuqlDzsEUsnsme22h9O6aDkVmPzXal3voz-6ueQDhxAv-aHjvw_UloEOM",DF - HUNTER FM 102.7
-http://voz.one:80/alexfnt/vTFBGKdUYq/34019
-#EXTINF:-1 tvg-logo="https://www.vagalume.com.br/radio/image/radio-hunter-fresh.jpg",DF - Hunter Fresh
-http://voz.one:80/alexfnt/vTFBGKdUYq/56048
-#EXTINF:-1 tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/759eed2ddb7d78b5bc3cc3b3156d0988.jpg",DF - Hunter Gospel
-http://voz.one:80/alexfnt/vTFBGKdUYq/56064
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s309442/images/logod.jpg?t=637849738170000000",DF - Hunter LO-FI
-http://voz.one:80/alexfnt/vTFBGKdUYq/56139
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/8c/6d/8c6dd803d409673caa3edc629db651d4.jpg",DF - Hunter Pisadinha
-http://voz.one:80/alexfnt/vTFBGKdUYq/56137
-#EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/e3/44/110476/2/c300.png",DF - Hunter POP2KS
-http://voz.one:80/alexfnt/vTFBGKdUYq/56049
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s309440/images/logod.jpg?t=638108722160000000",DF - Hunter Rock
-http://voz.one:80/alexfnt/vTFBGKdUYq/56138
-#EXTINF:-1 tvg-logo="https://br.radio.net/images/broadcasts/af/b3/110474/3/c300.png",DF - Hunter Sertanejo
-http://voz.one:80/alexfnt/vTFBGKdUYq/56050
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s291048/images/logod.jpg?t=637849739680000000",DF - Hunter Tropical
-http://voz.one:80/alexfnt/vTFBGKdUYq/56140
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Jovem_Pan_FM_Bras%C3%ADlia_2022.jpg/250px-Jovem_Pan_FM_Bras%C3%ADlia_2022.jpg",DF - Joven Pan FM 106.3
-http://voz.one:80/alexfnt/vTFBGKdUYq/34018
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/46/Logotipo_da_Kiss_FM.png",DF - Kiss FM 102.3
-http://voz.one:80/alexfnt/vTFBGKdUYq/34021
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b8/Transam%C3%A9rica_100.1_FM_logo.png",DF - Transamerica FM 100.1
-http://voz.one:80/alexfnt/vTFBGKdUYq/34020
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png",Discovery Channel (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13862
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png",Discovery Channel 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/228
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png",DISCOVERY CHANNEL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/4
+https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png",DISCOVERY CHANNEL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/5
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/1920px-2019_Discovery_logo.svg.png",DISCOVERY CHANNEL SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/6
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/500px-Discovery_H%26H_Logo_2022.webp.png",Discovery H&H 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/89349
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/500px-Discovery_H%26H_Logo_2022.webp.png",Discovery Home & Health (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13864
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/500px-Discovery_H%26H_Logo_2022.webp.png",DISCOVERY HOME & HEALTH FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/7
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/500px-Discovery_H%26H_Logo_2022.webp.png",DISCOVERY HOME & HEALTH HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/500px-Discovery_H%26H_Logo_2022.webp.png",DISCOVERY HOME & HEALTH SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/9
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/215px-Discovery_Kids_Logo_2021-Presente.webp.png",Discovery Kids (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13865
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/215px-Discovery_Kids_Logo_2021-Presente.webp.png",DISCOVERY KIDS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/628
+https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/215px-Discovery_Kids_Logo_2021-Presente.webp.png",DISCOVERY KIDS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/629
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/215px-Discovery_Kids_Logo_2021-Presente.webp.png",DISCOVERY KIDS SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/662
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/800px-Science_Channel_logo.svg.png",Discovery Science (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13866
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/800px-Science_Channel_logo.svg.png",DISCOVERY SCIENCE FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/10
+https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/800px-Science_Channel_logo.svg.png",DISCOVERY SCIENCE HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/11
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/800px-Science_Channel_logo.svg.png",DISCOVERY SCIENCE SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/12
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1920px-2015_Discovery_theater_HD_logo.svg.png",Discovery Theater (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13867
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1920px-2015_Discovery_theater_HD_logo.svg.png",DISCOVERY THEATER FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/13
+https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1920px-2015_Discovery_theater_HD_logo.svg.png",DISCOVERY THEATER HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/14
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1920px-2015_Discovery_theater_HD_logo.svg.png",DISCOVERY THEATER SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/15
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png",DISCOVERY TLC FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/16
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png",DISCOVERY TLC HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/17
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1280px-TLC_Logo.svg.png",DISCOVERY TLC SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/18
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png",Discovery Turbo (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13868
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png",Discovery Turbo 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/89350
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png",DISCOVERY TURBO FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/19
+https://cdn-1.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png",DISCOVERY TURBO HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/20
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png",DISCOVERY TURBO SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/21
+https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png",Discovery World (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13869
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png",DISCOVERY WORLD FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/22
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png",DISCOVERY WORLD HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/23
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png",DISCOVERY WORLD SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/24
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1280px-2019_Disney_Channel_logo.svg.png",Disney Channel (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13870
+https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1280px-2019_Disney_Channel_logo.svg.png",DISNEY CHANNEL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/630
+http://51.83.238.223:16274/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1280px-2019_Disney_Channel_logo.svg.png",DISNEY CHANNEL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/631
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1280px-2019_Disney_Channel_logo.svg.png",DISNEY CHANNEL SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/632
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/DOGTV_logo.svg/800px-DOGTV_logo.svg.png",DOG TV
-http://voz.one:80/alexfnt/vTFBGKdUYq/45882
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png",E! (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13872
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png",E! FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/762
+http://xciptv.aplicativos.top:80/live/p2puni777/8zksAAJgKEYq/356.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png",E! HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/763
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/1920px-Logo_Eleven_Sports_2020.png",ELEVEN SPORTS 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/49793
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/1920px-Logo_Eleven_Sports_2020.png",ELEVEN SPORTS 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/49794
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/1920px-Logo_Eleven_Sports_2020.png",ELEVEN SPORTS 3
-http://voz.one:80/alexfnt/vTFBGKdUYq/49795
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/1920px-Logo_Eleven_Sports_2020.png",ELEVEN SPORTS 4
-http://voz.one:80/alexfnt/vTFBGKdUYq/49796
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Logo_Eleven_Sports_2020.png/1920px-Logo_Eleven_Sports_2020.png",ELEVEN SPORTS 5
-http://voz.one:80/alexfnt/vTFBGKdUYq/49797
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13874
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN 2 (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13875
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN 2 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/368
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN 2 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/367
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN 2 SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/369
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN 3 (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13876
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN 3 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/361
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN 3 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/360
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN 3 SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/362
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN 4 (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13882
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN 4 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/230
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN 4 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/374
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN 4 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/375
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN 4 SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/376
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/89351
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN Extra (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13873
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN EXTRA FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/388
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN EXTRA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/366
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN EXTRA SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/370
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2471
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/363
+http://51.83.238.223:16515/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/364
+https://cr7v.short.gy/manotv/ESPN/Index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/365
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png",EVANGELIZAR
-http://voz.one:80/alexfnt/vTFBGKdUYq/734
-#EXTINF:-1 tvg-logo="",EVENTOS EXTRAS
-http://voz.one:80/alexfnt/vTFBGKdUYq/134246
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/FashionTV2019novo.png/800px-FashionTV2019novo.png",FASHION TV HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/64387
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png",FILM & ART FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45891
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Film%26Arts2016.png",FILM & ART HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45878
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/1920px-Fish_TV_logo_2022.svg.png",Fish TV (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13877
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/1920px-Fish_TV_logo_2022.svg.png",FISH TV FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/25
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/1920px-Fish_TV_logo_2022.svg.png",FISH TV HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/26
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fish_TV_logo_2022.svg/1920px-Fish_TV_logo_2022.svg.png",FISH TV SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/27
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png",FOOD NETWORK FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/749
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/231647
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN 2 HD
+http://capivara.top:80/play/YmztvPOUaQu6G_uK8dDscH2uzXzheGcubxdV6JAgZevtbWdu59HfH3xecThTT4UD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN 3 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/218
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN 4 FHD
+http://51.83.238.223:16575/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1920px-ESPN_wordmark.svg.png",ESPN 4 HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/224
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png",FOOD NETWORK HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/748
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png",FOOD NETWORK SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/750
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_2016.png",FoodNetwork (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13878
+https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/1920px-F1.svg.png",FORMULA 1 TV
 http://voz.one:80/alexfnt/vTFBGKdUYq/93637
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/800px-Fox_News_Channel_logo.svg.png",FOX NEWS
-http://voz.one:80/alexfnt/vTFBGKdUYq/130689
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/800px-Fox_News_Channel_logo.svg.png",Fox Sports 2 (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13883
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1280px-2015_Fox_sports_logo.svg.png",FOX SPORTS 2 FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/371
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1280px-2015_Fox_sports_logo.svg.png",FOX SPORTS 2 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/372
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1280px-2015_Fox_sports_logo.svg.png",FOX SPORTS 2 SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/373
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d9/Logo-futura-horizontal.png",FUTURA
-http://voz.one:80/alexfnt/vTFBGKdUYq/256
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d9/Logo-futura-horizontal.png",FUTURA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/255
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png",FX (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13884
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png",FX FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/442
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/118751
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d9/Logo-futura-horizontal.png",Futura HD
+https://tv.unisc.br/hls/test.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png",FX HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/443
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png",FX SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/444
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1920px-TV_Gazeta.svg.png",Gazeta 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/222
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/231
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO AMAZONICA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65220
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO ASA BRANCA
-http://voz.one:80/alexfnt/vTFBGKdUYq/64229
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO BAHIA FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45836
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO BAHIA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45837
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO BAHIA SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/64231
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b8/Logotipo_da_Rede_Liberal.png",GLOBO BELEM
-http://voz.one:80/alexfnt/vTFBGKdUYq/64234
+http://199.127.60.83:16043/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1024px-FX_International_logo.svg.png",FX HD [Alter]
+http://64.31.40.14:14043/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1920px-TV_Gazeta.svg.png",Gazeta HD
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b8/Logotipo_da_Rede_Liberal.png",GLOBO BELEM HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/64233
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO BRASILIA FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45863
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO BRASILIA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/95986
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO BRASILIA SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/95987
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO CABO BRANCO FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65243
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO CENTRO AMERICA FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65221
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO CENTRO AMERICA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65222
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO CENTRO AMERICA SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45919
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO EPTV CAMPINAS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45819
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO EPTV CAMPINAS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45818
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO EPTV CAMPINAS SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45849
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO EPTV RIBEIRAO PRETO
-http://voz.one:80/alexfnt/vTFBGKdUYq/45850
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO EPTV SAO CARLOS
-http://voz.one:80/alexfnt/vTFBGKdUYq/65225
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO EPTV SUL DE MINAS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45824
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO EPTV SUL DE MINAS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65223
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO EPTV SUL DE MINAS SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65224
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO FLORIANOPOLIS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45869
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO GAZETA ALAGOAS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/58825
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO GAZETA ALAGOAS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/58824
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO GAZETA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65265
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO GAZETA SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65266
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO GAZETA SUL ES
-http://voz.one:80/alexfnt/vTFBGKdUYq/65267
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO GAZETA VITORIA
-http://voz.one:80/alexfnt/vTFBGKdUYq/65268
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO GAZETA VITORIA FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/58819
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO GAZETA VITORIA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/58820
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO INTEGRAÇÃO JF HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45847
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO INTEGRAÇÃO UBERLANDIA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45846
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO INTER DOS VALES
-http://voz.one:80/alexfnt/vTFBGKdUYq/45843
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO INTER GRANDE MINAS
-http://voz.one:80/alexfnt/vTFBGKdUYq/65270
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO INTER TV ALTO LITORAL
-http://voz.one:80/alexfnt/vTFBGKdUYq/65227
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO INTER TV GRANDE MINAS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65228
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO INTER TV GRANDE MINAS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65229
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO INTER VALE MG HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45842
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO INTERNACIONAL
-http://voz.one:80/alexfnt/vTFBGKdUYq/45802
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO JUAZEIRO BAHIA
-http://voz.one:80/alexfnt/vTFBGKdUYq/47696
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO MINAS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45864
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO MINAS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45852
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO MINAS SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45868
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo News 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/89352
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO NEWS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/691
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO NEWS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/692
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO NEWS SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/693
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO NORDESTE FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45844
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO NORDESTE HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45845
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO NORDESTE SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45853
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO NOW
-http://voz.one:80/alexfnt/vTFBGKdUYq/66659
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO NSC BLUMENAU FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/58823
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO NSC FLORIANOPOLIS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/95988
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO NSC FLORIANOPOLIS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/64222
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO NSC FLORIANOPOLIS SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65231
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO NSC JOINVILLE
-http://voz.one:80/alexfnt/vTFBGKdUYq/64240
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO NSC JOINVILLE FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/57831
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO NSC JOINVILLE HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/57832
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO NSC SANTA CATARINA
-http://voz.one:80/alexfnt/vTFBGKdUYq/45813
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO NSC TV CHAPECO FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/57830
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO NSC TV CHAPECO HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/57829
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO NSC TV CRICIUMA
-http://voz.one:80/alexfnt/vTFBGKdUYq/65232
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RBS PASSO FUNDO FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/57828
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RBS PASSO FUNDO HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/57827
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RBS PELOTAS
-http://voz.one:80/alexfnt/vTFBGKdUYq/45828
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RBS PELOTAS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45829
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RBS POA FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65234
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RBS POA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45806
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RBS POA SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45857
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RBS TV
-http://voz.one:80/alexfnt/vTFBGKdUYq/65233
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RBS TV CAXIAS DO SUL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45827
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RBS TV CAXIAS DO SUL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45826
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RBS TV CAXIAS DO SUL SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/64232
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo RBS TV SANTA MARIA FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45873
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo RBS TV SANTA MARIA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/64220
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo RBS TV SANTA MARIA SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/64221
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RECIFE
-http://voz.one:80/alexfnt/vTFBGKdUYq/45809
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO REDE AMAZONICA FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65235
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO REDE AMAZONICA FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/47700
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO REDE AMAZONICA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/47699
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RIO SUL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/64226
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RIO SUL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/64225
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RIO SUL SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45866
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RJ
-http://voz.one:80/alexfnt/vTFBGKdUYq/65236
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RJ ALTO LITORAL
-http://voz.one:80/alexfnt/vTFBGKdUYq/134001
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RJ FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45817
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RJ FHD (INTERIOR)
-http://voz.one:80/alexfnt/vTFBGKdUYq/45841
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RJ HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45803
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RJ HD (INTERIOR)
-http://voz.one:80/alexfnt/vTFBGKdUYq/45840
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RJ PLANICE
-http://voz.one:80/alexfnt/vTFBGKdUYq/134000
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RJ SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45854
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RPC CASCAVEL FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/47698
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RPC CASCAVEL HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/47697
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RPC CURITIBA FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/56240
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RPC CURITIBA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45814
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RPC CURITIBA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/56239
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RPC CURITIBA SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45858
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RPC FOZ DO IGUAÇU FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45833
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RPC FOZ DO IGUAÇU HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45872
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO RPC MARIGNA FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65237
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo Santa Cruz Bahia FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/64235
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo Santa Cruz Bahia HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45808
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo Santa Cruz Bahia SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/64236
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO SERGIPE FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/64237
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO SERGIPE HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45804
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO SERGIPE SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/64238
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO SJ RIO PRETO
-http://voz.one:80/alexfnt/vTFBGKdUYq/65248
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO SJ RIO PRETO HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/75009
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO SJ RIO PRETO SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/75010
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO SP FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45859
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO SP HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45805
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO SP SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45855
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO SP SD²
-http://voz.one:80/alexfnt/vTFBGKdUYq/65238
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo Sudoeste Bahia
-http://voz.one:80/alexfnt/vTFBGKdUYq/47695
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TRIBUNA SANTOS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45839
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TRIBUNA SANTOS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45838
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TRIBUNA SANTOS SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/64230
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV ANHANGUERA FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65239
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV ANHANGUERA FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/58821
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV ANHANGUERA GOIANIA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/58818
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV ANHANGUERA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/58822
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV Bahia SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45917
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV BAURU FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65260
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV BAURU HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65261
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV BAURU SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65262
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo TV Brasilia HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65241
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo TV Brasilia SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65242
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV CABUGI FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/58813
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV CABUGI HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/58814
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV CLUBE PIAUI HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65217
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV DIARIO FORTALEZA
-http://voz.one:80/alexfnt/vTFBGKdUYq/134002
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV DIARIO HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45895
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV DIARIO MOGI
-http://voz.one:80/alexfnt/vTFBGKdUYq/134003
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b8/Logotipo_da_Rede_Liberal.png",GLOBO TV LIBERAL BELEM
-http://voz.one:80/alexfnt/vTFBGKdUYq/65240
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV MIRANTE COCAIS
-http://voz.one:80/alexfnt/vTFBGKdUYq/64227
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV MIRANTE SÃO LUIS
-http://voz.one:80/alexfnt/vTFBGKdUYq/64228
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV MIRANTE SÃO LUIS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45865
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo TV Morena FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65244
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV MORENA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65245
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV MORENA SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65246
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV PORTO VELHO
-http://voz.one:80/alexfnt/vTFBGKdUYq/133935
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV RECIFE HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65247
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV REDE AMAZONICA MANAUS
-http://voz.one:80/alexfnt/vTFBGKdUYq/64223
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV REDE AMAZONICA MANAUS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45867
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV REDE AMAZONICA MANAUS SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/64224
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV SOROCABA HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65249
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV SOROCABA SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45925
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO TV UBERABA
-http://voz.one:80/alexfnt/vTFBGKdUYq/134245
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",Globo TV Vanguarda
-http://voz.one:80/alexfnt/vTFBGKdUYq/112124
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO VERDES MARES FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45821
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO VERDES MARES HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65250
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png",GLOBO VERDES MARES SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65251
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png",GloboNews (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13885
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2366
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png",GloboNews FHD
+http://209.222.97.92:16436/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Logotipo_da_GloboNews.png",GloboNews HD
+http://sport.xphost19.xyz:2082/Jvyct679999967DDDF4477/Xpluxxx3333ggghy5t57/24
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gloob_2022.svg/1920px-Gloob_2022.svg.png",Gloob (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13886
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gloob_2022.svg/1920px-Gloob_2022.svg.png",GLOOB FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/639
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gloob_2022.svg/1920px-Gloob_2022.svg.png",GLOOB HD
-https://d31ii3fk8fd7mh.cloudfront.net/out/v1/6d0de306743f49a39b0bb146a6b978f3/index.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gloob_2022.svg/1920px-Gloob_2022.svg.png",GLOOB SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/641
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/1200px-Gloobinho_logo.svg.png",GLOOBINHO FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/668
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/379
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/1200px-Gloobinho_logo.svg.png",GLOOBINHO HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/642
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/1200px-Gloobinho_logo.svg.png",GLOOBINHO SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/663
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1280px-GNT_logo-roxo.svg.png",GNT (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13887
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1280px-GNT_logo-roxo.svg.png",GNT 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/89353
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1280px-GNT_logo-roxo.svg.png",GNT FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/766
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/383
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1280px-GNT_logo-roxo.svg.png",GNT HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/765
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1280px-GNT_logo-roxo.svg.png",GNT SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/767
-#EXTINF:-1 tvg-logo="https://canalgoat.com.br/img/logo-composite.png",GOAT - HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/252460
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2483
+#EXTINF:-1 tvg-logo="https://canalgoat.com.br/img/logo-composite.png",GOAT N é 24h 
+https://ythls.armelin.one/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png",H2 (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13894
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png",H2 FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/29
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png",H2 HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/30
+http://cdn.connectbr.com.br/h2/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/800px-History2Logo2019.png",H2 SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/31
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png",HBO (H265)
