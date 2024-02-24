@@ -33,7 +33,7 @@ https://cdn2.connectbr.com.br/Cartoon-Network/index.m3u8
 https://cdn-1.nxplay.com.br/CARTOON_NETWORK_TK/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/1000px-Cartoonito_-_Logo_2021.svg.png",Cartoonito HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/110684
-#EXTINF:-1 tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png",Caze TV Não é 24h 
+#EXTINF:-1 tvg-logo="https://www.imagensempng.com.br/wp-content/uploads/2023/08/2372.png",Caze TV Não é 24h
 https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1920px-Cinemax_2016.svg.png",CINEMAX HD
 http://64.31.40.14:14031/
@@ -113,7 +113,7 @@ http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/379
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/383
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1280px-GNT_logo-roxo.svg.png",GNT HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2483
-#EXTINF:-1 tvg-logo="https://canalgoat.com.br/img/logo-composite.png",GOAT N é 24h 
+#EXTINF:-1 tvg-logo="https://canalgoat.com.br/img/logo-composite.png",GOAT N é 24h
 https://ythls.armelin.one/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png",HBO HD
 http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/18753
@@ -133,140 +133,40 @@ https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
 https://cdn-1.nxplay.com.br/HGTV_BR_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/800px-History_%282021%29.svg.png",HISTORY CHANNEL HD
 https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png",ID - INVESTIGAÇÃO DISCOVERY (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13895
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png",ID - INVESTIGAÇÃO DISCOVERY FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/35
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png",ID - INVESTIGAÇÃO DISCOVERY HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/37
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/ID_-_Investiga%C3%A7%C3%A3o_Discovery.png",ID - INVESTIGAÇÃO DISCOVERY SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/36
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/IURD_logo.svg/2560px-IURD_logo.svg.png",Igreja Mundial FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65393
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/IURD_logo.svg/2560px-IURD_logo.svg.png",Igreja Universal HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65394
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png",JP NEWS 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/71487
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png",JP NEWS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/71488
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png",JP NEWS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/64284
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Jovem_Pan_News_logo_2022.png",JP NEWS SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/64283
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",Lifetime (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13896
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",LIFETIME FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/445
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",LIFETIME HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/446
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",LIFETIME SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/447
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ee/LogoLNF.png",LIGA FUTSAL 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/65297
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ee/LogoLNF.png",LIGA FUTSAL 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/65296
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ee/LogoLNF.png",LIGA FUTSAL 3
-http://voz.one:80/alexfnt/vTFBGKdUYq/65295
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ee/LogoLNF.png",LIGA FUTSAL 4
-http://voz.one:80/alexfnt/vTFBGKdUYq/46133
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",LOVE NATURE
-http://voz.one:80/alexfnt/vTFBGKdUYq/96150
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png",Megapix (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13901
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png",Megapix 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/233
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png",MEGAPIX FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/448
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempan-klowdtv/playlist.m3u8?ManoTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png",Lifetime HD
+http://cdn.connectbr.com.br:80/Lifetime/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png",MEGAPIX HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/449
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png",MEGAPIX SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/450
-#EXTINF:-1 tvg-logo="https://www.98fmuberaba.com.br/wa_images/logos-98-fm-500x500_1.png",MG - 98.0 FM
-http://voz.one:80/alexfnt/vTFBGKdUYq/34042
-#EXTINF:-1 tvg-logo="https://imprensaemidia.com.br/wp-content/uploads/2020/10/Cultura-fm.jpg",MG - Cultura FM 95.1
-http://voz.one:80/alexfnt/vTFBGKdUYq/34044
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s7034/images/logod.png",MG - Itatiaia FM 95.7
-http://voz.one:80/alexfnt/vTFBGKdUYq/34043
-#EXTINF:-1 tvg-logo="",MODO VIAGEM FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65334
-#EXTINF:-1 tvg-logo="",MODO VIAGEM HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65335
-#EXTINF:-1 tvg-logo="",MODO VIAGEM SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65336
-#EXTINF:-1 tvg-logo="",MTV (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13902
-#EXTINF:-1 tvg-logo="",MTV 00s HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65333
-#EXTINF:-1 tvg-logo="",MTV FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/771
-#EXTINF:-1 tvg-logo="",MTV HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/790
-#EXTINF:-1 tvg-logo="",MTV Live FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65330
-#EXTINF:-1 tvg-logo="",MTV Live HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65331
-#EXTINF:-1 tvg-logo="",MTV Live SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65332
-#EXTINF:-1 tvg-logo="",MTV SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/773
-#EXTINF:-1 tvg-logo="",Multishow (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13903
-#EXTINF:-1 tvg-logo="",Multishow 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/235
-#EXTINF:-1 tvg-logo="",MULTISHOW FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/774
-#EXTINF:-1 tvg-logo="",MULTISHOW HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/775
-#EXTINF:-1 tvg-logo="",MULTISHOW SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/776
-#EXTINF:-1 tvg-logo="",Music Box Brasil FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65326
-#EXTINF:-1 tvg-logo="",Music Box Brasil HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45888
-#EXTINF:-1 tvg-logo="",Music Box Brasil SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65327
-#EXTINF:-1 tvg-logo="",Music Top HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65328
-#EXTINF:-1 tvg-logo="",NatGeo (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13904
-#EXTINF:-1 tvg-logo="",NATGEO HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/39
-#EXTINF:-1 tvg-logo="",NatGeo Wild (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13905
-#EXTINF:-1 tvg-logo="",NATIONAL GEOGRAPHIC FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/41
-#EXTINF:-1 tvg-logo="",NATIONAL GEOGRAPHIC HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/42
-#EXTINF:-1 tvg-logo="",NATIONAL GEOGRAPHIC SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/43
-#EXTINF:-1 tvg-logo="",National Geographics 4K
-http://voz.one:80/alexfnt/vTFBGKdUYq/234
-#EXTINF:-1 tvg-logo="",NBA - 01
-http://voz.one:80/alexfnt/vTFBGKdUYq/258288
-#EXTINF:-1 tvg-logo="",NBA - 02
-http://voz.one:80/alexfnt/vTFBGKdUYq/258289
-#EXTINF:-1 tvg-logo="",NBA - 03
-http://voz.one:80/alexfnt/vTFBGKdUYq/258290
-#EXTINF:-1 tvg-logo="",NBA - 04
-http://voz.one:80/alexfnt/vTFBGKdUYq/258291
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Eu1EH6fXEAM3b7k.jpg",Nick Clássico
-https://tvembed.net/nick-classico/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="",NICK JR FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/646
-#EXTINF:-1 tvg-logo="",NICK JR HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/647
-#EXTINF:-1 tvg-logo="",NICK JR SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/648
-#EXTINF:-1 tvg-logo="",Nickelodeon (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13907
-#EXTINF:-1 tvg-logo="",NICKELODEON FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/649
-#EXTINF:-1 tvg-logo="",NICKELODEON HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/650
-#EXTINF:-1 tvg-logo="",NICKELODEON SD
-http://voz.one:80/alexfnt/vTFBGKdUYq/651
-#EXTINF:-1 tvg-logo="",NickJr (H265)
-http://voz.one:80/alexfnt/vTFBGKdUYq/13908
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/691
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png",MEGAPIX HD [Alter]
+http://64.31.40.14:14048/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oHVMcJ9.png",MTV Are you the One?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.viaway.com/23961275_640.png",MTV Biggest Pop
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65aa3200-f9bd-11eb-8aa4-9fbe6c9efd24&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=93901adb-1cd6-4054-9f35-6f3746b30848&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png",MTV Catfish
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2a3502d84a0007cec817/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png",MTV Com o Ex
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png",MTV Drag
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645111f1d8436e00081bb2bd/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png",MTV Jovens e Mães
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620fdc7d8a36fc000710e3ba/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-logo="https://videoflix.website/uploads/png/506192b9d66737a5f10ab175af89ed4c.png",MTV Pluto TV
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=0452bc54-0c9a-11ec-abd1-0242ac110003&sid=0452bc54-0c9a-11ec-abd1-0242ac110003&userId=
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png",MTV Shore
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625463563b8ddc0007134aeb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2022/09/08/MTV_SpankinNEW_Channel_1080x1080_Square-tqfmc8s5.png",MTV Spankin' New
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-logo="https://imgur.com/a4lEiwk.png",MULTISHOW FHD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2516
+#EXTINF:-1 tvg-logo="https://imgur.com/a4lEiwk.png",MULTISHOW HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/2515
+#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKJR.png",Nick jr. HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/367
+#EXTINF:-1 tvg-logo="http://app.tvdigital.link:2095/logoscanais/NICKELODEON.png",Nickelodeon HD
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/372
 #EXTINF:-1 tvg-logo="",NOSSO FUTEBOL - 01
 http://voz.one:80/alexfnt/vTFBGKdUYq/131015
 #EXTINF:-1 tvg-logo="",NOSSO FUTEBOL - 02
@@ -870,9 +770,7 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/95721
 #EXTINF:-1 tvg-logo="",[24H] Capitão Caverna
 http://voz.one:80/alexfnt/vTFBGKdUYq/95712
 #EXTINF:-1 tvg-logo="",[24H] Caverna do Dragão
-http://voz.one:80/alexfnt/vTFBGKdUYq/95660
-#EXTINF:-1 tvg-logo="",[24H] Caverna do dragão
-http://voz.one:80/alexfnt/vTFBGKdUYq/95723
+http://24hrs.homelinux.com:80/24H-Caverna.do.dragao.S01E01/playlist.m3u8
 #EXTINF:-1 tvg-logo="",[24H] Central Kids
 http://voz.one:80/alexfnt/vTFBGKdUYq/95724
 #EXTINF:-1 tvg-logo="",[24H] Chapolin colorado
