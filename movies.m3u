@@ -12,6 +12,8 @@ http://sandrostoreps3.000webhostapp.com/LISTAS/FILMES/CORRIDA.m3u
 http://sandrostoreps3.000webhostapp.com/LISTAS/FILMES/GUERRA.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/POSTER-MENU/FILMES/LUTA-FILMES.png", Luta | Artes Marciais 
 http://sandrostoreps3.000webhostapp.com/LISTAS/FILMES/LUTA.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="", Infantis | Animações 
+https://raw.githubusercontent.com/CaduPS2/teste-de-Tv/main/filmes%20infantis.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/POSTER-MENU/FILMES/ROMANCE-FILMES.png", Romance | Drama
 http://sandrostoreps3.000webhostapp.com/LISTAS/FILMES/ROMANCE.m3u
 #EXTINF:-1 tvg-id="" tvg-name="LANÇAMENTOS" tvg-logo="https://raw.githubusercontent.com/SandroStorePlay/M3ULISTSANDROPLAY/main/POSTER-MENU/FILMES/FICCAO-FILMES.png", Ficção | Ciência
