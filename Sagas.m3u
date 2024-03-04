@@ -2,3 +2,6 @@
 
 #EXTINF:-1 group-title=""tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0c/Marvel_Cinematic_Universe_logo.png",Universo Cinematográfico Marvel
 https://raw.githubusercontent.com/CaduPS2/teste-de-Tv/main/Marvel.m3u
+
+#EXTINF:-1 group-title=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Barbie_Logo.svg/2560px-Barbie_Logo.svg.png",Barbie
+https://raw.githubusercontent.com/CaduPS2/teste-de-Tv/main/Barbie.m3u
