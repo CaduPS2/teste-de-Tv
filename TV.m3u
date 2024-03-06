@@ -1,4 +1,1269 @@
-﻿#EXTM3U
-
-#EXTINF:-1 group-title=""tvg-logo="https://www.parquedadevesa.com/op/image/?co=19486&h=f92a9",Barbie - 2023
-https://1lb11.dnstreaming.online/vauth/Od9IRUvKub1aEqBEcvi64N5XIkUbXPXPWxr6qkmybC6fYgHtUIYeDiR2dEMkhSl_QqAk0AnKwccOrf6mgKMTi8qdEkSX-mYKJEp6wEjiYQESX9w1pn6kDtGSEkG98uFnGxcj-eYSEP8VyFvtqhzIGPJD_bP-Lrl9D5_NgEBSdhVWf3tf2IQbLFx2K6oKCKik-9Q_tLIvyKGy4v9KPaindAjpH9-CUak0ovP-_H8V0XTK_lCt_zEWRFX1_pXKiUiS4h2eN4eTEDdcsk4I4AUNGgAsGYcmqyEIdTzmgVz0TbMitFrNJoPJmH4BYnmflKl-glaiigKQNM6bEy0PpPTSEIPRR4Nc7KWLLQ0tdCMvvk3jJqgoNWQ3IKkJuY50cs49tg23URj8nD4Pdt-RZUJtDXFncWkx6zUoKLhsQlD-j5YaZHw-6IqbY29ki7Xl3G3euTClJpOGLMjgHZOqZDzGrz4POb9Df6EA-oTV2NWXAy0Qz46hnZfxZnCC99SuuJES3SsSZ96S-Nl8RAwVVs9r4dlYZlNF3Vt4aM9irjdX-zkNXZeAKh3OfvJJLaS4qgJDC2naL1e00SUCJJvKpyb32zmC-7tfFyQtUwynq2hhrgFxyXOOgTE2RrEK27ITjCRwm6baHcFbNXx4r_Zcg1W7eUwuewWLGDADLsqveqfdNOU
+#EXTM3U
+#EXTINF:-1 tvg-id="Globo São Paulo" tvg-name="Globo SP HD-A" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo SP HD-A
+http://pingotv.app:80/cadu6768/42166768/398
+#EXTINF:-1 tvg-id="Globo SP SD" tvg-name="Globo SP HD-B" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo SP HD-B
+http://pingotv.app:80/cadu6768/42166768/30637
+#EXTINF:-1 tvg-id="Globo São Paulo" tvg-name="Globo SP FHD-A" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo SP FHD-A
+http://pingotv.app:80/cadu6768/42166768/6739
+#EXTINF:-1 tvg-id="Globo SP HD" tvg-name="Globo SP FHD-B" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo SP FHD-B
+http://pingotv.app:80/cadu6768/42166768/30638
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo RJ HD-A" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo RJ HD-A
+http://pingotv.app:80/cadu6768/42166768/393
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ HD-B" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo RJ HD-B
+http://pingotv.app:80/cadu6768/42166768/30635
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="Globo RJ FHD-A" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo RJ FHD-A
+http://pingotv.app:80/cadu6768/42166768/6740
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ FHD-B" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo RJ FHD-B
+http://pingotv.app:80/cadu6768/42166768/30636
+#EXTINF:-1 tvg-id="RBS TV Porto Alegre" tvg-name="Globo RS HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo RS HD
+http://pingotv.app:80/cadu6768/42166768/395
+#EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="Globo MG HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo MG HD
+http://pingotv.app:80/cadu6768/42166768/386
+#EXTINF:-1 tvg-id="InterTVGrandeMinas.br" tvg-name="Globo MG FHD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo MG FHD
+http://pingotv.app:80/cadu6768/42166768/6738
+#EXTINF:-1 tvg-id="RPCTVCuritiba.br" tvg-name="Globo PR HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo PR HD
+http://pingotv.app:80/cadu6768/42166768/392
+#EXTINF:-1 tvg-id="RPCTVCuritiba.br" tvg-name="Globo PR FHD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo PR FHD
+http://pingotv.app:80/cadu6768/42166768/6741
+#EXTINF:-1 tvg-id="NSCTVFlorianopolis.br" tvg-name="Globo SC HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo SC HD
+http://pingotv.app:80/cadu6768/42166768/396
+#EXTINF:-1 tvg-id="" tvg-name="Globo SC [Criciúma] HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo SC [Criciúma] HD
+http://pingotv.app:80/cadu6768/42166768/3724
+#EXTINF:-1 tvg-id="" tvg-name="Globo SC [Joinville] HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo SC [Joinville] HD
+http://pingotv.app:80/cadu6768/42166768/6195
+#EXTINF:-1 tvg-id="" tvg-name="Globo SC [Chapecó] HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo SC [Chapecó] HD
+http://pingotv.app:80/cadu6768/42166768/31694
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ [Alto Litoral] HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo RJ [Alto Litoral] HD
+http://pingotv.app:80/cadu6768/42166768/6194
+#EXTINF:-1 tvg-id="InterTVSerraPlusMar.br" tvg-name="Globo RJ [Serra Mar] HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo RJ [Serra Mar] HD
+http://pingotv.app:80/cadu6768/42166768/810
+#EXTINF:-1 tvg-id="" tvg-name="Globo MG [Juiz de Fora] HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo MG [Juiz de Fora] HD
+http://pingotv.app:80/cadu6768/42166768/1806
+#EXTINF:-1 tvg-id="EPTV Sul de Minas HD" tvg-name="Globo MG [Sul Minas] HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo MG [Sul Minas] HD
+http://pingotv.app:80/cadu6768/42166768/29930
+#EXTINF:-1 tvg-id="" tvg-name="Globo MG [Vales] HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo MG [Vales] HD
+http://pingotv.app:80/cadu6768/42166768/26356
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP [Bauru] HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo SP [Bauru] HD
+http://pingotv.app:80/cadu6768/42166768/441
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP [Campinas] HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo SP [Campinas] HD
+http://pingotv.app:80/cadu6768/42166768/447
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP [Ribeirão Preto] HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo SP [Ribeirão Preto] HD
+http://pingotv.app:80/cadu6768/42166768/449
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP [Santos] HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo SP [Santos] HD
+http://pingotv.app:80/cadu6768/42166768/443
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP [S.J. do Rio Preto] HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo SP [S.J. do Rio Preto] HD
+http://pingotv.app:80/cadu6768/42166768/445
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP [S.J. dos Campos] HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo SP [S.J. dos Campos] HD
+http://pingotv.app:80/cadu6768/42166768/446
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP [Sorocaba] HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo SP [Sorocaba] HD
+http://pingotv.app:80/cadu6768/42166768/442
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP [Pres. Prudente] HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo SP [Pres. Prudente] HD
+http://pingotv.app:80/cadu6768/42166768/448
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP [São Carlos] HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo SP [São Carlos] HD
+http://pingotv.app:80/cadu6768/42166768/450
+#EXTINF:-1 tvg-id="" tvg-name="Globo SP [Taubaté] HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo SP [Taubaté] HD
+http://pingotv.app:80/cadu6768/42166768/444
+#EXTINF:-1 tvg-id="AXN Movies" tvg-name="Globo AL HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo AL HD
+http://pingotv.app:80/cadu6768/42166768/378
+#EXTINF:-1 tvg-id="RedeAmazonicaManaus.br" tvg-name="Globo AM HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo AM HD
+http://pingotv.app:80/cadu6768/42166768/379
+#EXTINF:-1 tvg-id="RedeAmazonica.br" tvg-name="Globo AP HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo AP HD
+http://pingotv.app:80/cadu6768/42166768/440
+#EXTINF:-1 tvg-id="TVBahia.br" tvg-name="Globo BA HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo BA HD
+http://pingotv.app:80/cadu6768/42166768/380
+#EXTINF:-1 tvg-id="TVVerdesMares.br" tvg-name="Globo CE HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo CE HD
+http://pingotv.app:80/cadu6768/42166768/381
+#EXTINF:-1 tvg-id="TVGloboBrasilia.br" tvg-name="Globo DF HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo DF HD
+http://pingotv.app:80/cadu6768/42166768/382
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="Globo ES HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo ES HD
+http://pingotv.app:80/cadu6768/42166768/383
+#EXTINF:-1 tvg-id="TVAnhangueraGoiania.br" tvg-name="Globo GO HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo GO HD
+http://pingotv.app:80/cadu6768/42166768/384
+#EXTINF:-1 tvg-id="" tvg-name="Globo MA HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo MA HD
+http://pingotv.app:80/cadu6768/42166768/385
+#EXTINF:-1 tvg-id="" tvg-name="Globo MS HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo MS HD
+http://pingotv.app:80/cadu6768/42166768/387
+#EXTINF:-1 tvg-id="TVCentroAmericaCuiaba.br" tvg-name="Globo MT HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo MT HD
+http://pingotv.app:80/cadu6768/42166768/388
+#EXTINF:-1 tvg-id="TVLiberal.br" tvg-name="Globo PA HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo PA HD
+http://pingotv.app:80/cadu6768/42166768/389
+#EXTINF:-1 tvg-id="TVCaboBranco.br" tvg-name="Globo PB HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo PB HD
+http://pingotv.app:80/cadu6768/42166768/390
+#EXTINF:-1 tvg-id="TVGloboNordeste.br" tvg-name="Globo PE HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo PE HD
+http://pingotv.app:80/cadu6768/42166768/391
+#EXTINF:-1 tvg-id="" tvg-name="Globo PE [Caruaru] HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo PE [Caruaru] HD
+http://pingotv.app:80/cadu6768/42166768/6223
+#EXTINF:-1 tvg-id="TVClube.br" tvg-name="Globo PI HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo PI HD
+http://pingotv.app:80/cadu6768/42166768/787
+#EXTINF:-1 tvg-id="InterTVCabugi.br" tvg-name="Globo RN HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo RN HD
+http://pingotv.app:80/cadu6768/42166768/394
+#EXTINF:-1 tvg-id="TVSergipe.br" tvg-name="Globo SE HD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS GLOBO",Globo SE HD
+http://pingotv.app:80/cadu6768/42166768/397
+#EXTINF:-1 tvg-id="Band" tvg-name="Band SP HD" tvg-logo="http://pingotv.app:80/images/574ff4699083ce51de0dabcfad5edc4c.jpg" group-title="CANAIS ABERTOS",Band SP HD
+http://pingotv.app:80/cadu6768/42166768/154
+#EXTINF:-1 tvg-id="Band RJ" tvg-name="Band RJ HD" tvg-logo="http://pingotv.app:80/images/574ff4699083ce51de0dabcfad5edc4c.jpg" group-title="CANAIS ABERTOS",Band RJ HD
+http://pingotv.app:80/cadu6768/42166768/296
+#EXTINF:-1 tvg-id="" tvg-name="Band DF HD" tvg-logo="http://pingotv.app:80/images/574ff4699083ce51de0dabcfad5edc4c.jpg" group-title="CANAIS ABERTOS",Band DF HD
+http://pingotv.app:80/cadu6768/42166768/153
+#EXTINF:-1 tvg-id="BandCuritiba.br" tvg-name="Band PR HD" tvg-logo="http://pingotv.app:80/images/574ff4699083ce51de0dabcfad5edc4c.jpg" group-title="CANAIS ABERTOS",Band PR HD
+http://pingotv.app:80/cadu6768/42166768/152
+#EXTINF:-1 tvg-id="BandBahia.br" tvg-name="Band PA HD" tvg-logo="http://pingotv.app:80/images/574ff4699083ce51de0dabcfad5edc4c.jpg" group-title="CANAIS ABERTOS",Band PA HD
+http://pingotv.app:80/cadu6768/42166768/300
+#EXTINF:-1 tvg-id="" tvg-name="Band Nordeste HD" tvg-logo="http://pingotv.app:80/images/574ff4699083ce51de0dabcfad5edc4c.jpg" group-title="CANAIS ABERTOS",Band Nordeste HD
+http://pingotv.app:80/cadu6768/42166768/20754
+#EXTINF:-1 tvg-id="" tvg-name="Band SP [Campinas] HD" tvg-logo="http://pingotv.app:80/images/574ff4699083ce51de0dabcfad5edc4c.jpg" group-title="CANAIS ABERTOS",Band SP [Campinas] HD
+http://pingotv.app:80/cadu6768/42166768/297
+#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT SP HD" tvg-logo="http://pingotv.app:80/images/eadc1bacb17aea28d29fefc19868b5e1.jpg" group-title="CANAIS ABERTOS",SBT SP HD
+http://pingotv.app:80/cadu6768/42166768/19609
+#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT SP FHD" tvg-logo="http://pingotv.app:80/images/eadc1bacb17aea28d29fefc19868b5e1.jpg" group-title="CANAIS ABERTOS",SBT SP FHD
+http://pingotv.app:80/cadu6768/42166768/284
+#EXTINF:-1 tvg-id="SBTRio.br" tvg-name="SBT RJ HD" tvg-logo="http://pingotv.app:80/images/eadc1bacb17aea28d29fefc19868b5e1.jpg" group-title="CANAIS ABERTOS",SBT RJ HD
+http://pingotv.app:80/cadu6768/42166768/130
+#EXTINF:-1 tvg-id="" tvg-name="SBT MG HD" tvg-logo="http://pingotv.app:80/images/eadc1bacb17aea28d29fefc19868b5e1.jpg" group-title="CANAIS ABERTOS",SBT MG HD
+http://pingotv.app:80/cadu6768/42166768/272
+#EXTINF:-1 tvg-id="" tvg-name="SBT DF HD" tvg-logo="http://pingotv.app:80/images/eadc1bacb17aea28d29fefc19868b5e1.jpg" group-title="CANAIS ABERTOS",SBT DF HD
+http://pingotv.app:80/cadu6768/42166768/196
+#EXTINF:-1 tvg-id="RedeMassa.br" tvg-name="SBT PR HD" tvg-logo="http://pingotv.app:80/images/eadc1bacb17aea28d29fefc19868b5e1.jpg" group-title="CANAIS ABERTOS",SBT PR HD
+http://pingotv.app:80/cadu6768/42166768/193
+#EXTINF:-1 tvg-id="" tvg-name="SBT SC HD" tvg-logo="http://pingotv.app:80/images/eadc1bacb17aea28d29fefc19868b5e1.jpg" group-title="CANAIS ABERTOS",SBT SC HD
+http://pingotv.app:80/cadu6768/42166768/329
+#EXTINF:-1 tvg-id="" tvg-name="SBT RS HD" tvg-logo="http://pingotv.app:80/images/eadc1bacb17aea28d29fefc19868b5e1.jpg" group-title="CANAIS ABERTOS",SBT RS HD
+http://pingotv.app:80/cadu6768/42166768/128
+#EXTINF:-1 tvg-id="" tvg-name="SBT BA HD" tvg-logo="http://pingotv.app:80/images/eadc1bacb17aea28d29fefc19868b5e1.jpg" group-title="CANAIS ABERTOS",SBT BA HD
+http://pingotv.app:80/cadu6768/42166768/33399
+#EXTINF:-1 tvg-id="" tvg-name="SBT ES HD" tvg-logo="http://pingotv.app:80/images/eadc1bacb17aea28d29fefc19868b5e1.jpg" group-title="CANAIS ABERTOS",SBT ES HD
+http://pingotv.app:80/cadu6768/42166768/33398
+#EXTINF:-1 tvg-id="" tvg-name="Record TV [Europa] HD" tvg-logo="http://pingotv.app:80/images/de17f0f24b49f8364187891f8550ffbb.jpg" group-title="CANAIS ABERTOS",Record TV [Europa] HD
+http://pingotv.app:80/cadu6768/42166768/25219
+#EXTINF:-1 tvg-id="RecordTVCabralia.br" tvg-name="Record BA [Salvador] HD" tvg-logo="http://pingotv.app:80/images/de17f0f24b49f8364187891f8550ffbb.jpg" group-title="CANAIS ABERTOS",Record BA [Salvador] HD
+http://pingotv.app:80/cadu6768/42166768/148
+#EXTINF:-1 tvg-id="" tvg-name="Record BA [Itabuna] HD" tvg-logo="http://pingotv.app:80/images/de17f0f24b49f8364187891f8550ffbb.jpg" group-title="CANAIS ABERTOS",Record BA [Itabuna] HD
+http://pingotv.app:80/cadu6768/42166768/23851
+#EXTINF:-1 tvg-id="" tvg-name="Record DF HD" tvg-logo="http://pingotv.app:80/images/de17f0f24b49f8364187891f8550ffbb.jpg" group-title="CANAIS ABERTOS",Record DF HD
+http://pingotv.app:80/cadu6768/42166768/149
+#EXTINF:-1 tvg-id="" tvg-name="Record ES HD" tvg-logo="http://pingotv.app:80/images/de17f0f24b49f8364187891f8550ffbb.jpg" group-title="CANAIS ABERTOS",Record ES HD
+http://pingotv.app:80/cadu6768/42166768/33397
+#EXTINF:-1 tvg-id="" tvg-name="Record GO HD" tvg-logo="http://pingotv.app:80/images/de17f0f24b49f8364187891f8550ffbb.jpg" group-title="CANAIS ABERTOS",Record GO HD
+http://pingotv.app:80/cadu6768/42166768/320
+#EXTINF:-1 tvg-id="RecordTVMinas.br" tvg-name="Record MG HD" tvg-logo="http://pingotv.app:80/images/de17f0f24b49f8364187891f8550ffbb.jpg" group-title="CANAIS ABERTOS",Record MG HD
+http://pingotv.app:80/cadu6768/42166768/147
+#EXTINF:-1 tvg-id="" tvg-name="Record MT HD" tvg-logo="http://pingotv.app:80/images/de17f0f24b49f8364187891f8550ffbb.jpg" group-title="CANAIS ABERTOS",Record MT HD
+http://pingotv.app:80/cadu6768/42166768/276
+#EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-name="Record PA HD" tvg-logo="http://pingotv.app:80/images/de17f0f24b49f8364187891f8550ffbb.jpg" group-title="CANAIS ABERTOS",Record PA HD
+http://pingotv.app:80/cadu6768/42166768/150
+#EXTINF:-1 tvg-id="" tvg-name="Record PR HD" tvg-logo="http://pingotv.app:80/images/de17f0f24b49f8364187891f8550ffbb.jpg" group-title="CANAIS ABERTOS",Record PR HD
+http://pingotv.app:80/cadu6768/42166768/194
+#EXTINF:-1 tvg-id="RecordTVRio.br" tvg-name="Record RJ HD" tvg-logo="http://pingotv.app:80/images/de17f0f24b49f8364187891f8550ffbb.jpg" group-title="CANAIS ABERTOS",Record RJ HD
+http://pingotv.app:80/cadu6768/42166768/146
+#EXTINF:-1 tvg-id="" tvg-name="Record RO HD" tvg-logo="http://pingotv.app:80/images/de17f0f24b49f8364187891f8550ffbb.jpg" group-title="CANAIS ABERTOS",Record RO HD
+http://pingotv.app:80/cadu6768/42166768/275
+#EXTINF:-1 tvg-id="RecordTVRS.br" tvg-name="Record RS HD" tvg-logo="http://pingotv.app:80/images/de17f0f24b49f8364187891f8550ffbb.jpg" group-title="CANAIS ABERTOS",Record RS HD
+http://pingotv.app:80/cadu6768/42166768/145
+#EXTINF:-1 tvg-id="" tvg-name="Record SC HD" tvg-logo="http://pingotv.app:80/images/de17f0f24b49f8364187891f8550ffbb.jpg" group-title="CANAIS ABERTOS",Record SC HD
+http://pingotv.app:80/cadu6768/42166768/303
+#EXTINF:-1 tvg-id="Record SP HD" tvg-name="Record SP [São Paulo] HD-A" tvg-logo="http://pingotv.app:80/images/de17f0f24b49f8364187891f8550ffbb.jpg" group-title="CANAIS ABERTOS",Record SP [São Paulo] HD-A
+http://pingotv.app:80/cadu6768/42166768/151
+#EXTINF:-1 tvg-id="Record SP HD" tvg-name="Record SP [São Paulo] HD-B" tvg-logo="http://pingotv.app:80/images/de17f0f24b49f8364187891f8550ffbb.jpg" group-title="CANAIS ABERTOS",Record SP [São Paulo] HD-B
+http://pingotv.app:80/cadu6768/42166768/30633
+#EXTINF:-1 tvg-id="Record SP HD" tvg-name="Record SP [São Paulo] FHD-A" tvg-logo="http://pingotv.app:80/images/de17f0f24b49f8364187891f8550ffbb.jpg" group-title="CANAIS ABERTOS",Record SP [São Paulo] FHD-A
+http://pingotv.app:80/cadu6768/42166768/30632
+#EXTINF:-1 tvg-id="Record SP HD" tvg-name="Record SP [São Paulo] FHD-B" tvg-logo="http://pingotv.app:80/images/de17f0f24b49f8364187891f8550ffbb.jpg" group-title="CANAIS ABERTOS",Record SP [São Paulo] FHD-B
+http://pingotv.app:80/cadu6768/42166768/30634
+#EXTINF:-1 tvg-id="" tvg-name="Record SP [Campinas] HD" tvg-logo="http://pingotv.app:80/images/de17f0f24b49f8364187891f8550ffbb.jpg" group-title="CANAIS ABERTOS",Record SP [Campinas] HD
+http://pingotv.app:80/cadu6768/42166768/268
+#EXTINF:-1 tvg-id="" tvg-name="Record SP [Rio Preto] HD" tvg-logo="http://pingotv.app:80/images/de17f0f24b49f8364187891f8550ffbb.jpg" group-title="CANAIS ABERTOS",Record SP [Rio Preto] HD
+http://pingotv.app:80/cadu6768/42166768/274
+#EXTINF:-1 tvg-id="" tvg-name="Record SP [Interior] HD" tvg-logo="http://pingotv.app:80/images/de17f0f24b49f8364187891f8550ffbb.jpg" group-title="CANAIS ABERTOS",Record SP [Interior] HD
+http://pingotv.app:80/cadu6768/42166768/294
+#EXTINF:-1 tvg-id="" tvg-name="Record SP [Litoral] HD" tvg-logo="http://pingotv.app:80/images/de17f0f24b49f8364187891f8550ffbb.jpg" group-title="CANAIS ABERTOS",Record SP [Litoral] HD
+http://pingotv.app:80/cadu6768/42166768/200
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV! HD" tvg-logo="http://pingotv.app:80/images/03f4c1104b82f07717874ec12c2497c7.jpg" group-title="CANAIS ABERTOS",RedeTV! HD
+http://pingotv.app:80/cadu6768/42166768/56
+#EXTINF:-1 tvg-id="TVPampa.br" tvg-name="RedeTV! [TV Pampa] HD" tvg-logo="http://pingotv.app:80/images/dc24db9207490ff1c767988db53429a5.jpg" group-title="CANAIS ABERTOS",RedeTV! [TV Pampa] HD
+http://pingotv.app:80/cadu6768/42166768/269
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil HD" tvg-logo="http://pingotv.app:80/images/cb13140ca1ec3b229e6f7906050c107a.jpg" group-title="CANAIS ABERTOS",TV Brasil HD
+http://pingotv.app:80/cadu6768/42166768/105
+#EXTINF:-1 tvg-id="CanalFutura.br" tvg-name="Futura HD" tvg-logo="http://pingotv.app:80/images/fc93a02beef2417acb57559050863560.jpg" group-title="CANAIS ABERTOS",Futura HD
+http://pingotv.app:80/cadu6768/42166768/94
+#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-name="TV Cultura HD" tvg-logo="http://pingotv.app:80/images/e6da8e51b4510f9c253957d20dfd3090.jpg" group-title="CANAIS ABERTOS",TV Cultura HD
+http://pingotv.app:80/cadu6768/42166768/103
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta HD" tvg-logo="http://pingotv.app:80/images/ab81a01d70dfed850894655b5903e732.jpg" group-title="CANAIS ABERTOS",TV Gazeta HD
+http://pingotv.app:80/cadu6768/42166768/259
+#EXTINF:-1 tvg-id="" tvg-name="Polishop TV HD" tvg-logo="http://pingotv.app:80/images/2fe349ab611e9cba2b704ef009b20eec.jpg" group-title="CANAIS ABERTOS",Polishop TV HD
+http://pingotv.app:80/cadu6768/42166768/4721
+#EXTINF:-1 tvg-id="SESCTV.br" tvg-name="Sesc TV HD" tvg-logo="http://pingotv.app:80/images/27f89a3b7403a4acf201bd1e0b9bf0bb.jpg" group-title="CANAIS ABERTOS",Sesc TV HD
+http://pingotv.app:80/cadu6768/42166768/260
+#EXTINF:-1 tvg-id="CanalRural.br" tvg-name="Canal Rural HD" tvg-logo="http://pingotv.app:80/images/68070a95653988a3a705cc12c5e048dc.jpg" group-title="CANAIS ABERTOS",Canal Rural HD
+http://pingotv.app:80/cadu6768/42166768/83
+#EXTINF:-1 tvg-id="AgroMais.br" tvg-name="AgroMais HD" tvg-logo="http://pingotv.app:80/images/16400a592567db70428a6a23bd87ba74.jpg" group-title="CANAIS ABERTOS",AgroMais HD
+http://pingotv.app:80/cadu6768/42166768/124
+#EXTINF:-1 tvg-id="" tvg-name="AgroBrasil TV" tvg-logo="http://pingotv.app:80/images/f4f8efb6d2dea59095b0d5f4715b94ee.jpg" group-title="CANAIS ABERTOS",AgroBrasil TV
+http://pingotv.app:80/cadu6768/42166768/157
+#EXTINF:-1 tvg-id="" tvg-name="AgroCanal HD" tvg-logo="http://pingotv.app:80/images/2e6a60b3ecf4fba95708932e8dc6f6bf.jpg" group-title="CANAIS ABERTOS",AgroCanal HD
+http://pingotv.app:80/cadu6768/42166768/263
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi HD" tvg-logo="http://pingotv.app:80/images/86a270a74dd36082d129dbc67da00c36.jpg" group-title="CANAIS ABERTOS",Canal do Boi HD
+http://pingotv.app:80/cadu6768/42166768/312
+#EXTINF:-1 tvg-id="" tvg-name="Canal do Criador" tvg-logo="http://pingotv.app:80/images/86bc73b3e32331c57de85b7be1aa1994.jpg" group-title="CANAIS ABERTOS",Canal do Criador
+http://pingotv.app:80/cadu6768/42166768/330
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Câmara HD" tvg-logo="http://pingotv.app:80/images/d1fb83c4c01e41c00920a23b52958525.jpg" group-title="CANAIS ABERTOS",TV Câmara HD
+http://pingotv.app:80/cadu6768/42166768/100
+#EXTINF:-1 tvg-id="TVSenado.br" tvg-name="TV Senado HD" tvg-logo="http://pingotv.app:80/images/d58480e4663085a8fff5050e9b52f2fa.jpg" group-title="CANAIS ABERTOS",TV Senado HD
+http://pingotv.app:80/cadu6768/42166768/101
+#EXTINF:-1 tvg-id="TVJustica.br" tvg-name="TV Justiça HD" tvg-logo="http://pingotv.app:80/images/d140c048f67eba5a40d4bd280a7ee357.jpg" group-title="CANAIS ABERTOS",TV Justiça HD
+http://pingotv.app:80/cadu6768/42166768/102
+#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil HD" tvg-logo="http://pingotv.app:80/images/369e978298e873f853297ca734cd6259.jpg" group-title="CANAIS ABERTOS",Rede Brasil HD
+http://pingotv.app:80/cadu6768/42166768/231
+#EXTINF:-1 tvg-id="" tvg-name="Rede Super TV HD" tvg-logo="http://pingotv.app:80/images/e5f8d22cd35c01d5f1febb62f4ae512c.jpg" group-title="CANAIS ABERTOS",Rede Super TV HD
+http://pingotv.app:80/cadu6768/42166768/233
+#EXTINF:-1 tvg-id="RedeFamilia.br" tvg-name="Rede Família HD" tvg-logo="http://pingotv.app:80/images/8ae3331710bdc1ce00f85c4af6558490.jpg" group-title="CANAIS ABERTOS",Rede Família HD
+http://pingotv.app:80/cadu6768/42166768/911
+#EXTINF:-1 tvg-id="RIT TV" tvg-name="RIT TV HD" tvg-logo="http://pingotv.app:80/images/080045a7526717bb2ad9b5e7ca28dd13.jpg" group-title="CANAIS ABERTOS",RIT TV HD
+http://pingotv.app:80/cadu6768/42166768/95
+#EXTINF:-1 tvg-id="TVAparecida.br" tvg-name="TV Aparecida HD" tvg-logo="http://pingotv.app:80/images/76e3a39279aa9c0ca074196621f877ce.jpg" group-title="CANAIS ABERTOS",TV Aparecida HD
+http://pingotv.app:80/cadu6768/42166768/89
+#EXTINF:-1 tvg-id="TVCancaoNova.br" tvg-name="TV Canção Nova HD" tvg-logo="http://pingotv.app:80/images/b1e41da6725a105391a0159d25f4ff30.jpg" group-title="CANAIS ABERTOS",TV Canção Nova HD
+http://pingotv.app:80/cadu6768/42166768/84
+#EXTINF:-1 tvg-id="TV Evangelizar" tvg-name="TV Evangelizar HD" tvg-logo="http://pingotv.app:80/images/8f70d48504246d2bf5c9d3fb0f529103.jpg" group-title="CANAIS ABERTOS",TV Evangelizar HD
+http://pingotv.app:80/cadu6768/42166768/104
+#EXTINF:-1 tvg-id="TVNovoTempoBrasil.br" tvg-name="TV Novo Tempo" tvg-logo="http://pingotv.app:80/images/52ccac233874649d2d0c0a5d275fbed4.jpg" group-title="CANAIS ABERTOS",TV Novo Tempo
+http://pingotv.app:80/cadu6768/42166768/96
+#EXTINF:-1 tvg-id="" tvg-name="TV Pai Eterno HD" tvg-logo="http://pingotv.app:80/images/9e5fb4749e981d07c93372780a5c1285.jpg" group-title="CANAIS ABERTOS",TV Pai Eterno HD
+http://pingotv.app:80/cadu6768/42166768/229
+#EXTINF:-1 tvg-id="" tvg-name="TV Igreja Universal HD" tvg-logo="http://pingotv.app:80/images/eb3c52f78ce3362254213324871c7984.jpg" group-title="CANAIS ABERTOS",TV Igreja Universal HD
+http://pingotv.app:80/cadu6768/42166768/1988
+#EXTINF:-1 tvg-id="" tvg-name="Igreja Evangélica Cristo Vive" tvg-logo="http://pingotv.app:80/images/3cf7cb52314d9fafaa5dcb7d891792b3.jpg" group-title="CANAIS ABERTOS",Igreja Evangélica Cristo Vive
+http://pingotv.app:80/cadu6768/42166768/158
+#EXTINF:-1 tvg-id="" tvg-name="Boa Vontade TV HD" tvg-logo="http://pingotv.app:80/images/144db912f997cb3c7c6473ebec0ab4fb.jpg" group-title="CANAIS ABERTOS",Boa Vontade TV HD
+http://pingotv.app:80/cadu6768/42166768/228
+#EXTINF:-1 tvg-id="" tvg-name="Rede Gospel HD" tvg-logo="http://pingotv.app:80/images/d0f70b499925bf3206a26d163156293e.jpg" group-title="CANAIS ABERTOS",Rede Gospel HD
+http://pingotv.app:80/cadu6768/42166768/232
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida HD" tvg-logo="http://pingotv.app:80/images/ae081082e12d6f0631dea5e748033ab1.jpg" group-title="CANAIS ABERTOS",Rede Vida HD
+http://pingotv.app:80/cadu6768/42166768/234
+#EXTINF:-1 tvg-id="" tvg-name="Rede Mundial HD" tvg-logo="http://pingotv.app:80/images/0b019c625a5662eb3dbe98356696e5bb.jpg" group-title="CANAIS ABERTOS",Rede Mundial HD
+http://pingotv.app:80/cadu6768/42166768/7086
+#EXTINF:-1 tvg-id="" tvg-name="Santuário de Fátima HD" tvg-logo="http://pingotv.app:80/images/b5d5f67b30809413156655abdda382a3.jpg" group-title="CANAIS ABERTOS",Santuário de Fátima HD
+http://pingotv.app:80/cadu6768/42166768/235
+#EXTINF:-1 tvg-id="TV Diario SD" tvg-name="TV Diário HD" tvg-logo="http://pingotv.app:80/images/8a33ca56584a2cefd7db1d66e6f1d78d.jpg" group-title="CANAIS ABERTOS",TV Diário HD
+http://pingotv.app:80/cadu6768/42166768/30596
+#EXTINF:-1 tvg-id="Tv Seculo 21 SD" tvg-name="Rede Século 21 HD" tvg-logo="http://pingotv.app:80/images/718ce601b75c66f1121cc11f9dd6b7e0.jpg" group-title="CANAIS ABERTOS",Rede Século 21 HD
+http://pingotv.app:80/cadu6768/42166768/30597
+#EXTINF:-1 tvg-id="" tvg-name="Rede União FHD" tvg-logo="http://pingotv.app:80/images/2c2c6bdd26c1537b0c0d8d687d5ea440.jpg" group-title="CANAIS ABERTOS",Rede União FHD
+http://pingotv.app:80/cadu6768/42166768/30598
+#EXTINF:-1 tvg-id="" tvg-name="TVE Bahia HD" tvg-logo="http://pingotv.app:80/images/b14d2465358d93528045753608a04306.jpg" group-title="CANAIS ABERTOS",TVE Bahia HD
+http://pingotv.app:80/cadu6768/42166768/31312
+#EXTINF:-1 tvg-id="" tvg-name="TV A Crítica HD" tvg-logo="http://pingotv.app:80/images/630af4cfc6e5993030eaea2e90c1ef41.jpg" group-title="CANAIS ABERTOS",TV A Crítica HD
+http://pingotv.app:80/cadu6768/42166768/30663
+#EXTINF:-1 tvg-id="" tvg-name="Boas Novas TV HD" tvg-logo="http://pingotv.app:80/images/8e5beb560e8a32282f465734dfa63ccf.jpg" group-title="CANAIS ABERTOS",Boas Novas TV HD
+http://pingotv.app:80/cadu6768/42166768/30754
+#EXTINF:-1 tvg-id="" tvg-name="Rede Mais Família HD" tvg-logo="http://pingotv.app:80/images/1ada8be4e09ea8dbece108cd580c97da.jpg" group-title="CANAIS ABERTOS",Rede Mais Família HD
+http://pingotv.app:80/cadu6768/42166768/30755
+#EXTINF:-1 tvg-id="Nickelodeon0HD" tvg-name="Nickelodeon HD" tvg-logo="http://pingotv.app:80/images/e2e42a07550863f8b67f5eb252581f6d.jpg" group-title="CANAIS KIDS",Nickelodeon HD
+http://pingotv.app:80/cadu6768/42166768/2
+#EXTINF:-1 tvg-id="Nickelodeon0HD" tvg-name="Nickelodeon FHD" tvg-logo="http://pingotv.app:80/images/e2e42a07550863f8b67f5eb252581f6d.jpg" group-title="CANAIS KIDS",Nickelodeon FHD
+http://pingotv.app:80/cadu6768/42166768/6713
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr HD" tvg-logo="http://pingotv.app:80/images/913c4858c66af34fc5575fcb46f3fecb.jpg" group-title="CANAIS KIDS",Nick Jr HD
+http://pingotv.app:80/cadu6768/42166768/31
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr FHD" tvg-logo="http://pingotv.app:80/images/913c4858c66af34fc5575fcb46f3fecb.jpg" group-title="CANAIS KIDS",Nick Jr FHD
+http://pingotv.app:80/cadu6768/42166768/6714
+#EXTINF:-1 tvg-id="CART" tvg-name="Cartoon Network HD" tvg-logo="http://pingotv.app:80/images/46e25e123679ab1c022b431dc86ee0a2.jpg" group-title="CANAIS KIDS",Cartoon Network HD
+http://pingotv.app:80/cadu6768/42166768/5
+#EXTINF:-1 tvg-id="Cartoon0Network" tvg-name="Cartoon Network FHD" tvg-logo="http://pingotv.app:80/images/46e25e123679ab1c022b431dc86ee0a2.jpg" group-title="CANAIS KIDS",Cartoon Network FHD
+http://pingotv.app:80/cadu6768/42166768/6758
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids HD" tvg-logo="http://pingotv.app:80/images/0804d0214135b518aebc8f68c4b6bfcd.jpg" group-title="CANAIS KIDS",Discovery Kids HD
+http://pingotv.app:80/cadu6768/42166768/23
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids FHD" tvg-logo="http://pingotv.app:80/images/0804d0214135b518aebc8f68c4b6bfcd.jpg" group-title="CANAIS KIDS",Discovery Kids FHD
+http://pingotv.app:80/cadu6768/42166768/6766
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel HD" tvg-logo="http://pingotv.app:80/images/a77450f87def43cbe79f3f494d0c332a.jpg" group-title="CANAIS KIDS",Disney Channel HD
+http://pingotv.app:80/cadu6768/42166768/30
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel FHD" tvg-logo="http://pingotv.app:80/images/a77450f87def43cbe79f3f494d0c332a.jpg" group-title="CANAIS KIDS",Disney Channel FHD
+http://pingotv.app:80/cadu6768/42166768/6752
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob HD" tvg-logo="http://pingotv.app:80/images/5e2247ab07fc3f9f14af2655d76039a6.jpg" group-title="CANAIS KIDS",Gloob HD
+http://pingotv.app:80/cadu6768/42166768/52
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob FHD" tvg-logo="http://pingotv.app:80/images/5e2247ab07fc3f9f14af2655d76039a6.jpg" group-title="CANAIS KIDS",Gloob FHD
+http://pingotv.app:80/cadu6768/42166768/6737
+#EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho HD" tvg-logo="http://pingotv.app:80/images/50e9728503a9bffabe5e07c912b38f89.jpg" group-title="CANAIS KIDS",Gloobinho HD
+http://pingotv.app:80/cadu6768/42166768/195
+#EXTINF:-1 tvg-id="Gloobinho" tvg-name="Gloobinho FHD" tvg-logo="http://pingotv.app:80/images/50e9728503a9bffabe5e07c912b38f89.jpg" group-title="CANAIS KIDS",Gloobinho FHD
+http://pingotv.app:80/cadu6768/42166768/6736
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito HD" tvg-logo="http://pingotv.app:80/images/21b0019f5d4469c50dbc40960c035934.jpg" group-title="CANAIS KIDS",Cartoonito HD
+http://pingotv.app:80/cadu6768/42166768/90
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito FHD" tvg-logo="http://pingotv.app:80/images/21b0019f5d4469c50dbc40960c035934.jpg" group-title="CANAIS KIDS",Cartoonito FHD
+http://pingotv.app:80/cadu6768/42166768/6757
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast HD" tvg-logo="http://pingotv.app:80/images/aa3150f00d74bcf7287e2c9470404985.jpg" group-title="CANAIS KIDS",Tooncast HD
+http://pingotv.app:80/cadu6768/42166768/81
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="BabyTV HD" tvg-logo="http://pingotv.app:80/images/45914664eafc286fb139a5036f142106.jpg" group-title="CANAIS KIDS",BabyTV HD
+http://pingotv.app:80/cadu6768/42166768/97
+#EXTINF:-1 tvg-id="Zoomoo" tvg-name="ZooMoo Kids HD" tvg-logo="http://pingotv.app:80/images/54395cbe5010a9b4a488a30f24a97471.jpg" group-title="CANAIS KIDS",ZooMoo Kids HD
+http://pingotv.app:80/cadu6768/42166768/98
+#EXTINF:-1 tvg-id="TV Ra Tim Bum" tvg-name="TV Rá-Tim-Bum HD" tvg-logo="http://pingotv.app:80/images/a767a5d1c07ee94c45d2e34689e4ad79.jpg" group-title="CANAIS KIDS",TV Rá-Tim-Bum HD
+http://pingotv.app:80/cadu6768/42166768/122
+#EXTINF:-1 tvg-id="" tvg-name="Guia Esportivo" tvg-logo="http://pingotv.app:80/images/b4cc90d89e046d58227e04187fbac6cb.jpg" group-title="ESPORTES BRASIL",Guia Esportivo
+http://pingotv.app:80/cadu6768/42166768/1048
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV HD" tvg-logo="http://pingotv.app:80/images/43c36900b0aa86ded24077870df74926.jpg" group-title="ESPORTES BRASIL",SporTV HD
+http://pingotv.app:80/cadu6768/42166768/4
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV FHD" tvg-logo="http://pingotv.app:80/images/43c36900b0aa86ded24077870df74926.jpg" group-title="ESPORTES BRASIL",SporTV FHD
+http://pingotv.app:80/cadu6768/42166768/6701
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 HD" tvg-logo="http://pingotv.app:80/images/f5b2ef313381b86b721488d22a3ef3d8.jpg" group-title="ESPORTES BRASIL",SporTV 2 HD
+http://pingotv.app:80/cadu6768/42166768/1
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 FHD" tvg-logo="http://pingotv.app:80/images/f5b2ef313381b86b721488d22a3ef3d8.jpg" group-title="ESPORTES BRASIL",SporTV 2 FHD
+http://pingotv.app:80/cadu6768/42166768/6700
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 HD" tvg-logo="http://pingotv.app:80/images/365fc6d09ecab42eb99b787a6df6477b.jpg" group-title="ESPORTES BRASIL",SporTV 3 HD
+http://pingotv.app:80/cadu6768/42166768/7
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 FHD" tvg-logo="http://pingotv.app:80/images/365fc6d09ecab42eb99b787a6df6477b.jpg" group-title="ESPORTES BRASIL",SporTV 3 FHD
+http://pingotv.app:80/cadu6768/42166768/6699
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="Band Sports HD" tvg-logo="http://pingotv.app:80/images/b92ca3bd619bfa5d2eed95d39938653d.jpg" group-title="ESPORTES BRASIL",Band Sports HD
+http://pingotv.app:80/cadu6768/42166768/27
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="Band Sports FHD" tvg-logo="http://pingotv.app:80/images/b92ca3bd619bfa5d2eed95d39938653d.jpg" group-title="ESPORTES BRASIL",Band Sports FHD
+http://pingotv.app:80/cadu6768/42166768/6759
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD" tvg-logo="http://pingotv.app:80/images/03ac82a1166b77af8f94c9585710f053.jpg" group-title="ESPORTES BRASIL",ESPN HD
+http://pingotv.app:80/cadu6768/42166768/21
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN FHD" tvg-logo="http://pingotv.app:80/images/03ac82a1166b77af8f94c9585710f053.jpg" group-title="ESPORTES BRASIL",ESPN FHD
+http://pingotv.app:80/cadu6768/42166768/6748
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 HD" tvg-logo="http://pingotv.app:80/images/017f41a2ef4ff9d39f45f680b88cd23b.jpg" group-title="ESPORTES BRASIL",ESPN 2 HD
+http://pingotv.app:80/cadu6768/42166768/28
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 FHD" tvg-logo="http://pingotv.app:80/images/017f41a2ef4ff9d39f45f680b88cd23b.jpg" group-title="ESPORTES BRASIL",ESPN 2 FHD
+http://pingotv.app:80/cadu6768/42166768/6747
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 HD" tvg-logo="http://pingotv.app:80/images/3e99c57a516c085d9c222e40aebc7129.jpg" group-title="ESPORTES BRASIL",ESPN 3 HD
+http://pingotv.app:80/cadu6768/42166768/29
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 FHD" tvg-logo="http://pingotv.app:80/images/3e99c57a516c085d9c222e40aebc7129.jpg" group-title="ESPORTES BRASIL",ESPN 3 FHD
+http://pingotv.app:80/cadu6768/42166768/6746
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 HD" tvg-logo="http://pingotv.app:80/images/bfb9a69c9813f26eae33eb06029fa0ad.jpg" group-title="ESPORTES BRASIL",ESPN 4 HD
+http://pingotv.app:80/cadu6768/42166768/8
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 FHD" tvg-logo="http://pingotv.app:80/images/bfb9a69c9813f26eae33eb06029fa0ad.jpg" group-title="ESPORTES BRASIL",ESPN 4 FHD
+http://pingotv.app:80/cadu6768/42166768/6745
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="ESPN 5 HD" tvg-logo="http://pingotv.app:80/images/4d26ed5201c19cba093c70c98482645c.jpg" group-title="ESPORTES BRASIL",ESPN 5 HD
+http://pingotv.app:80/cadu6768/42166768/33
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="ESPN 5 FHD" tvg-logo="http://pingotv.app:80/images/4d26ed5201c19cba093c70c98482645c.jpg" group-title="ESPORTES BRASIL",ESPN 5 FHD
+http://pingotv.app:80/cadu6768/42166768/6743
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN 6 HD" tvg-logo="http://pingotv.app:80/images/c8fca111cbfec65dd8a2b89ebb7201d6.jpg" group-title="ESPORTES BRASIL",ESPN 6 HD
+http://pingotv.app:80/cadu6768/42166768/32
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-name="ESPN 6 FHD" tvg-logo="http://pingotv.app:80/images/c8fca111cbfec65dd8a2b89ebb7201d6.jpg" group-title="ESPORTES BRASIL",ESPN 6 FHD
+http://pingotv.app:80/cadu6768/42166768/6749
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes HD" tvg-logo="http://pingotv.app:80/images/51b2a1da0ed665b405d7ba83324ffb02.jpg" group-title="ESPORTES BRASIL",Premiere Clubes HD
+http://pingotv.app:80/cadu6768/42166768/19
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes FHD" tvg-logo="http://pingotv.app:80/images/51b2a1da0ed665b405d7ba83324ffb02.jpg" group-title="ESPORTES BRASIL",Premiere Clubes FHD
+http://pingotv.app:80/cadu6768/42166768/6704
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 HD" tvg-logo="http://pingotv.app:80/images/51b2a1da0ed665b405d7ba83324ffb02.jpg" group-title="ESPORTES BRASIL",Premiere 2 HD
+http://pingotv.app:80/cadu6768/42166768/18
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 FHD" tvg-logo="http://pingotv.app:80/images/51b2a1da0ed665b405d7ba83324ffb02.jpg" group-title="ESPORTES BRASIL",Premiere 2 FHD
+http://pingotv.app:80/cadu6768/42166768/6710
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 HD" tvg-logo="http://pingotv.app:80/images/51b2a1da0ed665b405d7ba83324ffb02.jpg" group-title="ESPORTES BRASIL",Premiere 3 HD
+http://pingotv.app:80/cadu6768/42166768/17
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 FHD" tvg-logo="http://pingotv.app:80/images/51b2a1da0ed665b405d7ba83324ffb02.jpg" group-title="ESPORTES BRASIL",Premiere 3 FHD
+http://pingotv.app:80/cadu6768/42166768/6709
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 HD" tvg-logo="http://pingotv.app:80/images/51b2a1da0ed665b405d7ba83324ffb02.jpg" group-title="ESPORTES BRASIL",Premiere 4 HD
+http://pingotv.app:80/cadu6768/42166768/14
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 FHD" tvg-logo="http://pingotv.app:80/images/51b2a1da0ed665b405d7ba83324ffb02.jpg" group-title="ESPORTES BRASIL",Premiere 4 FHD
+http://pingotv.app:80/cadu6768/42166768/6708
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 HD" tvg-logo="http://pingotv.app:80/images/51b2a1da0ed665b405d7ba83324ffb02.jpg" group-title="ESPORTES BRASIL",Premiere 5 HD
+http://pingotv.app:80/cadu6768/42166768/16
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 FHD" tvg-logo="http://pingotv.app:80/images/51b2a1da0ed665b405d7ba83324ffb02.jpg" group-title="ESPORTES BRASIL",Premiere 5 FHD
+http://pingotv.app:80/cadu6768/42166768/6707
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 HD" tvg-logo="http://pingotv.app:80/images/51b2a1da0ed665b405d7ba83324ffb02.jpg" group-title="ESPORTES BRASIL",Premiere 6 HD
+http://pingotv.app:80/cadu6768/42166768/13
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 FHD" tvg-logo="http://pingotv.app:80/images/51b2a1da0ed665b405d7ba83324ffb02.jpg" group-title="ESPORTES BRASIL",Premiere 6 FHD
+http://pingotv.app:80/cadu6768/42166768/6706
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 HD" tvg-logo="http://pingotv.app:80/images/51b2a1da0ed665b405d7ba83324ffb02.jpg" group-title="ESPORTES BRASIL",Premiere 7 HD
+http://pingotv.app:80/cadu6768/42166768/10
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 FHD" tvg-logo="http://pingotv.app:80/images/51b2a1da0ed665b405d7ba83324ffb02.jpg" group-title="ESPORTES BRASIL",Premiere 7 FHD
+http://pingotv.app:80/cadu6768/42166768/6705
+#EXTINF:-1 tvg-id="Premiere 8" tvg-name="Premiere 8 HD" tvg-logo="http://pingotv.app:80/images/51b2a1da0ed665b405d7ba83324ffb02.jpg" group-title="ESPORTES BRASIL",Premiere 8 HD
+http://pingotv.app:80/cadu6768/42166768/5866
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass HD" tvg-logo="http://pingotv.app:80/images/0f1e6af3ded265ef957875152c35f14b.jpg" group-title="ESPORTES BRASIL",UFC Fight Pass HD
+http://pingotv.app:80/cadu6768/42166768/1022
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass FHD" tvg-logo="http://pingotv.app:80/images/0f1e6af3ded265ef957875152c35f14b.jpg" group-title="ESPORTES BRASIL",UFC Fight Pass FHD
+http://pingotv.app:80/cadu6768/42166768/20378
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate HD" tvg-logo="http://pingotv.app:80/images/758d8b1cbf0b6cee37110825fead0f77.jpg" group-title="ESPORTES BRASIL",Combate HD
+http://pingotv.app:80/cadu6768/42166768/3
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate FHD" tvg-logo="http://pingotv.app:80/images/758d8b1cbf0b6cee37110825fead0f77.jpg" group-title="ESPORTES BRASIL",Combate FHD
+http://pingotv.app:80/cadu6768/42166768/6754
+#EXTINF:-1 tvg-id="" tvg-name="Mr. Olympia HD" tvg-logo="http://pingotv.app:80/images/b1148e254afb4e7ceacaf1a197116cf2.jpg" group-title="ESPORTES BRASIL",Mr. Olympia HD
+http://pingotv.app:80/cadu6768/42166768/26100
+#EXTINF:-1 tvg-id="" tvg-name="Cazé TV HD" tvg-logo="http://pingotv.app:80/images/5b30719fea9f36db56eeee0e84906d6d.jpg" group-title="ESPORTES BRASIL",Cazé TV HD
+http://pingotv.app:80/cadu6768/42166768/25240
+#EXTINF:-1 tvg-id="" tvg-name="Canal GOAT HD" tvg-logo="http://pingotv.app:80/images/a94aa000f9a94cc51775bd5eac97c926.jpg" group-title="ESPORTES BRASIL",Canal GOAT HD
+http://pingotv.app:80/cadu6768/42166768/25220
+#EXTINF:-1 tvg-id="" tvg-name="Rede Furacão HD" tvg-logo="http://pingotv.app:80/images/71a458267ca59a91f607b9a7e703f880.jpg" group-title="ESPORTES BRASIL",Rede Furacão HD
+http://pingotv.app:80/cadu6768/42166768/192
+#EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-name="Paramount+ 1 HD" tvg-logo="http://pingotv.app:80/images/8519e427b1834267e37e23b6d7b5e012.jpg" group-title="ESPORTES BRASIL",Paramount+ 1 HD
+http://pingotv.app:80/cadu6768/42166768/184
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 1 FHD" tvg-logo="http://pingotv.app:80/images/8519e427b1834267e37e23b6d7b5e012.jpg" group-title="ESPORTES BRASIL",Paramount+ 1 FHD
+http://pingotv.app:80/cadu6768/42166768/6781
+#EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-name="Paramount+ 2 HD" tvg-logo="http://pingotv.app:80/images/8519e427b1834267e37e23b6d7b5e012.jpg" group-title="ESPORTES BRASIL",Paramount+ 2 HD
+http://pingotv.app:80/cadu6768/42166768/185
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 2 FHD" tvg-logo="http://pingotv.app:80/images/8519e427b1834267e37e23b6d7b5e012.jpg" group-title="ESPORTES BRASIL",Paramount+ 2 FHD
+http://pingotv.app:80/cadu6768/42166768/6782
+#EXTINF:-1 tvg-id="ConmebolTV1.br" tvg-name="Paramount+ 3 HD" tvg-logo="http://pingotv.app:80/images/8519e427b1834267e37e23b6d7b5e012.jpg" group-title="ESPORTES BRASIL",Paramount+ 3 HD
+http://pingotv.app:80/cadu6768/42166768/186
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 3 FHD" tvg-logo="http://pingotv.app:80/images/8519e427b1834267e37e23b6d7b5e012.jpg" group-title="ESPORTES BRASIL",Paramount+ 3 FHD
+http://pingotv.app:80/cadu6768/42166768/6783
+#EXTINF:-1 tvg-id="ConmebolTV4.br" tvg-name="Paramount+ 4 HD" tvg-logo="http://pingotv.app:80/images/8519e427b1834267e37e23b6d7b5e012.jpg" group-title="ESPORTES BRASIL",Paramount+ 4 HD
+http://pingotv.app:80/cadu6768/42166768/187
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 4 FHD" tvg-logo="http://pingotv.app:80/images/8519e427b1834267e37e23b6d7b5e012.jpg" group-title="ESPORTES BRASIL",Paramount+ 4 FHD
+http://pingotv.app:80/cadu6768/42166768/6784
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 1 HD" tvg-logo="http://pingotv.app:80/images/8ff953dd97c4405234a04291dee39e0b.jpg" group-title="ESPORTES BRASIL",Star+ 1 HD
+http://pingotv.app:80/cadu6768/42166768/164
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 2 HD" tvg-logo="http://pingotv.app:80/images/8ff953dd97c4405234a04291dee39e0b.jpg" group-title="ESPORTES BRASIL",Star+ 2 HD
+http://pingotv.app:80/cadu6768/42166768/165
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 3 HD" tvg-logo="http://pingotv.app:80/images/8ff953dd97c4405234a04291dee39e0b.jpg" group-title="ESPORTES BRASIL",Star+ 3 HD
+http://pingotv.app:80/cadu6768/42166768/785
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 4 HD" tvg-logo="http://pingotv.app:80/images/8ff953dd97c4405234a04291dee39e0b.jpg" group-title="ESPORTES BRASIL",Star+ 4 HD
+http://pingotv.app:80/cadu6768/42166768/161
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 5 HD" tvg-logo="http://pingotv.app:80/images/8ff953dd97c4405234a04291dee39e0b.jpg" group-title="ESPORTES BRASIL",Star+ 5 HD
+http://pingotv.app:80/cadu6768/42166768/1816
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 6 HD" tvg-logo="http://pingotv.app:80/images/8ff953dd97c4405234a04291dee39e0b.jpg" group-title="ESPORTES BRASIL",Star+ 6 HD
+http://pingotv.app:80/cadu6768/42166768/1817
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 7 HD" tvg-logo="http://pingotv.app:80/images/8ff953dd97c4405234a04291dee39e0b.jpg" group-title="ESPORTES BRASIL",Star+ 7 HD
+http://pingotv.app:80/cadu6768/42166768/22211
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 8 HD" tvg-logo="http://pingotv.app:80/images/8ff953dd97c4405234a04291dee39e0b.jpg" group-title="ESPORTES BRASIL",Star+ 8 HD
+http://pingotv.app:80/cadu6768/42166768/22212
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 1 HD" tvg-logo="http://pingotv.app:80/images/1ddba79403dab128f95c36a715ecb29d.jpg" group-title="ESPORTES BRASIL",Amazon Prime Video 1 HD
+http://pingotv.app:80/cadu6768/42166768/190
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 2 HD" tvg-logo="http://pingotv.app:80/images/1ddba79403dab128f95c36a715ecb29d.jpg" group-title="ESPORTES BRASIL",Amazon Prime Video 2 HD
+http://pingotv.app:80/cadu6768/42166768/191
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 3 HD" tvg-logo="http://pingotv.app:80/images/1ddba79403dab128f95c36a715ecb29d.jpg" group-title="ESPORTES BRASIL",Amazon Prime Video 3 HD
+http://pingotv.app:80/cadu6768/42166768/2528
+#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Video 4 HD" tvg-logo="http://pingotv.app:80/images/1ddba79403dab128f95c36a715ecb29d.jpg" group-title="ESPORTES BRASIL",Amazon Prime Video 4 HD
+http://pingotv.app:80/cadu6768/42166768/2529
+#EXTINF:-1 tvg-id="a05w" tvg-name="Nosso Futebol 1 HD" tvg-logo="http://pingotv.app:80/images/3b6d672f6346df63303d92faafa7135c.jpg" group-title="ESPORTES BRASIL",Nosso Futebol 1 HD
+http://pingotv.app:80/cadu6768/42166768/181
+#EXTINF:-1 tvg-id="nosso2" tvg-name="Nosso Futebol 2 HD" tvg-logo="http://pingotv.app:80/images/3b6d672f6346df63303d92faafa7135c.jpg" group-title="ESPORTES BRASIL",Nosso Futebol 2 HD
+http://pingotv.app:80/cadu6768/42166768/180
+#EXTINF:-1 tvg-id="a05p" tvg-name="Nosso Futebol 3 HD" tvg-logo="http://pingotv.app:80/images/3b6d672f6346df63303d92faafa7135c.jpg" group-title="ESPORTES BRASIL",Nosso Futebol 3 HD
+http://pingotv.app:80/cadu6768/42166768/183
+#EXTINF:-1 tvg-id="a05v" tvg-name="Nosso Futebol 4 HD" tvg-logo="http://pingotv.app:80/images/3b6d672f6346df63303d92faafa7135c.jpg" group-title="ESPORTES BRASIL",Nosso Futebol 4 HD
+http://pingotv.app:80/cadu6768/42166768/182
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 1 HD" tvg-logo="http://pingotv.app:80/images/d4c537d4f1354a487f2d38855822d482.jpg" group-title="ESPORTES BRASIL",HBO Max 1 HD
+http://pingotv.app:80/cadu6768/42166768/166
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 2 HD" tvg-logo="http://pingotv.app:80/images/d4c537d4f1354a487f2d38855822d482.jpg" group-title="ESPORTES BRASIL",HBO Max 2 HD
+http://pingotv.app:80/cadu6768/42166768/167
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 3 HD" tvg-logo="http://pingotv.app:80/images/d4c537d4f1354a487f2d38855822d482.jpg" group-title="ESPORTES BRASIL",HBO Max 3 HD
+http://pingotv.app:80/cadu6768/42166768/21324
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 4 HD" tvg-logo="http://pingotv.app:80/images/d4c537d4f1354a487f2d38855822d482.jpg" group-title="ESPORTES BRASIL",HBO Max 4 HD
+http://pingotv.app:80/cadu6768/42166768/21325
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 5 HD" tvg-logo="http://pingotv.app:80/images/d4c537d4f1354a487f2d38855822d482.jpg" group-title="ESPORTES BRASIL",HBO Max 5 HD
+http://pingotv.app:80/cadu6768/42166768/23444
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 6 HD" tvg-logo="http://pingotv.app:80/images/d4c537d4f1354a487f2d38855822d482.jpg" group-title="ESPORTES BRASIL",HBO Max 6 HD
+http://pingotv.app:80/cadu6768/42166768/23445
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 1 HD" tvg-logo="http://pingotv.app:80/images/b66f0eaacf2659691f4766ee40839b67.jpg" group-title="ESPORTES BRASIL",TNT Sports 1 HD
+http://pingotv.app:80/cadu6768/42166768/162
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 2 HD" tvg-logo="http://pingotv.app:80/images/b66f0eaacf2659691f4766ee40839b67.jpg" group-title="ESPORTES BRASIL",TNT Sports 2 HD
+http://pingotv.app:80/cadu6768/42166768/163
+#EXTINF:-1 tvg-id="" tvg-name="TV NSports 1 HD" tvg-logo="http://pingotv.app:80/images/8ddcd3ff3daeab75bac10ecd30bbef9b.jpg" group-title="ESPORTES BRASIL",TV NSports 1 HD
+http://pingotv.app:80/cadu6768/42166768/170
+#EXTINF:-1 tvg-id="" tvg-name="TV NSports 2 HD" tvg-logo="http://pingotv.app:80/images/8ddcd3ff3daeab75bac10ecd30bbef9b.jpg" group-title="ESPORTES BRASIL",TV NSports 2 HD
+http://pingotv.app:80/cadu6768/42166768/171
+#EXTINF:-1 tvg-id="" tvg-name="TV NSports 3 HD" tvg-logo="http://pingotv.app:80/images/8ddcd3ff3daeab75bac10ecd30bbef9b.jpg" group-title="ESPORTES BRASIL",TV NSports 3 HD
+http://pingotv.app:80/cadu6768/42166768/1023
+#EXTINF:-1 tvg-id="" tvg-name="TV NSports 4 HD" tvg-logo="http://pingotv.app:80/images/8ddcd3ff3daeab75bac10ecd30bbef9b.jpg" group-title="ESPORTES BRASIL",TV NSports 4 HD
+http://pingotv.app:80/cadu6768/42166768/1818
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="http://pingotv.app:80/images/70174c0a783eae8342f989252f0c82e8.jpg" group-title="ESPORTES BRASIL",DAZN 1 HD
+http://pingotv.app:80/cadu6768/42166768/168
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="http://pingotv.app:80/images/70174c0a783eae8342f989252f0c82e8.jpg" group-title="ESPORTES BRASIL",DAZN 2 HD
+http://pingotv.app:80/cadu6768/42166768/169
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="http://pingotv.app:80/images/70174c0a783eae8342f989252f0c82e8.jpg" group-title="ESPORTES BRASIL",DAZN 3 HD
+http://pingotv.app:80/cadu6768/42166768/1026
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV 1 HD" tvg-logo="http://pingotv.app:80/images/9eb4712a1187884576cb263d68fd0c3a.jpg" group-title="ESPORTES BRASIL",Apple TV 1 HD
+http://pingotv.app:80/cadu6768/42166768/26448
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV 2 HD" tvg-logo="http://pingotv.app:80/images/9eb4712a1187884576cb263d68fd0c3a.jpg" group-title="ESPORTES BRASIL",Apple TV 2 HD
+http://pingotv.app:80/cadu6768/42166768/26449
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV 3 HD" tvg-logo="http://pingotv.app:80/images/9eb4712a1187884576cb263d68fd0c3a.jpg" group-title="ESPORTES BRASIL",Apple TV 3 HD
+http://pingotv.app:80/cadu6768/42166768/26450
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV 4 HD" tvg-logo="http://pingotv.app:80/images/9eb4712a1187884576cb263d68fd0c3a.jpg" group-title="ESPORTES BRASIL",Apple TV 4 HD
+http://pingotv.app:80/cadu6768/42166768/26451
+#EXTINF:-1 tvg-id="" tvg-name="YouTube 1 HD" tvg-logo="http://pingotv.app:80/images/fa0ed5b5c600145bdd9a299952b99651.jpg" group-title="ESPORTES BRASIL",YouTube 1 HD
+http://pingotv.app:80/cadu6768/42166768/1025
+#EXTINF:-1 tvg-id="" tvg-name="YouTube 2 HD" tvg-logo="http://pingotv.app:80/images/fa0ed5b5c600145bdd9a299952b99651.jpg" group-title="ESPORTES BRASIL",YouTube 2 HD
+http://pingotv.app:80/cadu6768/42166768/1027
+#EXTINF:-1 tvg-id="" tvg-name="Canal Olímpico 1 HD" tvg-logo="http://pingotv.app:80/images/9f0f54f5e27d7548dedfd7f690e35e26.jpg" group-title="ESPORTES BRASIL",Canal Olímpico 1 HD
+http://pingotv.app:80/cadu6768/42166768/25236
+#EXTINF:-1 tvg-id="" tvg-name="Canal Olímpico 2 HD" tvg-logo="http://pingotv.app:80/images/9f0f54f5e27d7548dedfd7f690e35e26.jpg" group-title="ESPORTES BRASIL",Canal Olímpico 2 HD
+http://pingotv.app:80/cadu6768/42166768/25237
+#EXTINF:-1 tvg-id="" tvg-name="Canal Olímpico 3 HD" tvg-logo="http://pingotv.app:80/images/9f0f54f5e27d7548dedfd7f690e35e26.jpg" group-title="ESPORTES BRASIL",Canal Olímpico 3 HD
+http://pingotv.app:80/cadu6768/42166768/25238
+#EXTINF:-1 tvg-id="" tvg-name="Canal Olímpico 4 HD" tvg-logo="http://pingotv.app:80/images/9f0f54f5e27d7548dedfd7f690e35e26.jpg" group-title="ESPORTES BRASIL",Canal Olímpico 4 HD
+http://pingotv.app:80/cadu6768/42166768/25239
+#EXTINF:-1 tvg-id="" tvg-name="TV Turfe JCB HD" tvg-logo="http://pingotv.app:80/images/9d685b9ea102f965dd734d6150a912ff.jpg" group-title="ESPORTES BRASIL",TV Turfe JCB HD
+http://pingotv.app:80/cadu6768/42166768/121
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://pingotv.app:80/images/b127191fc35dde95277a07b9bdb8a113.jpg" group-title="CANAIS DE SÉRIES",AXN HD
+http://pingotv.app:80/cadu6768/42166768/40
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FHD" tvg-logo="http://pingotv.app:80/images/b127191fc35dde95277a07b9bdb8a113.jpg" group-title="CANAIS DE SÉRIES",AXN FHD
+http://pingotv.app:80/cadu6768/42166768/6760
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="http://pingotv.app:80/images/a317e720cf0af2b90e44604104890f96.jpg" group-title="CANAIS DE SÉRIES",A&E HD
+http://pingotv.app:80/cadu6768/42166768/69
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E FHD" tvg-logo="http://pingotv.app:80/images/a317e720cf0af2b90e44604104890f96.jpg" group-title="CANAIS DE SÉRIES",A&E FHD
+http://pingotv.app:80/cadu6768/42166768/6764
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal TV HD" tvg-logo="http://pingotv.app:80/images/b5c0149f19b09b88c18a09315d4f06fc.jpg" group-title="CANAIS DE SÉRIES",Universal TV HD
+http://pingotv.app:80/cadu6768/42166768/50
+#EXTINF:-1 tvg-id="Universal TV" tvg-name="Universal TV FHD" tvg-logo="http://pingotv.app:80/images/b5c0149f19b09b88c18a09315d4f06fc.jpg" group-title="CANAIS DE SÉRIES",Universal TV FHD
+http://pingotv.app:80/cadu6768/42166768/6686
+#EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="Warner Channel HD" tvg-logo="http://pingotv.app:80/images/9bd9b6bc2c3009220c8ae9edf2073624.jpg" group-title="CANAIS DE SÉRIES",Warner Channel HD
+http://pingotv.app:80/cadu6768/42166768/42
+#EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="Warner Channel FHD" tvg-logo="http://pingotv.app:80/images/9bd9b6bc2c3009220c8ae9edf2073624.jpg" group-title="CANAIS DE SÉRIES",Warner Channel FHD
+http://pingotv.app:80/cadu6768/42166768/6684
+#EXTINF:-1 tvg-id="Star Channel HD" tvg-name="STAR Channel HD" tvg-logo="http://pingotv.app:80/images/d88e7788b4a6734616e54dea2dff177f.jpg" group-title="CANAIS DE SÉRIES",STAR Channel HD
+http://pingotv.app:80/cadu6768/42166768/53
+#EXTINF:-1 tvg-id="Star Channel HD" tvg-name="STAR Channel FHD" tvg-logo="http://pingotv.app:80/images/d88e7788b4a6734616e54dea2dff177f.jpg" group-title="CANAIS DE SÉRIES",STAR Channel FHD
+http://pingotv.app:80/cadu6768/42166768/6698
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Séries HD" tvg-logo="http://pingotv.app:80/images/15781d5b07b06b40203ab85b96ad869b.jpg" group-title="CANAIS DE SÉRIES",TNT Séries HD
+http://pingotv.app:80/cadu6768/42166768/49
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Séries FHD" tvg-logo="http://pingotv.app:80/images/15781d5b07b06b40203ab85b96ad869b.jpg" group-title="CANAIS DE SÉRIES",TNT Séries FHD
+http://pingotv.app:80/cadu6768/42166768/6687
+#EXTINF:-1 tvg-id="TBS" tvg-name="TNT Novelas HD" tvg-logo="http://pingotv.app:80/images/1bb566426866770ad0c1a36859a71700.jpg" group-title="CANAIS DE SÉRIES",TNT Novelas HD
+http://pingotv.app:80/cadu6768/42166768/6779
+#EXTINF:-1 tvg-id="TBS" tvg-name="TNT Novelas FHD" tvg-logo="http://pingotv.app:80/images/1bb566426866770ad0c1a36859a71700.jpg" group-title="CANAIS DE SÉRIES",TNT Novelas FHD
+http://pingotv.app:80/cadu6768/42166768/6780
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="Sony Channel HD" tvg-logo="http://pingotv.app:80/images/64b243fd600b42048055d44338d8be5f.jpg" group-title="CANAIS DE SÉRIES",Sony Channel HD
+http://pingotv.app:80/cadu6768/42166768/41
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="Sony Channel FHD" tvg-logo="http://pingotv.app:80/images/64b243fd600b42048055d44338d8be5f.jpg" group-title="CANAIS DE SÉRIES",Sony Channel FHD
+http://pingotv.app:80/cadu6768/42166768/6703
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime HD" tvg-logo="http://pingotv.app:80/images/79f3a982fd2496a50c5ec8f88e9b608f.jpg" group-title="CANAIS DE SÉRIES",Lifetime HD
+http://pingotv.app:80/cadu6768/42166768/79
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://pingotv.app:80/images/1580a56e1cd3b340b9ad410f555186ad.jpg" group-title="CANAIS DE SÉRIES",FX HD
+http://pingotv.app:80/cadu6768/42166768/73
+#EXTINF:-1 tvg-id="FX" tvg-name="FX FHD" tvg-logo="http://pingotv.app:80/images/1580a56e1cd3b340b9ad410f555186ad.jpg" group-title="CANAIS DE SÉRIES",FX FHD
+http://pingotv.app:80/cadu6768/42166768/6742
+#EXTINF:-1 tvg-id="Syfy" tvg-name="USA Network HD" tvg-logo="http://pingotv.app:80/images/ada53304c5b9e4a839615b6e8f908eb6.jpg" group-title="CANAIS DE SÉRIES",USA Network HD
+http://pingotv.app:80/cadu6768/42166768/68
+#EXTINF:-1 tvg-id="Syfy" tvg-name="USA Network FHD" tvg-logo="http://pingotv.app:80/images/ada53304c5b9e4a839615b6e8f908eb6.jpg" group-title="CANAIS DE SÉRIES",USA Network FHD
+http://pingotv.app:80/cadu6768/42166768/6696
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://pingotv.app:80/images/6bc4cd89f7679aadb6505b69161f47e4.jpg" group-title="CANAIS DE SÉRIES",AMC HD
+http://pingotv.app:80/cadu6768/42166768/93
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC FHD" tvg-logo="http://pingotv.app:80/images/6bc4cd89f7679aadb6505b69161f47e4.jpg" group-title="CANAIS DE SÉRIES",AMC FHD
+http://pingotv.app:80/cadu6768/42166768/6763
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://pingotv.app:80/images/2f6e1edb0943c07021baddd1d530d81b.jpg" group-title="CANAIS DE FILMES",TNT HD
+http://pingotv.app:80/cadu6768/42166768/48
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT FHD" tvg-logo="http://pingotv.app:80/images/2f6e1edb0943c07021baddd1d530d81b.jpg" group-title="CANAIS DE FILMES",TNT FHD
+http://pingotv.app:80/cadu6768/42166768/6688
+#EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" tvg-logo="http://pingotv.app:80/images/a66dc42174efd3e940bbaa5a91fc4367.jpg" group-title="CANAIS DE FILMES",Space HD
+http://pingotv.app:80/cadu6768/42166768/51
+#EXTINF:-1 tvg-id="Space HD" tvg-name="Space FHD" tvg-logo="http://pingotv.app:80/images/a66dc42174efd3e940bbaa5a91fc4367.jpg" group-title="CANAIS DE FILMES",Space FHD
+http://pingotv.app:80/cadu6768/42166768/6702
+#EXTINF:-1 tvg-id="Megapix HD" tvg-name="Megapix HD" tvg-logo="http://pingotv.app:80/images/9aedabb5660e1dbf22e015f41380d1e6.jpg" group-title="CANAIS DE FILMES",Megapix HD
+http://pingotv.app:80/cadu6768/42166768/47
+#EXTINF:-1 tvg-id="Megapix HD" tvg-name="Megapix FHD" tvg-logo="http://pingotv.app:80/images/9aedabb5660e1dbf22e015f41380d1e6.jpg" group-title="CANAIS DE FILMES",Megapix FHD
+http://pingotv.app:80/cadu6768/42166768/6721
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="Cinemax HD" tvg-logo="http://pingotv.app:80/images/53ca57f0909a2de95180ebe3214d20ec.jpg" group-title="CANAIS DE FILMES",Cinemax HD
+http://pingotv.app:80/cadu6768/42166768/78
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="Cinemax FHD" tvg-logo="http://pingotv.app:80/images/53ca57f0909a2de95180ebe3214d20ec.jpg" group-title="CANAIS DE FILMES",Cinemax FHD
+http://pingotv.app:80/cadu6768/42166768/6756
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="Telecine Action HD" tvg-logo="http://pingotv.app:80/images/9046530de10b5e18fad46e58df8a1c02.jpg" group-title="CANAIS DE FILMES",Telecine Action HD
+http://pingotv.app:80/cadu6768/42166768/37
+#EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="Telecine Action FHD" tvg-logo="http://pingotv.app:80/images/9046530de10b5e18fad46e58df8a1c02.jpg" group-title="CANAIS DE FILMES",Telecine Action FHD
+http://pingotv.app:80/cadu6768/42166768/6694
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="Telecine Fun HD" tvg-logo="http://pingotv.app:80/images/b8d9cd4986aed40afaf0ac40919742c6.jpg" group-title="CANAIS DE FILMES",Telecine Fun HD
+http://pingotv.app:80/cadu6768/42166768/38
+#EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="Telecine Fun FHD" tvg-logo="http://pingotv.app:80/images/b8d9cd4986aed40afaf0ac40919742c6.jpg" group-title="CANAIS DE FILMES",Telecine Fun FHD
+http://pingotv.app:80/cadu6768/42166768/6692
+#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="Telecine Pipoca HD" tvg-logo="http://pingotv.app:80/images/6cb6c1ee40094333df93f7cac3640103.jpg" group-title="CANAIS DE FILMES",Telecine Pipoca HD
+http://pingotv.app:80/cadu6768/42166768/34
+#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="Telecine Pipoca FHD" tvg-logo="http://pingotv.app:80/images/6cb6c1ee40094333df93f7cac3640103.jpg" group-title="CANAIS DE FILMES",Telecine Pipoca FHD
+http://pingotv.app:80/cadu6768/42166768/6691
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium HD" tvg-logo="http://pingotv.app:80/images/f8d2354ef0cde7800a0475f6babd211d.jpg" group-title="CANAIS DE FILMES",Telecine Premium HD
+http://pingotv.app:80/cadu6768/42166768/35
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium FHD" tvg-logo="http://pingotv.app:80/images/f8d2354ef0cde7800a0475f6babd211d.jpg" group-title="CANAIS DE FILMES",Telecine Premium FHD
+http://pingotv.app:80/cadu6768/42166768/6690
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch HD" tvg-logo="http://pingotv.app:80/images/f9e0315cf192ee9dcc51a388c269941b.jpg" group-title="CANAIS DE FILMES",Telecine Touch HD
+http://pingotv.app:80/cadu6768/42166768/36
+#EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch FHD" tvg-logo="http://pingotv.app:80/images/f9e0315cf192ee9dcc51a388c269941b.jpg" group-title="CANAIS DE FILMES",Telecine Touch FHD
+http://pingotv.app:80/cadu6768/42166768/6689
+#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="Telecine Cult HD" tvg-logo="http://pingotv.app:80/images/2ae5114c0ecc60c635fa458d760f3edf.jpg" group-title="CANAIS DE FILMES",Telecine Cult HD
+http://pingotv.app:80/cadu6768/42166768/77
+#EXTINF:-1 tvg-id="Telecine Cult HD" tvg-name="Telecine Cult FHD" tvg-logo="http://pingotv.app:80/images/2ae5114c0ecc60c635fa458d760f3edf.jpg" group-title="CANAIS DE FILMES",Telecine Cult FHD
+http://pingotv.app:80/cadu6768/42166768/6693
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="http://pingotv.app:80/images/efe049ab5b55500f764f0b079ce5e56f.jpg" group-title="CANAIS DE FILMES",HBO HD
+http://pingotv.app:80/cadu6768/42166768/43
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO FHD" tvg-logo="http://pingotv.app:80/images/efe049ab5b55500f764f0b079ce5e56f.jpg" group-title="CANAIS DE FILMES",HBO FHD
+http://pingotv.app:80/cadu6768/42166768/6733
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="http://pingotv.app:80/images/5d758e62c80448aff34f0371ff3936fe.jpg" group-title="CANAIS DE FILMES",HBO 2 HD
+http://pingotv.app:80/cadu6768/42166768/44
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="HBO 2 FHD" tvg-logo="http://pingotv.app:80/images/5d758e62c80448aff34f0371ff3936fe.jpg" group-title="CANAIS DE FILMES",HBO 2 FHD
+http://pingotv.app:80/cadu6768/42166768/6732
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus HD" tvg-logo="http://pingotv.app:80/images/6818a4df62382dbe0090cbe673e51505.jpg" group-title="CANAIS DE FILMES",HBO Plus HD
+http://pingotv.app:80/cadu6768/42166768/45
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus FHD" tvg-logo="http://pingotv.app:80/images/6818a4df62382dbe0090cbe673e51505.jpg" group-title="CANAIS DE FILMES",HBO Plus FHD
+http://pingotv.app:80/cadu6768/42166768/6726
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="http://pingotv.app:80/images/601b765f38d273e6cf9ac56564e9d057.jpg" group-title="CANAIS DE FILMES",HBO Family HD
+http://pingotv.app:80/cadu6768/42166768/46
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family FHD" tvg-logo="http://pingotv.app:80/images/601b765f38d273e6cf9ac56564e9d057.jpg" group-title="CANAIS DE FILMES",HBO Family FHD
+http://pingotv.app:80/cadu6768/42166768/6731
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="http://pingotv.app:80/images/f801a2b144e58156f2fed1aaa09893fd.jpg" group-title="CANAIS DE FILMES",HBO Signature HD
+http://pingotv.app:80/cadu6768/42166768/123
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature FHD" tvg-logo="http://pingotv.app:80/images/f801a2b144e58156f2fed1aaa09893fd.jpg" group-title="CANAIS DE FILMES",HBO Signature FHD
+http://pingotv.app:80/cadu6768/42166768/6730
+#EXTINF:-1 tvg-id="HBO Pop" tvg-name="HBO Pop HD" tvg-logo="http://pingotv.app:80/images/517a2e192b14a4a810d82e047d6eff3b.jpg" group-title="CANAIS DE FILMES",HBO Pop HD
+http://pingotv.app:80/cadu6768/42166768/74
+#EXTINF:-1 tvg-id="HBO Pop" tvg-name="HBO Pop FHD" tvg-logo="http://pingotv.app:80/images/517a2e192b14a4a810d82e047d6eff3b.jpg" group-title="CANAIS DE FILMES",HBO Pop FHD
+http://pingotv.app:80/cadu6768/42166768/6728
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-name="HBO Mundi HD" tvg-logo="http://pingotv.app:80/images/f006d2cd8d3621ec99b662436ec1d26c.jpg" group-title="CANAIS DE FILMES",HBO Mundi HD
+http://pingotv.app:80/cadu6768/42166768/76
+#EXTINF:-1 tvg-id="HBO Mundi" tvg-name="HBO Mundi FHD" tvg-logo="http://pingotv.app:80/images/f006d2cd8d3621ec99b662436ec1d26c.jpg" group-title="CANAIS DE FILMES",HBO Mundi FHD
+http://pingotv.app:80/cadu6768/42166768/6729
+#EXTINF:-1 tvg-id="HBO Xtreme HD" tvg-name="HBO Xtreme HD" tvg-logo="http://pingotv.app:80/images/9d05d7ed7a2280315dd762a01f60e7e0.jpg" group-title="CANAIS DE FILMES",HBO Xtreme HD
+http://pingotv.app:80/cadu6768/42166768/75
+#EXTINF:-1 tvg-id="HBO Xtreme HD" tvg-name="HBO Xtreme FHD" tvg-logo="http://pingotv.app:80/images/9d05d7ed7a2280315dd762a01f60e7e0.jpg" group-title="CANAIS DE FILMES",HBO Xtreme FHD
+http://pingotv.app:80/cadu6768/42166768/6727
+#EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="Studio Universal HD" tvg-logo="http://pingotv.app:80/images/a9ee496a685a7244182ea020f3401284.jpg" group-title="CANAIS DE FILMES",Studio Universal HD
+http://pingotv.app:80/cadu6768/42166768/67
+#EXTINF:-1 tvg-id="Studio Universal HD" tvg-name="Studio Universal FHD" tvg-logo="http://pingotv.app:80/images/a9ee496a685a7244182ea020f3401284.jpg" group-title="CANAIS DE FILMES",Studio Universal FHD
+http://pingotv.app:80/cadu6768/42166768/6697
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Network HD" tvg-logo="http://pingotv.app:80/images/34aa88ad454281b5d94df0cb308d599b.jpg" group-title="CANAIS DE FILMES",Paramount Network HD
+http://pingotv.app:80/cadu6768/42166768/65
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Network FHD" tvg-logo="http://pingotv.app:80/images/34aa88ad454281b5d94df0cb308d599b.jpg" group-title="CANAIS DE FILMES",Paramount Network FHD
+http://pingotv.app:80/cadu6768/42166768/6711
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM HD" tvg-logo="http://pingotv.app:80/images/a005a08d7cc59163d7f4de2b7fdbc147.jpg" group-title="CANAIS DE FILMES",TCM HD
+http://pingotv.app:80/cadu6768/42166768/227
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM FHD" tvg-logo="http://pingotv.app:80/images/a005a08d7cc59163d7f4de2b7fdbc147.jpg" group-title="CANAIS DE FILMES",TCM FHD
+http://pingotv.app:80/cadu6768/42166768/6695
+#EXTINF:-1 tvg-id="Star Life" tvg-name="Cinecanal HD" tvg-logo="http://pingotv.app:80/images/695fafb15fc3b77df7cc527c10691c6a.jpg" group-title="CANAIS DE FILMES",Cinecanal HD
+http://pingotv.app:80/cadu6768/42166768/108
+#EXTINF:-1 tvg-id="Canal Brasil HD" tvg-name="Canal Brasil HD" tvg-logo="http://pingotv.app:80/images/d3afde601008262d81dac09e88b8e65e.jpg" group-title="CANAIS DE FILMES",Canal Brasil HD
+http://pingotv.app:80/cadu6768/42166768/110
+#EXTINF:-1 tvg-id="FilmArts" tvg-name="Film & Arts HD" tvg-logo="http://pingotv.app:80/images/73cfb6e12342c40320a6def5d88323e4.jpg" group-title="CANAIS DE FILMES",Film & Arts HD
+http://pingotv.app:80/cadu6768/42166768/142
+#EXTINF:-1 tvg-id="Prime Box Brazil HD" tvg-name="Prime Box Brazil HD" tvg-logo="http://pingotv.app:80/images/4cfd97062e75c774629b4b0d3869ff90.jpg" group-title="CANAIS DE FILMES",Prime Box Brazil HD
+http://pingotv.app:80/cadu6768/42166768/226
+#EXTINF:-1 tvg-id="Eurochannel" tvg-name="Eurochannel HD" tvg-logo="http://pingotv.app:80/images/347d16d6a02cf1c529c2b5d47bf9adb8.jpg" group-title="CANAIS DE FILMES",Eurochannel HD
+http://pingotv.app:80/cadu6768/42166768/28302
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 01 FHD" tvg-logo="http://pingotv.app:80/images/f4f8eab772205c2f6a6189d1a2f871c1.jpg" group-title="CANAIS CINE SKY",Cine SKY 01 FHD
+http://pingotv.app:80/cadu6768/42166768/201
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 02 FHD" tvg-logo="http://pingotv.app:80/images/f4f8eab772205c2f6a6189d1a2f871c1.jpg" group-title="CANAIS CINE SKY",Cine SKY 02 FHD
+http://pingotv.app:80/cadu6768/42166768/202
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 03 FHD" tvg-logo="http://pingotv.app:80/images/f4f8eab772205c2f6a6189d1a2f871c1.jpg" group-title="CANAIS CINE SKY",Cine SKY 03 FHD
+http://pingotv.app:80/cadu6768/42166768/203
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 04 FHD" tvg-logo="http://pingotv.app:80/images/f4f8eab772205c2f6a6189d1a2f871c1.jpg" group-title="CANAIS CINE SKY",Cine SKY 04 FHD
+http://pingotv.app:80/cadu6768/42166768/204
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 05 FHD" tvg-logo="http://pingotv.app:80/images/f4f8eab772205c2f6a6189d1a2f871c1.jpg" group-title="CANAIS CINE SKY",Cine SKY 05 FHD
+http://pingotv.app:80/cadu6768/42166768/205
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 06 FHD" tvg-logo="http://pingotv.app:80/images/f4f8eab772205c2f6a6189d1a2f871c1.jpg" group-title="CANAIS CINE SKY",Cine SKY 06 FHD
+http://pingotv.app:80/cadu6768/42166768/206
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 07 FHD" tvg-logo="http://pingotv.app:80/images/f4f8eab772205c2f6a6189d1a2f871c1.jpg" group-title="CANAIS CINE SKY",Cine SKY 07 FHD
+http://pingotv.app:80/cadu6768/42166768/207
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 08 FHD" tvg-logo="http://pingotv.app:80/images/f4f8eab772205c2f6a6189d1a2f871c1.jpg" group-title="CANAIS CINE SKY",Cine SKY 08 FHD
+http://pingotv.app:80/cadu6768/42166768/208
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 09 FHD" tvg-logo="http://pingotv.app:80/images/f4f8eab772205c2f6a6189d1a2f871c1.jpg" group-title="CANAIS CINE SKY",Cine SKY 09 FHD
+http://pingotv.app:80/cadu6768/42166768/209
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 10 FHD" tvg-logo="http://pingotv.app:80/images/f4f8eab772205c2f6a6189d1a2f871c1.jpg" group-title="CANAIS CINE SKY",Cine SKY 10 FHD
+http://pingotv.app:80/cadu6768/42166768/210
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 11 FHD" tvg-logo="http://pingotv.app:80/images/f4f8eab772205c2f6a6189d1a2f871c1.jpg" group-title="CANAIS CINE SKY",Cine SKY 11 FHD
+http://pingotv.app:80/cadu6768/42166768/211
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 12 FHD" tvg-logo="http://pingotv.app:80/images/f4f8eab772205c2f6a6189d1a2f871c1.jpg" group-title="CANAIS CINE SKY",Cine SKY 12 FHD
+http://pingotv.app:80/cadu6768/42166768/212
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 13 FHD" tvg-logo="http://pingotv.app:80/images/f4f8eab772205c2f6a6189d1a2f871c1.jpg" group-title="CANAIS CINE SKY",Cine SKY 13 FHD
+http://pingotv.app:80/cadu6768/42166768/213
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 14 FHD" tvg-logo="http://pingotv.app:80/images/f4f8eab772205c2f6a6189d1a2f871c1.jpg" group-title="CANAIS CINE SKY",Cine SKY 14 FHD
+http://pingotv.app:80/cadu6768/42166768/214
+#EXTINF:-1 tvg-id="" tvg-name="Cine SKY 15 FHD" tvg-logo="http://pingotv.app:80/images/f4f8eab772205c2f6a6189d1a2f871c1.jpg" group-title="CANAIS CINE SKY",Cine SKY 15 FHD
+http://pingotv.app:80/cadu6768/42166768/215
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery HD" tvg-logo="http://pingotv.app:80/images/ca895518372359b524ca120275ba1f23.jpg" group-title="CANAIS DE VARIEDADES",Discovery HD
+http://pingotv.app:80/cadu6768/42166768/12
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery FHD" tvg-logo="http://pingotv.app:80/images/ca895518372359b524ca120275ba1f23.jpg" group-title="CANAIS DE VARIEDADES",Discovery FHD
+http://pingotv.app:80/cadu6768/42166768/6765
+#EXTINF:-1 tvg-id="Investigação Discovery" tvg-name="Discovery ID HD" tvg-logo="http://pingotv.app:80/images/d3ed2df1da591581364b46787b426d43.jpg" group-title="CANAIS DE VARIEDADES",Discovery ID HD
+http://pingotv.app:80/cadu6768/42166768/54
+#EXTINF:-1 tvg-id="Investigação Discovery" tvg-name="Discovery ID FHD" tvg-logo="http://pingotv.app:80/images/d3ed2df1da591581364b46787b426d43.jpg" group-title="CANAIS DE VARIEDADES",Discovery ID FHD
+http://pingotv.app:80/cadu6768/42166768/6723
+#EXTINF:-1 tvg-id="Discovery Home & Health HD" tvg-name="Disc. Home & Health HD" tvg-logo="http://pingotv.app:80/images/732ae0c15c4d83f80cb9ee5c59d3903b.jpg" group-title="CANAIS DE VARIEDADES",Disc. Home & Health HD
+http://pingotv.app:80/cadu6768/42166768/24
+#EXTINF:-1 tvg-id="Discovery Home & Health HD" tvg-name="Disc. Home & Health FHD" tvg-logo="http://pingotv.app:80/images/732ae0c15c4d83f80cb9ee5c59d3903b.jpg" group-title="CANAIS DE VARIEDADES",Disc. Home & Health FHD
+http://pingotv.app:80/cadu6768/42166768/6771
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo HD" tvg-logo="http://pingotv.app:80/images/8d46e886eb80ca4eef0ea448be2c018d.jpg" group-title="CANAIS DE VARIEDADES",Discovery Turbo HD
+http://pingotv.app:80/cadu6768/42166768/9
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo FHD" tvg-logo="http://pingotv.app:80/images/8d46e886eb80ca4eef0ea448be2c018d.jpg" group-title="CANAIS DE VARIEDADES",Discovery Turbo FHD
+http://pingotv.app:80/cadu6768/42166768/6767
+#EXTINF:-1 tvg-id="" tvg-name="Oportunidades TV HD" tvg-logo="http://pingotv.app:80/images/cc4aae774e6ee3d52ab3dedee5e35902.jpg" group-title="CANAIS DE VARIEDADES",Oportunidades TV HD
+http://pingotv.app:80/cadu6768/42166768/31486
+#EXTINF:-1 tvg-id="" tvg-name="Oportunidades TV FHD" tvg-logo="http://pingotv.app:80/images/cc4aae774e6ee3d52ab3dedee5e35902.jpg" group-title="CANAIS DE VARIEDADES",Oportunidades TV FHD
+http://pingotv.app:80/cadu6768/42166768/31485
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World HD" tvg-logo="http://pingotv.app:80/images/7d793037a0760186574b0282f2f435e7.jpg" group-title="CANAIS DE VARIEDADES",Discovery World HD
+http://pingotv.app:80/cadu6768/42166768/113
+#EXTINF:-1 tvg-id="Discovery World HD" tvg-name="Discovery World FHD" tvg-logo="http://pingotv.app:80/images/7d793037a0760186574b0282f2f435e7.jpg" group-title="CANAIS DE VARIEDADES",Discovery World FHD
+http://pingotv.app:80/cadu6768/42166768/6769
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="http://pingotv.app:80/images/2ba9f9466fa076e2197a97990e59c191.jpg" group-title="CANAIS DE VARIEDADES",Discovery Theater HD
+http://pingotv.app:80/cadu6768/42166768/114
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater FHD" tvg-logo="http://pingotv.app:80/images/2ba9f9466fa076e2197a97990e59c191.jpg" group-title="CANAIS DE VARIEDADES",Discovery Theater FHD
+http://pingotv.app:80/cadu6768/42166768/6770
+#EXTINF:-1 tvg-id="History HD" tvg-name="History HD" tvg-logo="http://pingotv.app:80/images/3cd15f8f2940aff879df34df4e5c2cd1.jpg" group-title="CANAIS DE VARIEDADES",History HD
+http://pingotv.app:80/cadu6768/42166768/6
+#EXTINF:-1 tvg-id="History HD" tvg-name="History FHD" tvg-logo="http://pingotv.app:80/images/3cd15f8f2940aff879df34df4e5c2cd1.jpg" group-title="CANAIS DE VARIEDADES",History FHD
+http://pingotv.app:80/cadu6768/42166768/6724
+#EXTINF:-1 tvg-id="H2 HD" tvg-name="History 2 HD" tvg-logo="http://pingotv.app:80/images/490b2834e65737c1fce95e468cc8b8bf.jpg" group-title="CANAIS DE VARIEDADES",History 2 HD
+http://pingotv.app:80/cadu6768/42166768/70
+#EXTINF:-1 tvg-id="H2 HD" tvg-name="History 2 FHD" tvg-logo="http://pingotv.app:80/images/490b2834e65737c1fce95e468cc8b8bf.jpg" group-title="CANAIS DE VARIEDADES",History 2 FHD
+http://pingotv.app:80/cadu6768/42166768/6734
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="http://pingotv.app:80/images/1e4483e833025ac10e6184e75cb2d19d.jpg" group-title="CANAIS DE VARIEDADES",Animal Planet HD
+http://pingotv.app:80/cadu6768/42166768/39
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet FHD" tvg-logo="http://pingotv.app:80/images/1e4483e833025ac10e6184e75cb2d19d.jpg" group-title="CANAIS DE VARIEDADES",Animal Planet FHD
+http://pingotv.app:80/cadu6768/42166768/6762
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic HD" tvg-logo="http://pingotv.app:80/images/f82d71a6491c31b384ab5b57d85b6593.jpg" group-title="CANAIS DE VARIEDADES",National Geographic HD
+http://pingotv.app:80/cadu6768/42166768/15
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic FHD" tvg-logo="http://pingotv.app:80/images/f82d71a6491c31b384ab5b57d85b6593.jpg" group-title="CANAIS DE VARIEDADES",National Geographic FHD
+http://pingotv.app:80/cadu6768/42166768/6715
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="Discovery Science HD" tvg-logo="http://pingotv.app:80/images/fb5c7f9bb4b32ce2f3bff4662f1ab27b.jpg" group-title="CANAIS DE VARIEDADES",Discovery Science HD
+http://pingotv.app:80/cadu6768/42166768/62
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="Discovery Science FHD" tvg-logo="http://pingotv.app:80/images/fb5c7f9bb4b32ce2f3bff4662f1ab27b.jpg" group-title="CANAIS DE VARIEDADES",Discovery Science FHD
+http://pingotv.app:80/cadu6768/42166768/6768
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV HD" tvg-logo="http://pingotv.app:80/images/26e104754d63adb5a0f6ce026be7182b.jpg" group-title="CANAIS DE VARIEDADES",HGTV HD
+http://pingotv.app:80/cadu6768/42166768/61
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV FHD" tvg-logo="http://pingotv.app:80/images/26e104754d63adb5a0f6ce026be7182b.jpg" group-title="CANAIS DE VARIEDADES",HGTV FHD
+http://pingotv.app:80/cadu6768/42166768/6725
+#EXTINF:-1 tvg-id="Food Network HD" tvg-name="Food Network HD" tvg-logo="http://pingotv.app:80/images/62506be34d574da4a0d158a67253ea99.jpg" group-title="CANAIS DE VARIEDADES",Food Network HD
+http://pingotv.app:80/cadu6768/42166768/109
+#EXTINF:-1 tvg-id="Food Network HD" tvg-name="Food Network FHD" tvg-logo="http://pingotv.app:80/images/62506be34d574da4a0d158a67253ea99.jpg" group-title="CANAIS DE VARIEDADES",Food Network FHD
+http://pingotv.app:80/cadu6768/42166768/6744
+#EXTINF:-1 tvg-id="TLC1" tvg-name="TLC HD" tvg-logo="http://pingotv.app:80/images/017a544acb713ac3b4c46402c94a07fc.jpg" group-title="CANAIS DE VARIEDADES",TLC HD
+http://pingotv.app:80/cadu6768/42166768/57
+#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC FHD" tvg-logo="http://pingotv.app:80/images/017a544acb713ac3b4c46402c94a07fc.jpg" group-title="CANAIS DE VARIEDADES",TLC FHD
+http://pingotv.app:80/cadu6768/42166768/6772
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow HD" tvg-logo="http://pingotv.app:80/images/ea8f243d9885cf8ce9876a580224fd3c.jpg" group-title="CANAIS DE VARIEDADES",Multishow HD
+http://pingotv.app:80/cadu6768/42166768/11
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow FHD" tvg-logo="http://pingotv.app:80/images/ea8f243d9885cf8ce9876a580224fd3c.jpg" group-title="CANAIS DE VARIEDADES",Multishow FHD
+http://pingotv.app:80/cadu6768/42166768/6716
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT HD" tvg-logo="http://pingotv.app:80/images/a5e669e9a3073f1384994f3b02576748.jpg" group-title="CANAIS DE VARIEDADES",GNT HD
+http://pingotv.app:80/cadu6768/42166768/22
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT FHD" tvg-logo="http://pingotv.app:80/images/a5e669e9a3073f1384994f3b02576748.jpg" group-title="CANAIS DE VARIEDADES",GNT FHD
+http://pingotv.app:80/cadu6768/42166768/6735
+#EXTINF:-1 tvg-id="Viva" tvg-name="Canal Viva HD" tvg-logo="http://pingotv.app:80/images/91d8dfd979468e3fc76f40300fbe8293.jpg" group-title="CANAIS DE VARIEDADES",Canal Viva HD
+http://pingotv.app:80/cadu6768/42166768/55
+#EXTINF:-1 tvg-id="Viva" tvg-name="Canal Viva FHD" tvg-logo="http://pingotv.app:80/images/91d8dfd979468e3fc76f40300fbe8293.jpg" group-title="CANAIS DE VARIEDADES",Canal Viva FHD
+http://pingotv.app:80/cadu6768/42166768/6685
+#EXTINF:-1 tvg-id="Off" tvg-name="Canal Off HD" tvg-logo="http://pingotv.app:80/images/3262d48df5d75e3452f0f16b313b7808.jpg" group-title="CANAIS DE VARIEDADES",Canal Off HD
+http://pingotv.app:80/cadu6768/42166768/60
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="Canal Off FHD" tvg-logo="http://pingotv.app:80/images/3262d48df5d75e3452f0f16b313b7808.jpg" group-title="CANAIS DE VARIEDADES",Canal Off FHD
+http://pingotv.app:80/cadu6768/42166768/6712
+#EXTINF:-1 tvg-id="Mais na Tela HD" tvg-name="Modo Viagem HD" tvg-logo="http://pingotv.app:80/images/8f4d988018a89858ded2e23f44b0b58e.jpg" group-title="CANAIS DE VARIEDADES",Modo Viagem HD
+http://pingotv.app:80/cadu6768/42166768/59
+#EXTINF:-1 tvg-id="Mais na Tela HD" tvg-name="Modo Viagem FHD" tvg-logo="http://pingotv.app:80/images/8f4d988018a89858ded2e23f44b0b58e.jpg" group-title="CANAIS DE VARIEDADES",Modo Viagem FHD
+http://pingotv.app:80/cadu6768/42166768/6720
+#EXTINF:-1 tvg-id="Comedy iCentral" tvg-name="Comedy Central HD" tvg-logo="http://pingotv.app:80/images/f7029e67f22d8a43ab8d1b3deb896249.jpg" group-title="CANAIS DE VARIEDADES",Comedy Central HD
+http://pingotv.app:80/cadu6768/42166768/63
+#EXTINF:-1 tvg-id="Comedy iCentral" tvg-name="Comedy Central FHD" tvg-logo="http://pingotv.app:80/images/f7029e67f22d8a43ab8d1b3deb896249.jpg" group-title="CANAIS DE VARIEDADES",Comedy Central FHD
+http://pingotv.app:80/cadu6768/42166768/6753
+#EXTINF:-1 tvg-id="E! Entertainment Television HD" tvg-name="E! HD" tvg-logo="http://pingotv.app:80/images/ac58713fda0b07d6401d35f1dbfa3187.jpg" group-title="CANAIS DE VARIEDADES",E! HD
+http://pingotv.app:80/cadu6768/42166768/91
+#EXTINF:-1 tvg-id="E! Entertainment Television HD" tvg-name="E! FHD" tvg-logo="http://pingotv.app:80/images/ac58713fda0b07d6401d35f1dbfa3187.jpg" group-title="CANAIS DE VARIEDADES",E! FHD
+http://pingotv.app:80/cadu6768/42166768/6750
+#EXTINF:-1 tvg-id="Fish TV HD" tvg-name="Fish TV HD" tvg-logo="http://pingotv.app:80/images/4d2187339c2c0f316b0849a8b027c40c.jpg" group-title="CANAIS DE VARIEDADES",Fish TV HD
+http://pingotv.app:80/cadu6768/42166768/92
+#EXTINF:-1 tvg-id="Sabor e Arte" tvg-name="Sabor & Arte FHD" tvg-logo="http://pingotv.app:80/images/786a471af68cb856eb1aec4507ac7fc4.jpg" group-title="CANAIS DE VARIEDADES",Sabor & Arte FHD
+http://pingotv.app:80/cadu6768/42166768/112
+#EXTINF:-1 tvg-id="WooHoo" tvg-name="WooHoo FHD" tvg-logo="http://pingotv.app:80/images/a059ca3d96c5513a8967079ded23d020.jpg" group-title="CANAIS DE VARIEDADES",WooHoo FHD
+http://pingotv.app:80/cadu6768/42166768/116
+#EXTINF:-1 tvg-id="TRACEBR" tvg-name="Trace Brazuca HD" tvg-logo="http://pingotv.app:80/images/04a75036e9d520bb983c5ed03b8d0182.jpg" group-title="CANAIS DE VARIEDADES",Trace Brazuca HD
+http://pingotv.app:80/cadu6768/42166768/131
+#EXTINF:-1 tvg-id="Curta SD" tvg-name="Curta! HD" tvg-logo="http://pingotv.app:80/images/399cf7bcbb3c17fd8802c9125c88665e.jpg" group-title="CANAIS DE VARIEDADES",Curta! HD
+http://pingotv.app:80/cadu6768/42166768/238
+#EXTINF:-1 tvg-id="FASHIONTVHD" tvg-name="Fashion TV HD" tvg-logo="http://pingotv.app:80/images/4f4b914d6db35e19101ff003c4e7ea3a.jpg" group-title="CANAIS DE VARIEDADES",Fashion TV HD
+http://pingotv.app:80/cadu6768/42166768/239
+#EXTINF:-1 tvg-id="TRAVEL" tvg-name="Travel Box Brazil HD" tvg-logo="http://pingotv.app:80/images/52416bda8d5b190ef8cd2383efc52849.jpg" group-title="CANAIS DE VARIEDADES",Travel Box Brazil HD
+http://pingotv.app:80/cadu6768/42166768/125
+#EXTINF:-1 tvg-id="" tvg-name="Tastemade FHD" tvg-logo="http://pingotv.app:80/images/aa8b93dbdd52ef0658c680ac460c1459.jpg" group-title="CANAIS DE VARIEDADES",Tastemade FHD
+http://pingotv.app:80/cadu6768/42166768/292
+#EXTINF:-1 tvg-id="DogTV" tvg-name="Dog TV HD" tvg-logo="http://pingotv.app:80/images/ff748f0e6bed49e4e4fb8881e82277b1.jpg" group-title="CANAIS DE VARIEDADES",Dog TV HD
+http://pingotv.app:80/cadu6768/42166768/126
+#EXTINF:-1 tvg-id="DogTV" tvg-name="Dog TV FHD" tvg-logo="http://pingotv.app:80/images/ff748f0e6bed49e4e4fb8881e82277b1.jpg" group-title="CANAIS DE VARIEDADES",Dog TV FHD
+http://pingotv.app:80/cadu6768/42166768/6751
+#EXTINF:-1 tvg-id="Globo News" tvg-name="GloboNews HD" tvg-logo="http://pingotv.app:80/images/b0f72a7ad15faadb654950e47af467ee.jpg" group-title="CANAIS DE NOTÍCIAS",GloboNews HD
+http://pingotv.app:80/cadu6768/42166768/25
+#EXTINF:-1 tvg-id="Globo News" tvg-name="GloboNews FHD" tvg-logo="http://pingotv.app:80/images/b0f72a7ad15faadb654950e47af467ee.jpg" group-title="CANAIS DE NOTÍCIAS",GloboNews FHD
+http://pingotv.app:80/cadu6768/42166768/6681
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="Jovem Pan News HD" tvg-logo="http://pingotv.app:80/images/4e30cb06b9d776edfd52ea959f52c377.jpg" group-title="CANAIS DE NOTÍCIAS",Jovem Pan News HD
+http://pingotv.app:80/cadu6768/42166768/115
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="Jovem Pan News FHD" tvg-logo="http://pingotv.app:80/images/4e30cb06b9d776edfd52ea959f52c377.jpg" group-title="CANAIS DE NOTÍCIAS",Jovem Pan News FHD
+http://pingotv.app:80/cadu6768/42166768/6722
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News HD" tvg-logo="http://pingotv.app:80/images/f79701acef6cbb6ee6a0cb89c090f3bb.jpg" group-title="CANAIS DE NOTÍCIAS",Record News HD
+http://pingotv.app:80/cadu6768/42166768/82
+#EXTINF:-1 tvg-id="Band News" tvg-name="BandNews HD" tvg-logo="http://pingotv.app:80/images/f1a218e37f310d42b8e7687ec6e340f6.jpg" group-title="CANAIS DE NOTÍCIAS",BandNews HD
+http://pingotv.app:80/cadu6768/42166768/26
+#EXTINF:-1 tvg-id="Band News" tvg-name="BandNews FHD" tvg-logo="http://pingotv.app:80/images/f1a218e37f310d42b8e7687ec6e340f6.jpg" group-title="CANAIS DE NOTÍCIAS",BandNews FHD
+http://pingotv.app:80/cadu6768/42166768/6761
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil HD" tvg-logo="http://pingotv.app:80/images/ea2c92ca5bfbef90b6a6a2e8bb68b1f7.jpg" group-title="CANAIS DE NOTÍCIAS",CNN Brasil HD
+http://pingotv.app:80/cadu6768/42166768/99
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil FHD" tvg-logo="http://pingotv.app:80/images/ea2c92ca5bfbef90b6a6a2e8bb68b1f7.jpg" group-title="CANAIS DE NOTÍCIAS",CNN Brasil FHD
+http://pingotv.app:80/cadu6768/42166768/6755
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN International HD" tvg-logo="http://pingotv.app:80/images/327d596b977d09839b2973ac0a6d15fc.jpg" group-title="CANAIS DE NOTÍCIAS",CNN International HD
+http://pingotv.app:80/cadu6768/42166768/88
+#EXTINF:-1 tvg-id="" tvg-name="Euronews HD" tvg-logo="http://pingotv.app:80/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="CANAIS DE NOTÍCIAS",Euronews HD
+http://pingotv.app:80/cadu6768/42166768/453
+#EXTINF:-1 tvg-id="" tvg-name="France 24 HD" tvg-logo="http://pingotv.app:80/images/e165d4f2174b66a7d1a95cb204d296eb.jpg" group-title="CANAIS DE NOTÍCIAS",France 24 HD
+http://pingotv.app:80/cadu6768/42166768/454
+#EXTINF:-1 tvg-id="" tvg-name="Fox News HD" tvg-logo="http://pingotv.app:80/images/5e1fb4b0c333684a1cb36aa239fb6ec8.jpg" group-title="CANAIS DE NOTÍCIAS",Fox News HD
+http://pingotv.app:80/cadu6768/42166768/301
+#EXTINF:-1 tvg-id="" tvg-name="ABC News HD" tvg-logo="http://pingotv.app:80/images/900150983cd24fb0d6963f7d28e17f72.jpg" group-title="CANAIS DE NOTÍCIAS",ABC News HD
+http://pingotv.app:80/cadu6768/42166768/794
+#EXTINF:-1 tvg-id="RTP Internacional" tvg-name="RTP Internacional HD" tvg-logo="http://pingotv.app:80/images/0b60f054257eed7f9974af005b89528e.jpg" group-title="CANAIS DE NOTÍCIAS",RTP Internacional HD
+http://pingotv.app:80/cadu6768/42166768/770
+#EXTINF:-1 tvg-id="" tvg-name="Rai News 24 HD" tvg-logo="http://pingotv.app:80/images/b90a40fa2006a43f6844feab08f23b7b.jpg" group-title="CANAIS DE NOTÍCIAS",Rai News 24 HD
+http://pingotv.app:80/cadu6768/42166768/106
+#EXTINF:-1 tvg-id="" tvg-name="NHK World HD" tvg-logo="http://pingotv.app:80/images/18cce8ec1fb2982a4e11dd6b1b3efa36.jpg" group-title="CANAIS DE NOTÍCIAS",NHK World HD
+http://pingotv.app:80/cadu6768/42166768/118
+#EXTINF:-1 tvg-id="" tvg-name="Newsmax TV HD" tvg-logo="http://pingotv.app:80/images/6f4fd2daff81eca815e427b6ee9320d2.jpg" group-title="CANAIS DE NOTÍCIAS",Newsmax TV HD
+http://pingotv.app:80/cadu6768/42166768/452
+#EXTINF:-1 tvg-id="" tvg-name="CBS News HD" tvg-logo="http://pingotv.app:80/images/f0b38acd93dbe29a63bd0787d9933d3b.jpg" group-title="CANAIS DE NOTÍCIAS",CBS News HD
+http://pingotv.app:80/cadu6768/42166768/455
+#EXTINF:-1 tvg-id="" tvg-name="RTVE Noticias HD" tvg-logo="http://pingotv.app:80/images/6f983938df69282f74d886ba1b074eb5.jpg" group-title="CANAIS DE NOTÍCIAS",RTVE Noticias HD
+http://pingotv.app:80/cadu6768/42166768/786
+#EXTINF:-1 tvg-id="" tvg-name="DW News HD" tvg-logo="http://pingotv.app:80/images/1f2121f36f817bd18540e5fa7de06f59.jpg" group-title="CANAIS DE NOTÍCIAS",DW News HD
+http://pingotv.app:80/cadu6768/42166768/456
+#EXTINF:-1 tvg-id="" tvg-name="CGTN HD" tvg-logo="http://pingotv.app:80/images/455fa5882044e09e7000ceb569a8ac22.jpg" group-title="CANAIS DE NOTÍCIAS",CGTN HD
+http://pingotv.app:80/cadu6768/42166768/119
+#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS HD" tvg-logo="http://pingotv.app:80/images/227cee183f9b009e2f81f2f8339e281b.jpg" group-title="CANAIS DE MÚSICA",BIS HD
+http://pingotv.app:80/cadu6768/42166768/58
+#EXTINF:-1 tvg-id="MTV Brasil" tvg-name="MTV HD" tvg-logo="http://pingotv.app:80/images/88eaac40b27c1b47df9a3f7b7d71e3e3.jpg" group-title="CANAIS DE MÚSICA",MTV HD
+http://pingotv.app:80/cadu6768/42166768/64
+#EXTINF:-1 tvg-id="MTV Brasil" tvg-name="MTV FHD" tvg-logo="http://pingotv.app:80/images/88eaac40b27c1b47df9a3f7b7d71e3e3.jpg" group-title="CANAIS DE MÚSICA",MTV FHD
+http://pingotv.app:80/cadu6768/42166768/6718
+#EXTINF:-1 tvg-id="MTV 00s" tvg-name="MTV 00s HD" tvg-logo="http://pingotv.app:80/images/5d4f74beedee08a24ddec71471f0c1a9.jpg" group-title="CANAIS DE MÚSICA",MTV 00s HD
+http://pingotv.app:80/cadu6768/42166768/66
+#EXTINF:-1 tvg-id="MTV 00s" tvg-name="MTV 00s FHD" tvg-logo="http://pingotv.app:80/images/5d4f74beedee08a24ddec71471f0c1a9.jpg" group-title="CANAIS DE MÚSICA",MTV 00s FHD
+http://pingotv.app:80/cadu6768/42166768/6719
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live HD" tvg-logo="http://pingotv.app:80/images/b7951f9081fefcff7b2f917eeb0c6aac.jpg" group-title="CANAIS DE MÚSICA",MTV Live HD
+http://pingotv.app:80/cadu6768/42166768/262
+#EXTINF:-1 tvg-id="MTV Live" tvg-name="MTV Live FHD" tvg-logo="http://pingotv.app:80/images/b7951f9081fefcff7b2f917eeb0c6aac.jpg" group-title="CANAIS DE MÚSICA",MTV Live FHD
+http://pingotv.app:80/cadu6768/42166768/6717
+#EXTINF:-1 tvg-id="" tvg-name="Radio M2O HD" tvg-logo="http://pingotv.app:80/images/e3150c613fc681a4d138ffae5a1cbf2d.jpg" group-title="CANAIS DE MÚSICA",Radio M2O HD
+http://pingotv.app:80/cadu6768/42166768/117
+#EXTINF:-1 tvg-id="" tvg-name="Deluxe Music HD" tvg-logo="http://pingotv.app:80/images/6f4734979e18fdf96ee2624b03dc493c.jpg" group-title="CANAIS DE MÚSICA",Deluxe Music HD
+http://pingotv.app:80/cadu6768/42166768/457
+#EXTINF:-1 tvg-id="" tvg-name="Top Latino HD" tvg-logo="http://pingotv.app:80/images/ee45380827a21adcaba956b31f8f2b92.jpg" group-title="CANAIS DE MÚSICA",Top Latino HD
+http://pingotv.app:80/cadu6768/42166768/459
+#EXTINF:-1 tvg-id="" tvg-name="IndiMusic TV HD" tvg-logo="http://pingotv.app:80/images/a28bdc8d041c8d648f90c1cb298df644.jpg" group-title="CANAIS DE MÚSICA",IndiMusic TV HD
+http://pingotv.app:80/cadu6768/42166768/460
+#EXTINF:-1 tvg-id="" tvg-name="Retro Music TV HD" tvg-logo="http://pingotv.app:80/images/01bb5757f06af200b071ab4c22092afa.jpg" group-title="CANAIS DE MÚSICA",Retro Music TV HD
+http://pingotv.app:80/cadu6768/42166768/461
+#EXTINF:-1 tvg-id="MusicBoxBrazil.br" tvg-name="Music Box Brazil HD" tvg-logo="http://pingotv.app:80/images/7a6d033c3f133b1e0ea35c5a981edf49.jpg" group-title="CANAIS DE MÚSICA",Music Box Brazil HD
+http://pingotv.app:80/cadu6768/42166768/290
+#EXTINF:-1 tvg-id="" tvg-name="Top TV HD" tvg-logo="http://pingotv.app:80/images/1c2812289f81d3b1adb2f14611f554bd.jpg" group-title="CANAIS DE MÚSICA",Top TV HD
+http://pingotv.app:80/cadu6768/42166768/27377
+#EXTINF:-1 tvg-id="" tvg-name="Antena 1 HD" tvg-logo="http://pingotv.app:80/images/b6c12b68682f5cde4d444b3641564008.jpg" group-title="CANAIS DE MÚSICA",Antena 1 HD
+http://pingotv.app:80/cadu6768/42166768/30079
+#EXTINF:-1 tvg-id="" tvg-name="RadioU HD" tvg-logo="http://pingotv.app:80/images/ad71184fb45b550446d0a3279c1b84e2.jpg" group-title="CANAIS DE MÚSICA",RadioU HD
+http://pingotv.app:80/cadu6768/42166768/458
+#EXTINF:-1 tvg-id="Globo São Paulo" tvg-name="Globo SP 4K UHD" tvg-logo="http://pingotv.app:80/images/909f6c90b6db150078092be31dc47ffd.jpg" group-title="CANAIS 4K UHD",Globo SP 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3552
+#EXTINF:-1 tvg-id="Band" tvg-name="Band SP 4K UHD" tvg-logo="http://pingotv.app:80/images/574ff4699083ce51de0dabcfad5edc4c.jpg" group-title="CANAIS 4K UHD",Band SP 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3557
+#EXTINF:-1 tvg-id="Record SP HD" tvg-name="Record SP 4K UHD" tvg-logo="http://pingotv.app:80/images/de17f0f24b49f8364187891f8550ffbb.jpg" group-title="CANAIS 4K UHD",Record SP 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3546
+#EXTINF:-1 tvg-id="SBT Rede - SAT Analógico" tvg-name="SBT SP 4K UHD" tvg-logo="http://pingotv.app:80/images/eadc1bacb17aea28d29fefc19868b5e1.jpg" group-title="CANAIS 4K UHD",SBT SP 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3573
+#EXTINF:-1 tvg-id="RedeTV! São Paulo" tvg-name="Rede TV 4K UHD" tvg-logo="http://pingotv.app:80/images/03f4c1104b82f07717874ec12c2497c7.jpg" group-title="CANAIS 4K UHD",Rede TV 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3545
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT 4K UHD" tvg-logo="http://pingotv.app:80/images/2f6e1edb0943c07021baddd1d530d81b.jpg" group-title="CANAIS 4K UHD",TNT 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3541
+#EXTINF:-1 tvg-id="Space HD" tvg-name="Space 4K UHD" tvg-logo="http://pingotv.app:80/images/a66dc42174efd3e940bbaa5a91fc4367.jpg" group-title="CANAIS 4K UHD",Space 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3544
+#EXTINF:-1 tvg-id="Megapix HD" tvg-name="Megapix 4K UHD" tvg-logo="http://pingotv.app:80/images/9aedabb5660e1dbf22e015f41380d1e6.jpg" group-title="CANAIS 4K UHD",Megapix 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3549
+#EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium 4K UHD" tvg-logo="http://pingotv.app:80/images/f8d2354ef0cde7800a0475f6babd211d.jpg" group-title="CANAIS 4K UHD",Telecine Premium 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3534
+#EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="Telecine Pipoca 4K UHD" tvg-logo="http://pingotv.app:80/images/6cb6c1ee40094333df93f7cac3640103.jpg" group-title="CANAIS 4K UHD",Telecine Pipoca 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3542
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO 4K UHD" tvg-logo="http://pingotv.app:80/images/efe049ab5b55500f764f0b079ce5e56f.jpg" group-title="CANAIS 4K UHD",HBO 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3551
+#EXTINF:-1 tvg-id="HBO Xtreme HD" tvg-name="HBO Xtreme 4K UHD" tvg-logo="http://pingotv.app:80/images/9d05d7ed7a2280315dd762a01f60e7e0.jpg" group-title="CANAIS 4K UHD",HBO Xtreme 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3550
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN 4K UHD" tvg-logo="http://pingotv.app:80/images/b127191fc35dde95277a07b9bdb8a113.jpg" group-title="CANAIS 4K UHD",AXN 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3564
+#EXTINF:-1 tvg-id="Star Channel HD" tvg-name="Star Channel 4K UHD" tvg-logo="http://pingotv.app:80/images/d88e7788b4a6734616e54dea2dff177f.jpg" group-title="CANAIS 4K UHD",Star Channel 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3543
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Séries 4K UHD" tvg-logo="http://pingotv.app:80/images/15781d5b07b06b40203ab85b96ad869b.jpg" group-title="CANAIS 4K UHD",TNT Séries 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3540
+#EXTINF:-1 tvg-id="Cartoon0Network" tvg-name="Cartoon Network 4K UHD" tvg-logo="http://pingotv.app:80/images/46e25e123679ab1c022b431dc86ee0a2.jpg" group-title="CANAIS 4K UHD",Cartoon Network 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3556
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery 4K UHD" tvg-logo="http://pingotv.app:80/images/ca895518372359b524ca120275ba1f23.jpg" group-title="CANAIS 4K UHD",Discovery 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3566
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo 4K UHD" tvg-logo="http://pingotv.app:80/images/8d46e886eb80ca4eef0ea448be2c018d.jpg" group-title="CANAIS 4K UHD",Discovery Turbo 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3565
+#EXTINF:-1 tvg-id="Discovery H&H" tvg-name="Disc. Home & Health 4K UHD" tvg-logo="http://pingotv.app:80/images/732ae0c15c4d83f80cb9ee5c59d3903b.jpg" group-title="CANAIS 4K UHD",Disc. Home & Health 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3560
+#EXTINF:-1 tvg-id="" tvg-name="Oportunidades TV 4K UHD" tvg-logo="http://pingotv.app:80/images/cc4aae774e6ee3d52ab3dedee5e35902.jpg" group-title="CANAIS 4K UHD",Oportunidades TV 4K UHD
+http://pingotv.app:80/cadu6768/42166768/31484
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network 4K UHD" tvg-logo="http://pingotv.app:80/images/62506be34d574da4a0d158a67253ea99.jpg" group-title="CANAIS 4K UHD",Food Network 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3690
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="National Geographic 4K UHD" tvg-logo="http://pingotv.app:80/images/f82d71a6491c31b384ab5b57d85b6593.jpg" group-title="CANAIS 4K UHD",National Geographic 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3547
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet 4K UHD" tvg-logo="http://pingotv.app:80/images/1e4483e833025ac10e6184e75cb2d19d.jpg" group-title="CANAIS 4K UHD",Animal Planet 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3558
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT 4K UHD" tvg-logo="http://pingotv.app:80/images/a5e669e9a3073f1384994f3b02576748.jpg" group-title="CANAIS 4K UHD",GNT 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3563
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow 4K UHD" tvg-logo="http://pingotv.app:80/images/ea8f243d9885cf8ce9876a580224fd3c.jpg" group-title="CANAIS 4K UHD",Multishow 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3548
+#EXTINF:-1 tvg-id="Comedy iCentral" tvg-name="Comedy Central 4K UHD" tvg-logo="http://pingotv.app:80/images/f7029e67f22d8a43ab8d1b3deb896249.jpg" group-title="CANAIS 4K UHD",Comedy Central 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3554
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate 4K UHD" tvg-logo="http://pingotv.app:80/images/758d8b1cbf0b6cee37110825fead0f77.jpg" group-title="CANAIS 4K UHD",Combate 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3555
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 4K UHD" tvg-logo="http://pingotv.app:80/images/03ac82a1166b77af8f94c9585710f053.jpg" group-title="CANAIS 4K UHD",ESPN 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3539
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 4K UHD" tvg-logo="http://pingotv.app:80/images/017f41a2ef4ff9d39f45f680b88cd23b.jpg" group-title="CANAIS 4K UHD",ESPN 2 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3559
+#EXTINF:-1 tvg-id="ESPN 3" tvg-name="ESPN 3 4K UHD" tvg-logo="http://pingotv.app:80/images/3e99c57a516c085d9c222e40aebc7129.jpg" group-title="CANAIS 4K UHD",ESPN 3 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3538
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 4K UHD" tvg-logo="http://pingotv.app:80/images/bfb9a69c9813f26eae33eb06029fa0ad.jpg" group-title="CANAIS 4K UHD",ESPN 4 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3537
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="ESPN 5 4K UHD" tvg-logo="http://pingotv.app:80/images/4d26ed5201c19cba093c70c98482645c.jpg" group-title="CANAIS 4K UHD",ESPN 5 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3553
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV 4K UHD" tvg-logo="http://pingotv.app:80/images/43c36900b0aa86ded24077870df74926.jpg" group-title="CANAIS 4K UHD",SporTV 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3536
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes 4K UHD" tvg-logo="http://pingotv.app:80/images/51b2a1da0ed665b405d7ba83324ffb02.jpg" group-title="CANAIS 4K UHD",Premiere Clubes 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3535
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 4K UHD" tvg-logo="http://pingotv.app:80/images/51b2a1da0ed665b405d7ba83324ffb02.jpg" group-title="CANAIS 4K UHD",Premiere 2 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3567
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 4K UHD" tvg-logo="http://pingotv.app:80/images/51b2a1da0ed665b405d7ba83324ffb02.jpg" group-title="CANAIS 4K UHD",Premiere 3 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3568
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 4K UHD" tvg-logo="http://pingotv.app:80/images/51b2a1da0ed665b405d7ba83324ffb02.jpg" group-title="CANAIS 4K UHD",Premiere 4 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3569
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 4K UHD" tvg-logo="http://pingotv.app:80/images/51b2a1da0ed665b405d7ba83324ffb02.jpg" group-title="CANAIS 4K UHD",Premiere 5 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3570
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 4K UHD" tvg-logo="http://pingotv.app:80/images/51b2a1da0ed665b405d7ba83324ffb02.jpg" group-title="CANAIS 4K UHD",Premiere 6 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3571
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 4K UHD" tvg-logo="http://pingotv.app:80/images/51b2a1da0ed665b405d7ba83324ffb02.jpg" group-title="CANAIS 4K UHD",Premiere 7 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3572
+#EXTINF:-1 tvg-id="Globo News" tvg-name="GloboNews 4K UHD" tvg-logo="http://pingotv.app:80/images/b0f72a7ad15faadb654950e47af467ee.jpg" group-title="CANAIS 4K UHD",GloboNews 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3561
+#EXTINF:-1 tvg-id="Jovem Pan News" tvg-name="Jovem Pan News 4K UHD" tvg-logo="http://pingotv.app:80/images/4e30cb06b9d776edfd52ea959f52c377.jpg" group-title="CANAIS 4K UHD",Jovem Pan News 4K UHD
+http://pingotv.app:80/cadu6768/42166768/3562
+#EXTINF:-1 tvg-id="" tvg-name="A Casa do Mickey Mouse HD" tvg-logo="http://pingotv.app:80/images/4d5257e5acc7fcac2f5dcd66c4e78f9a.jpg" group-title="CANAIS 24H KIDS",A Casa do Mickey Mouse HD
+http://pingotv.app:80/cadu6768/42166768/481
+#EXTINF:-1 tvg-id="" tvg-name="Turma da Mônica HD" tvg-logo="http://pingotv.app:80/images/0e6de3c2deee84c488ef75834b961797.jpg" group-title="CANAIS 24H KIDS",Turma da Mônica HD
+http://pingotv.app:80/cadu6768/42166768/484
+#EXTINF:-1 tvg-id="" tvg-name="Peppa Pig HD" tvg-logo="http://pingotv.app:80/images/6e9a4d130a9b316e9201238844dd5124.jpg" group-title="CANAIS 24H KIDS",Peppa Pig HD
+http://pingotv.app:80/cadu6768/42166768/478
+#EXTINF:-1 tvg-id="" tvg-name="Pica-Pau HD" tvg-logo="http://pingotv.app:80/images/f93374e8176706953debae9e7b74cdc3.jpg" group-title="CANAIS 24H KIDS",Pica-Pau HD
+http://pingotv.app:80/cadu6768/42166768/489
+#EXTINF:-1 tvg-id="" tvg-name="Tom e Jerry HD" tvg-logo="http://pingotv.app:80/images/823eb6938fdec528510d731332fac80e.jpg" group-title="CANAIS 24H KIDS",Tom e Jerry HD
+http://pingotv.app:80/cadu6768/42166768/487
+#EXTINF:-1 tvg-id="" tvg-name="Pocoyo HD" tvg-logo="http://pingotv.app:80/images/c68059ff9075a67037d15000881f9ae4.jpg" group-title="CANAIS 24H KIDS",Pocoyo HD
+http://pingotv.app:80/cadu6768/42166768/477
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Bita HD" tvg-logo="http://pingotv.app:80/images/e2a00a6481b4654ff0e35325780a0d10.jpg" group-title="CANAIS 24H KIDS",Mundo Bita HD
+http://pingotv.app:80/cadu6768/42166768/482
+#EXTINF:-1 tvg-id="" tvg-name="Dorme Dorme Mundo Bita HD" tvg-logo="http://pingotv.app:80/images/a7d2467b80e2c185824fec4206ee31b9.jpg" group-title="CANAIS 24H KIDS",Dorme Dorme Mundo Bita HD
+http://pingotv.app:80/cadu6768/42166768/483
+#EXTINF:-1 tvg-id="" tvg-name="A Pantera Cor-de-Rosa HD" tvg-logo="http://pingotv.app:80/images/2d58b0ac72f929ca9ad3238ade9eab69.jpg" group-title="CANAIS 24H KIDS",A Pantera Cor-de-Rosa HD
+http://pingotv.app:80/cadu6768/42166768/485
+#EXTINF:-1 tvg-id="" tvg-name="Jelly Jam HD" tvg-logo="http://pingotv.app:80/images/328356824c8487cf314aa350d11ae145.jpg" group-title="CANAIS 24H KIDS",Jelly Jam HD
+http://pingotv.app:80/cadu6768/42166768/486
+#EXTINF:-1 tvg-id="" tvg-name="O Show dos Looney Tunes HD" tvg-logo="http://pingotv.app:80/images/af83ee1646c420803ce64eae067e6f4d.jpg" group-title="CANAIS 24H KIDS",O Show dos Looney Tunes HD
+http://pingotv.app:80/cadu6768/42166768/488
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Tintim HD" tvg-logo="http://pingotv.app:80/images/a8967cdb80c6538c99d13cb01f870c63.jpg" group-title="CANAIS 24H KIDS",As Aventuras de Tintim HD
+http://pingotv.app:80/cadu6768/42166768/490
+#EXTINF:-1 tvg-id="" tvg-name="Sonic Underground HD" tvg-logo="http://pingotv.app:80/images/bb5459bf19132d4dc1340654c17331df.jpg" group-title="CANAIS 24H KIDS",Sonic Underground HD
+http://pingotv.app:80/cadu6768/42166768/491
+#EXTINF:-1 tvg-id="" tvg-name="Booba HD" tvg-logo="http://pingotv.app:80/images/a312595a3b001746688843ffaf89824f.jpg" group-title="CANAIS 24H KIDS",Booba HD
+http://pingotv.app:80/cadu6768/42166768/492
+#EXTINF:-1 tvg-id="" tvg-name="Léo o Caminhão HD" tvg-logo="http://pingotv.app:80/images/23798907aa04b53fe924eb01f48f2c2b.jpg" group-title="CANAIS 24H KIDS",Léo o Caminhão HD
+http://pingotv.app:80/cadu6768/42166768/8437
+#EXTINF:-1 tvg-id="" tvg-name="Disney Classics 1 FHD" tvg-logo="http://pingotv.app:80/images/2d59b9abb271059acf73fbe2f1296493.jpg" group-title="CANAIS 24H KIDS",Disney Classics 1 FHD
+http://pingotv.app:80/cadu6768/42166768/479
+#EXTINF:-1 tvg-id="" tvg-name="Disney Classics 2 FHD" tvg-logo="http://pingotv.app:80/images/2d59b9abb271059acf73fbe2f1296493.jpg" group-title="CANAIS 24H KIDS",Disney Classics 2 FHD
+http://pingotv.app:80/cadu6768/42166768/480
+#EXTINF:-1 tvg-id="" tvg-name="Patrulha Canina HD" tvg-logo="http://pingotv.app:80/images/e1055d44215ca910a0cb2fd48293e8c6.jpg" group-title="CANAIS 24H KIDS",Patrulha Canina HD
+http://pingotv.app:80/cadu6768/42166768/1718
+#EXTINF:-1 tvg-id="" tvg-name="Cleo & Cuquin HD" tvg-logo="http://pingotv.app:80/images/8868eae1a01e5cfb22714b13f34aa8a4.jpg" group-title="CANAIS 24H KIDS",Cleo & Cuquin HD
+http://pingotv.app:80/cadu6768/42166768/23443
+#EXTINF:-1 tvg-id="" tvg-name="Galinha Pintadinha HD" tvg-logo="http://pingotv.app:80/images/a4a93a2f2ea20ca585bd6b7897af7a45.jpg" group-title="CANAIS 24H KIDS",Galinha Pintadinha HD
+http://pingotv.app:80/cadu6768/42166768/1720
+#EXTINF:-1 tvg-id="" tvg-name="3 Palavrinhas HD" tvg-logo="http://pingotv.app:80/images/761fb2aad84ed21210b6ef625aef555f.jpg" group-title="CANAIS 24H KIDS",3 Palavrinhas HD
+http://pingotv.app:80/cadu6768/42166768/1721
+#EXTINF:-1 tvg-id="" tvg-name="Masha e o Urso HD" tvg-logo="http://pingotv.app:80/images/c3cc6e312d2bad42cf535aac3a259abd.jpg" group-title="CANAIS 24H KIDS",Masha e o Urso HD
+http://pingotv.app:80/cadu6768/42166768/1722
+#EXTINF:-1 tvg-id="" tvg-name="PJ Masks HD" tvg-logo="http://pingotv.app:80/images/ce38fdcaab276279ceda3f9c29a0d153.jpg" group-title="CANAIS 24H KIDS",PJ Masks HD
+http://pingotv.app:80/cadu6768/42166768/1723
+#EXTINF:-1 tvg-id="" tvg-name="Pernalonga HD" tvg-logo="http://pingotv.app:80/images/70317200203d065ca0ad9a4d324fa0cb.jpg" group-title="CANAIS 24H KIDS",Pernalonga HD
+http://pingotv.app:80/cadu6768/42166768/1724
+#EXTINF:-1 tvg-id="" tvg-name="Dó, Ré e Mi HD" tvg-logo="http://pingotv.app:80/images/2b6b2a9533531e4ca962da50887aa260.jpg" group-title="CANAIS 24H KIDS",Dó, Ré e Mi HD
+http://pingotv.app:80/cadu6768/42166768/13716
+#EXTINF:-1 tvg-id="" tvg-name="Os Smurfs HD" tvg-logo="http://pingotv.app:80/images/923c5382340bcb62a072c29f954d97c2.jpg" group-title="CANAIS 24H KIDS",Os Smurfs HD
+http://pingotv.app:80/cadu6768/42166768/13717
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Panda HD" tvg-logo="http://pingotv.app:80/images/1671c6ae4eedf7fe0197935aecbbb400.jpg" group-title="CANAIS 24H KIDS",Kung Fu Panda HD
+http://pingotv.app:80/cadu6768/42166768/13718
+#EXTINF:-1 tvg-id="" tvg-name="Moranguinho HD" tvg-logo="http://pingotv.app:80/images/c1ac86cdf4dd211dd1e7519374108e80.jpg" group-title="CANAIS 24H KIDS",Moranguinho HD
+http://pingotv.app:80/cadu6768/42166768/13719
+#EXTINF:-1 tvg-id="" tvg-name="Patati e Patata HD" tvg-logo="http://pingotv.app:80/images/18262dbc55cae3136b89b2efd04195c6.jpg" group-title="CANAIS 24H KIDS",Patati e Patata HD
+http://pingotv.app:80/cadu6768/42166768/1719
+#EXTINF:-1 tvg-id="" tvg-name="Blaze e os Monster Machines HD" tvg-logo="http://pingotv.app:80/images/9084994342186c542e75b2fc5241c547.jpg" group-title="CANAIS 24H KIDS",Blaze e os Monster Machines HD
+http://pingotv.app:80/cadu6768/42166768/22951
+#EXTINF:-1 tvg-id="" tvg-name="O Rei do Bairro HD" tvg-logo="http://pingotv.app:80/images/0edab40fd40f17ed2bd92f55220adbae.jpg" group-title="CANAIS 24H",O Rei do Bairro HD
+http://pingotv.app:80/cadu6768/42166768/33288
+#EXTINF:-1 tvg-id="" tvg-name="Dois Homens e Meio HD" tvg-logo="http://pingotv.app:80/images/b8a9f715dbb64fd5c56e7783c6820a61.jpg" group-title="CANAIS 24H",Dois Homens e Meio HD
+http://pingotv.app:80/cadu6768/42166768/493
+#EXTINF:-1 tvg-id="" tvg-name="Tratamento de Choque HD" tvg-logo="http://pingotv.app:80/images/bceaf5c05d593bd9b4d95c91e6dbfbb8.jpg" group-title="CANAIS 24H",Tratamento de Choque HD
+http://pingotv.app:80/cadu6768/42166768/30425
+#EXTINF:-1 tvg-id="" tvg-name="Eu a Patroa e as Crianças HD" tvg-logo="http://pingotv.app:80/images/9fbfa60ae62b6fe6f8674ff92d8394dd.jpg" group-title="CANAIS 24H",Eu a Patroa e as Crianças HD
+http://pingotv.app:80/cadu6768/42166768/494
+#EXTINF:-1 tvg-id="" tvg-name="Os Simpsons HD" tvg-logo="http://pingotv.app:80/images/39b4fb4846c99c1d41a4e015da0b60bc.jpg" group-title="CANAIS 24H",Os Simpsons HD
+http://pingotv.app:80/cadu6768/42166768/495
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Chris HD" tvg-logo="http://pingotv.app:80/images/d9d4b9a18e485f8a5f7c2c4e2aaa30ac.jpg" group-title="CANAIS 24H",Todo Mundo Odeia o Chris HD
+http://pingotv.app:80/cadu6768/42166768/496
+#EXTINF:-1 tvg-id="" tvg-name="Um Maluco no Pedaço HD" tvg-logo="http://pingotv.app:80/images/0eac5e83731ac8cf938c8cdb0442ffc0.jpg" group-title="CANAIS 24H",Um Maluco no Pedaço HD
+http://pingotv.app:80/cadu6768/42166768/1713
+#EXTINF:-1 tvg-id="" tvg-name="Friends HD" tvg-logo="http://pingotv.app:80/images/28f20a02bf8a021fab4fcec48afb584e.jpg" group-title="CANAIS 24H",Friends HD
+http://pingotv.app:80/cadu6768/42166768/1714
+#EXTINF:-1 tvg-id="" tvg-name="Supernatural HD" tvg-logo="http://pingotv.app:80/images/af049a6e2ca043849fa281fa50c2f362.jpg" group-title="CANAIS 24H",Supernatural HD
+http://pingotv.app:80/cadu6768/42166768/1715
+#EXTINF:-1 tvg-id="" tvg-name="Big Bang: A Teoria HD" tvg-logo="http://pingotv.app:80/images/f447df8362a4d0d9f5142f563595684b.jpg" group-title="CANAIS 24H",Big Bang: A Teoria HD
+http://pingotv.app:80/cadu6768/42166768/17134
+#EXTINF:-1 tvg-id="" tvg-name="Chaves HD" tvg-logo="http://pingotv.app:80/images/118d11972ac892c91830e386aed1eb44.jpg" group-title="CANAIS 24H",Chaves HD
+http://pingotv.app:80/cadu6768/42166768/1716
+#EXTINF:-1 tvg-id="" tvg-name="Chapolin HD" tvg-logo="http://pingotv.app:80/images/3249b0130aede0ee8a70a4aa9c7c865b.jpg" group-title="CANAIS 24H",Chapolin HD
+http://pingotv.app:80/cadu6768/42166768/1717
+#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados HD" tvg-logo="http://pingotv.app:80/images/e6693ba89fb79e0335961a8804955978.jpg" group-title="CANAIS 24H",Largados e Pelados HD
+http://pingotv.app:80/cadu6768/42166768/15526
+#EXTINF:-1 tvg-id="" tvg-name="Irmãos à Obra HD" tvg-logo="http://pingotv.app:80/images/4f28401c0a1abb6374e5357f1f360fe9.jpg" group-title="CANAIS 24H",Irmãos à Obra HD
+http://pingotv.app:80/cadu6768/42166768/15671
+#EXTINF:-1 tvg-id="" tvg-name="Desafio da Renovação HD" tvg-logo="http://pingotv.app:80/images/f4a24c25c4de6a7f3b8f85bb58f48024.jpg" group-title="CANAIS 24H",Desafio da Renovação HD
+http://pingotv.app:80/cadu6768/42166768/22916
+#EXTINF:-1 tvg-id="" tvg-name="Overhaulin HD" tvg-logo="http://pingotv.app:80/images/8a098a225ed5e09bc80c54d19a8318c1.jpg" group-title="CANAIS 24H",Overhaulin HD
+http://pingotv.app:80/cadu6768/42166768/17154
+#EXTINF:-1 tvg-id="" tvg-name="Dupla do Barulho HD" tvg-logo="http://pingotv.app:80/images/1b87be32324c138d96a861a80b2871cd.jpg" group-title="CANAIS 24H",Dupla do Barulho HD
+http://pingotv.app:80/cadu6768/42166768/18011
+#EXTINF:-1 tvg-id="" tvg-name="Rumo ao Desconhecido HD" tvg-logo="http://pingotv.app:80/images/566265edfcb4efd1d2baada8c9719258.jpg" group-title="CANAIS 24H",Rumo ao Desconhecido HD
+http://pingotv.app:80/cadu6768/42166768/17441
+#EXTINF:-1 tvg-id="" tvg-name="Universo Marvel HD" tvg-logo="http://pingotv.app:80/images/0e561187d51609f59a35e1079f062c7a.jpg" group-title="CANAIS 24H",Universo Marvel HD
+http://pingotv.app:80/cadu6768/42166768/17440
+#EXTINF:-1 tvg-id="" tvg-name="Universo DC HD" tvg-logo="http://pingotv.app:80/images/7ea743d5a862aaba100892f34d5027a5.jpg" group-title="CANAIS 24H",Universo DC HD
+http://pingotv.app:80/cadu6768/42166768/224
+#EXTINF:-1 tvg-id="" tvg-name="Walker Texas Ranger HD" tvg-logo="http://pingotv.app:80/images/1c3a0b25c3d1c909e2bcb9fe44c2f904.jpg" group-title="CANAIS 24H",Walker Texas Ranger HD
+http://pingotv.app:80/cadu6768/42166768/14196
+#EXTINF:-1 tvg-id="" tvg-name="Filmes de Faroeste HD" tvg-logo="http://pingotv.app:80/images/9ad808399723e7b899d89c8682f058c7.jpg" group-title="CANAIS 24H",Filmes de Faroeste HD
+http://pingotv.app:80/cadu6768/42166768/14201
+#EXTINF:-1 tvg-id="" tvg-name="Blue Bloods HD" tvg-logo="http://pingotv.app:80/images/e288c1a062c72afa7207ab7c81d5f6d5.jpg" group-title="CANAIS 24H",Blue Bloods HD
+http://pingotv.app:80/cadu6768/42166768/22928
+#EXTINF:-1 tvg-id="" tvg-name="Law & Order" tvg-logo="http://pingotv.app:80/images/b98f3869b2cc9a0da0e75c5abd4dea0d.jpg" group-title="CANAIS 24H",Law & Order
+http://pingotv.app:80/cadu6768/42166768/25990
+#EXTINF:-1 tvg-id="" tvg-name="Chicago Fire HD" tvg-logo="http://pingotv.app:80/images/015f28b9df1bdd36427dd976fb73b29d.jpg" group-title="CANAIS 24H",Chicago Fire HD
+http://pingotv.app:80/cadu6768/42166768/23442
+#EXTINF:-1 tvg-id="" tvg-name="C.S.I HD" tvg-logo="http://pingotv.app:80/images/a2a20311145545e816805093629f27c6.jpg" group-title="CANAIS 24H",C.S.I HD
+http://pingotv.app:80/cadu6768/42166768/24875
+#EXTINF:-1 tvg-id="" tvg-name="C.S.I Miami HD" tvg-logo="http://pingotv.app:80/images/a04b390bac2a7a1aadc514efb3a1003f.jpg" group-title="CANAIS 24H",C.S.I Miami HD
+http://pingotv.app:80/cadu6768/42166768/24913
+#EXTINF:-1 tvg-id="" tvg-name="Os Dez Mandamentos HD" tvg-logo="http://pingotv.app:80/images/81ad882870964e9dc2a2e6d43d0eafd7.jpg" group-title="CANAIS 24H",Os Dez Mandamentos HD
+http://pingotv.app:80/cadu6768/42166768/30427
+#EXTINF:-1 tvg-id="" tvg-name="TV Novelas HD" tvg-logo="http://pingotv.app:80/images/2f26329ff64d9122f3bd64a7922957ef.jpg" group-title="CANAIS 24H",TV Novelas HD
+http://pingotv.app:80/cadu6768/42166768/30426
+#EXTINF:-1 tvg-id="" tvg-name="Novelando HD" tvg-logo="http://pingotv.app:80/images/49820ae1fff20c0b091a65cc2deb7173.jpg" group-title="CANAIS 24H",Novelando HD
+http://pingotv.app:80/cadu6768/42166768/30428
+#EXTINF:-1 tvg-id="SPORTVrrhyg" tvg-name="Sport TV + HD" tvg-logo="http://pingotv.app:80/images/6e36fd9ce91b5bab059ed391d0d0d6d1.jpg" group-title="ESPORTES PORTUGAL",Sport TV + HD
+http://pingotv.app:80/cadu6768/42166768/25144
+#EXTINF:-1 tvg-id="SPORT.TV 1" tvg-name="Sport TV 1 HD" tvg-logo="http://pingotv.app:80/images/404f236ce2f8a5683085c62ff746792a.jpg" group-title="ESPORTES PORTUGAL",Sport TV 1 HD
+http://pingotv.app:80/cadu6768/42166768/25145
+#EXTINF:-1 tvg-id="SPORT.TV 2" tvg-name="Sport TV 2 HD" tvg-logo="http://pingotv.app:80/images/f8c0f5a0ed25f555203a22e7454e9151.jpg" group-title="ESPORTES PORTUGAL",Sport TV 2 HD
+http://pingotv.app:80/cadu6768/42166768/25146
+#EXTINF:-1 tvg-id="SPORT.TV 3" tvg-name="Sport TV 3 HD" tvg-logo="http://pingotv.app:80/images/5d3743ba7f98961d59105f92c503f857.jpg" group-title="ESPORTES PORTUGAL",Sport TV 3 HD
+http://pingotv.app:80/cadu6768/42166768/25147
+#EXTINF:-1 tvg-id="SPORT.TV 4" tvg-name="Sport TV 4 HD" tvg-logo="http://pingotv.app:80/images/3294085dcc3a9daecb77ba5c677bb258.jpg" group-title="ESPORTES PORTUGAL",Sport TV 4 HD
+http://pingotv.app:80/cadu6768/42166768/25148
+#EXTINF:-1 tvg-id="SPORT.TV 5" tvg-name="Sport TV 5 HD" tvg-logo="http://pingotv.app:80/images/5270d208762ca9ab91af3fd890286ee7.jpg" group-title="ESPORTES PORTUGAL",Sport TV 5 HD
+http://pingotv.app:80/cadu6768/42166768/25149
+#EXTINF:-1 tvg-id="SPORT.TVHG 6 HD" tvg-name="Sport TV 6 HD" tvg-logo="http://pingotv.app:80/images/bba962444d11490d578fdd957c20de76.jpg" group-title="ESPORTES PORTUGAL",Sport TV 6 HD
+http://pingotv.app:80/cadu6768/42166768/25150
+#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-name="Eleven Sports 1 HD" tvg-logo="http://pingotv.app:80/images/9c8454ddf7aa50116496bac348d7550d.jpg" group-title="ESPORTES PORTUGAL",Eleven Sports 1 HD
+http://pingotv.app:80/cadu6768/42166768/174
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-name="Eleven Sports 2 HD" tvg-logo="http://pingotv.app:80/images/9c8454ddf7aa50116496bac348d7550d.jpg" group-title="ESPORTES PORTUGAL",Eleven Sports 2 HD
+http://pingotv.app:80/cadu6768/42166768/175
+#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-name="Eleven Sports 3 HD" tvg-logo="http://pingotv.app:80/images/9c8454ddf7aa50116496bac348d7550d.jpg" group-title="ESPORTES PORTUGAL",Eleven Sports 3 HD
+http://pingotv.app:80/cadu6768/42166768/176
+#EXTINF:-1 tvg-id="ELEVENSPORT 4 HD" tvg-name="Eleven Sports 4 HD" tvg-logo="http://pingotv.app:80/images/9c8454ddf7aa50116496bac348d7550d.jpg" group-title="ESPORTES PORTUGAL",Eleven Sports 4 HD
+http://pingotv.app:80/cadu6768/42166768/177
+#EXTINF:-1 tvg-id="ELEVENSPORT 5 HD" tvg-name="Eleven Sports 5 HD" tvg-logo="http://pingotv.app:80/images/9c8454ddf7aa50116496bac348d7550d.jpg" group-title="ESPORTES PORTUGAL",Eleven Sports 5 HD
+http://pingotv.app:80/cadu6768/42166768/178
+#EXTINF:-1 tvg-id="ELEVENSPORT 6 HD" tvg-name="Eleven Sports 6 HD" tvg-logo="http://pingotv.app:80/images/9c8454ddf7aa50116496bac348d7550d.jpg" group-title="ESPORTES PORTUGAL",Eleven Sports 6 HD
+http://pingotv.app:80/cadu6768/42166768/179
+#EXTINF:-1 tvg-id="EuroSport HD" tvg-name="EuroSport 1 HD" tvg-logo="http://pingotv.app:80/images/b8ba5e3a8af2b84f40455a24766d2b7a.jpg" group-title="ESPORTES PORTUGAL",EuroSport 1 HD
+http://pingotv.app:80/cadu6768/42166768/25151
+#EXTINF:-1 tvg-id="EuroSport 2" tvg-name="EuroSport 2 HD" tvg-logo="http://pingotv.app:80/images/6317328fde1b5533ecb96e93e3b1d482.jpg" group-title="ESPORTES PORTUGAL",EuroSport 2 HD
+http://pingotv.app:80/cadu6768/42166768/25152
+#EXTINF:-1 tvg-id="CANAL11" tvg-name="Canal 11 HD" tvg-logo="http://pingotv.app:80/images/8208f2c65c5274267893acbb9b90f5ce.jpg" group-title="ESPORTES PORTUGAL",Canal 11 HD
+http://pingotv.app:80/cadu6768/42166768/25205
+#EXTINF:-1 tvg-id="AcfdBolaTV" tvg-name="A Bola TV HD" tvg-logo="http://pingotv.app:80/images/581ef5f221071dedc608f75222eb5f6f.jpg" group-title="ESPORTES PORTUGAL",A Bola TV HD
+http://pingotv.app:80/cadu6768/42166768/25203
+#EXTINF:-1 tvg-id="SPORTINGTVHD" tvg-name="Sporting TV HD" tvg-logo="http://pingotv.app:80/images/d6d78c3165f36a6585caf50953ace0d8.jpg" group-title="ESPORTES PORTUGAL",Sporting TV HD
+http://pingotv.app:80/cadu6768/42166768/25204
+#EXTINF:-1 tvg-id="Fuel Tv" tvg-name="Fuel TV HD" tvg-logo="http://pingotv.app:80/images/0c3acd22603dac5fea96a39182754313.jpg" group-title="ESPORTES PORTUGAL",Fuel TV HD
+http://pingotv.app:80/cadu6768/42166768/25201
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="http://pingotv.app:80/images/776ad0ef27acc0602c337dc2736f3a97.jpg" group-title="ESPORTES BRASIL",Red Bull TV
+http://pingotv.app:80/cadu6768/42166768/143
+#EXTINF:-1 tvg-id="NBATVHD" tvg-name="NBA TV HD" tvg-logo="http://pingotv.app:80/images/8e617358cf86c2b4ce01ad8309d2ac33.jpg" group-title="ESPORTES BRASIL",NBA TV HD
+http://pingotv.app:80/cadu6768/42166768/127
+#EXTINF:-1 tvg-id="" tvg-name="OneFootball 1 HD" tvg-logo="http://pingotv.app:80/images/f7205ad352273febb76774b0977f6cf4.jpg" group-title="ESPORTES BRASIL",OneFootball 1 HD
+http://pingotv.app:80/cadu6768/42166768/172
+#EXTINF:-1 tvg-id="" tvg-name="OneFootball 2 HD" tvg-logo="http://pingotv.app:80/images/f7205ad352273febb76774b0977f6cf4.jpg" group-title="ESPORTES BRASIL",OneFootball 2 HD
+http://pingotv.app:80/cadu6768/42166768/173
+#EXTINF:-1 tvg-id="SIC" tvg-name="SIC" tvg-logo="http://pingotv.app:80/images/82f5c1c9be89c68344d5c6bcf404c804.jpg" group-title="CANAIS DE PORTUGAL",SIC
+http://pingotv.app:80/cadu6768/42166768/27406
+#EXTINF:-1 tvg-id="TVI" tvg-name="TVI" tvg-logo="http://pingotv.app:80/images/1ffe276f95d77bc6c896525718f140d6.jpg" group-title="CANAIS DE PORTUGAL",TVI
+http://pingotv.app:80/cadu6768/42166768/27407
+#EXTINF:-1 tvg-id="RTPxx1" tvg-name="RTP" tvg-logo="http://pingotv.app:80/images/c766e112de79c244fdaed0ed34ca5e12.jpg" group-title="CANAIS DE PORTUGAL",RTP
+http://pingotv.app:80/cadu6768/42166768/27408
+#EXTINF:-1 tvg-id="PORTOhd" tvg-name="Porto Canal" tvg-logo="http://pingotv.app:80/images/f374552058e2705c3ff8a2e2c8bd13c8.jpg" group-title="CANAIS DE PORTUGAL",Porto Canal
+http://pingotv.app:80/cadu6768/42166768/27409
+#EXTINF:-1 tvg-id="CMTV" tvg-name="CMTV" tvg-logo="http://pingotv.app:80/images/dbb4babb56ba5bb7689668848e38e2c9.jpg" group-title="CANAIS DE PORTUGAL",CMTV
+http://pingotv.app:80/cadu6768/42166768/27410
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://pingotv.app:80/images/b127191fc35dde95277a07b9bdb8a113.jpg" group-title="CANAIS DE PORTUGAL",AXN
+http://pingotv.app:80/cadu6768/42166768/27411
+#EXTINF:-1 tvg-id="AXN Black HD" tvg-name="AXN Movies" tvg-logo="http://pingotv.app:80/images/5b9e8d84a3c8c37507a9e1f728346ac3.jpg" group-title="CANAIS DE PORTUGAL",AXN Movies
+http://pingotv.app:80/cadu6768/42166768/27412
+#EXTINF:-1 tvg-id="AXN White HD" tvg-name="AXN White" tvg-logo="http://pingotv.app:80/images/62f98086810ed0bf9e3004a9129a2828.jpg" group-title="CANAIS DE PORTUGAL",AXN White
+http://pingotv.app:80/cadu6768/42166768/27413
+#EXTINF:-1 tvg-id="FOXHD" tvg-name="STAR Channel" tvg-logo="http://pingotv.app:80/images/d88e7788b4a6734616e54dea2dff177f.jpg" group-title="CANAIS DE PORTUGAL",STAR Channel
+http://pingotv.app:80/cadu6768/42166768/27414
+#EXTINF:-1 tvg-id="FOXMOVIESHD" tvg-name="STAR Movies" tvg-logo="http://pingotv.app:80/images/54ce9f74c29a537363425be22e3fdaf1.jpg" group-title="CANAIS DE PORTUGAL",STAR Movies
+http://pingotv.app:80/cadu6768/42166768/27415
+#EXTINF:-1 tvg-id="FOXLIFEHD" tvg-name="STAR Life" tvg-logo="http://pingotv.app:80/images/068f42fbe36132ae7fdd488ef4f14cf2.jpg" group-title="CANAIS DE PORTUGAL",STAR Life
+http://pingotv.app:80/cadu6768/42166768/27416
+#EXTINF:-1 tvg-id="FXCOMEDY" tvg-name="STAR Comedy" tvg-logo="http://pingotv.app:80/images/f38e93371710960f91d2f2631456f62b.jpg" group-title="CANAIS DE PORTUGAL",STAR Comedy
+http://pingotv.app:80/cadu6768/42166768/27417
+#EXTINF:-1 tvg-id="FOXCRIMEHD" tvg-name="STAR Crime" tvg-logo="http://pingotv.app:80/images/8f265814c64807643aafa2c9c340426a.jpg" group-title="CANAIS DE PORTUGAL",STAR Crime
+http://pingotv.app:80/cadu6768/42166768/27418
+#EXTINF:-1 tvg-id="HOLLYHD" tvg-name="Hollywood" tvg-logo="http://pingotv.app:80/images/13a224ef920af18191b809f1a9d48c19.jpg" group-title="CANAIS DE PORTUGAL",Hollywood
+http://pingotv.app:80/cadu6768/42166768/27419
+#EXTINF:-1 tvg-id="CINEMUNDO" tvg-name="Cinemundo" tvg-logo="http://pingotv.app:80/images/8b0d64bb4856825eda0b6cadb6497af7.jpg" group-title="CANAIS DE PORTUGAL",Cinemundo
+http://pingotv.app:80/cadu6768/42166768/27420
+#EXTINF:-1 tvg-id="amc" tvg-name="AMC" tvg-logo="http://pingotv.app:80/images/6bc4cd89f7679aadb6505b69161f47e4.jpg" group-title="CANAIS DE PORTUGAL",AMC
+http://pingotv.app:80/cadu6768/42166768/27421
+#EXTINF:-1 tvg-id="Dizi" tvg-name="DIZI Channel" tvg-logo="http://pingotv.app:80/images/d87f02dfcc6c8274715dca3b4a5e3b34.jpg" group-title="CANAIS DE PORTUGAL",DIZI Channel
+http://pingotv.app:80/cadu6768/42166768/27422
+#EXTINF:-1 tvg-id="SYFYHD" tvg-name="SYFY" tvg-logo="http://pingotv.app:80/images/f63de37203d84a5e99ae997bcaf0ef05.jpg" group-title="CANAIS DE PORTUGAL",SYFY
+http://pingotv.app:80/cadu6768/42166768/27423
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery Channel" tvg-logo="http://pingotv.app:80/images/ca895518372359b524ca120275ba1f23.jpg" group-title="CANAIS DE PORTUGAL",Discovery Channel
+http://pingotv.app:80/cadu6768/42166768/27424
+#EXTINF:-1 tvg-id="ID" tvg-name="Discovery ID" tvg-logo="http://pingotv.app:80/images/d3ed2df1da591581364b46787b426d43.jpg" group-title="CANAIS DE PORTUGAL",Discovery ID
+http://pingotv.app:80/cadu6768/42166768/27425
+#EXTINF:-1 tvg-id="CI" tvg-name="Crime Investigation" tvg-logo="http://pingotv.app:80/images/58439c3b124a515bfbc7b076b8310524.jpg" group-title="CANAIS DE PORTUGAL",Crime Investigation
+http://pingotv.app:80/cadu6768/42166768/27426
+#EXTINF:-1 tvg-id="NGC33" tvg-name="National Geographic" tvg-logo="http://pingotv.app:80/images/f82d71a6491c31b384ab5b57d85b6593.jpg" group-title="CANAIS DE PORTUGAL",National Geographic
+http://pingotv.app:80/cadu6768/42166768/27427
+#EXTINF:-1 tvg-id="NGCWILD" tvg-name="Net Geo Wild" tvg-logo="http://pingotv.app:80/images/0b208adeba6524a2669d085724b14c80.jpg" group-title="CANAIS DE PORTUGAL",Net Geo Wild
+http://pingotv.app:80/cadu6768/42166768/27428
+#EXTINF:-1 tvg-id="HIST" tvg-name="History" tvg-logo="http://pingotv.app:80/images/3cd15f8f2940aff879df34df4e5c2cd1.jpg" group-title="CANAIS DE PORTUGAL",History
+http://pingotv.app:80/cadu6768/42166768/27429
+#EXTINF:-1 tvg-id="ODIS" tvg-name="Odisseia" tvg-logo="http://pingotv.app:80/images/ad74a73dae5adc089776bbff4c48ef3b.jpg" group-title="CANAIS DE PORTUGAL",Odisseia
+http://pingotv.app:80/cadu6768/42166768/27433
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://pingotv.app:80/images/26e104754d63adb5a0f6ce026be7182b.jpg" group-title="CANAIS DE PORTUGAL",HGTV
+http://pingotv.app:80/cadu6768/42166768/27430
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://pingotv.app:80/images/017a544acb713ac3b4c46402c94a07fc.jpg" group-title="CANAIS DE PORTUGAL",TLC
+http://pingotv.app:80/cadu6768/42166768/27431
+#EXTINF:-1 tvg-id="EENTERHD" tvg-name="E!" tvg-logo="http://pingotv.app:80/images/ac58713fda0b07d6401d35f1dbfa3187.jpg" group-title="CANAIS DE PORTUGAL",E!
+http://pingotv.app:80/cadu6768/42166768/27432
+#EXTINF:-1 tvg-id="" tvg-name="Vôlei Brasil 2 HD" tvg-logo="http://pingotv.app:80/images/a1b40aeebf8d707f55ac8cec167b6bac.jpg" group-title="ESPORTES BRASIL",Vôlei Brasil 2 HD
+http://pingotv.app:80/cadu6768/42166768/2943
+#EXTINF:-1 tvg-id="" tvg-name="Vôlei Brasil 1 HD" tvg-logo="http://pingotv.app:80/images/a1b40aeebf8d707f55ac8cec167b6bac.jpg" group-title="ESPORTES BRASIL",Vôlei Brasil 1 HD
+http://pingotv.app:80/cadu6768/42166768/2942
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Filmes HD" tvg-logo="http://pingotv.app:80/images/84f7018b3613dcee041e329b2c45ebc3.jpg" group-title="CANAIS DE FILMES",Runtime Filmes HD
+http://pingotv.app:80/cadu6768/42166768/30403
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Ação HD" tvg-logo="http://pingotv.app:80/images/d558526c08310f32280f503635f11cb3.jpg" group-title="CANAIS DE FILMES",Runtime Ação HD
+http://pingotv.app:80/cadu6768/42166768/30404
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Comédia HD" tvg-logo="http://pingotv.app:80/images/cf4131182056ddabd699f5842707ab7a.jpg" group-title="CANAIS DE FILMES",Runtime Comédia HD
+http://pingotv.app:80/cadu6768/42166768/30405
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Família HD" tvg-logo="http://pingotv.app:80/images/20736e736586997995e41e29158733e8.jpg" group-title="CANAIS DE FILMES",Runtime Família HD
+http://pingotv.app:80/cadu6768/42166768/30406
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Romance HD" tvg-logo="http://pingotv.app:80/images/dc1c4dda7122e1348a03fb232f449e1a.jpg" group-title="CANAIS DE FILMES",Runtime Romance HD
+http://pingotv.app:80/cadu6768/42166768/30407
+#EXTINF:-1 tvg-id="" tvg-name="Runtime CinEspanto HD" tvg-logo="http://pingotv.app:80/images/50e4b212a512e8a964be9a7d187b8fcc.jpg" group-title="CANAIS DE FILMES",Runtime CinEspanto HD
+http://pingotv.app:80/cadu6768/42166768/30408
+#EXTINF:-1 tvg-id="" tvg-name="Runtime Crime HD" tvg-logo="http://pingotv.app:80/images/91a35e9f9033ae13b643959f3b94bea2.jpg" group-title="CANAIS DE FILMES",Runtime Crime HD
+http://pingotv.app:80/cadu6768/42166768/30409
+#EXTINF:-1 tvg-id="" tvg-name="Moviesphere HD" tvg-logo="http://pingotv.app:80/images/8f83bb50dcdb7dafbf9cad7dfafd7e45.jpg" group-title="CANAIS DE FILMES",Moviesphere HD
+http://pingotv.app:80/cadu6768/42166768/30410
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movies HD" tvg-logo="http://pingotv.app:80/images/636b368ad1668cc9d05ce380c8b27fc0.jpg" group-title="CANAIS DE FILMES",Sony Movies HD
+http://pingotv.app:80/cadu6768/42166768/30411
+#EXTINF:-1 tvg-id="" tvg-name="MyTime Movie Network HD" tvg-logo="http://pingotv.app:80/images/3821eeb078accbe5424385ea8baa7026.jpg" group-title="CANAIS DE FILMES",MyTime Movie Network HD
+http://pingotv.app:80/cadu6768/42166768/30412
+#EXTINF:-1 tvg-id="" tvg-name="Bora Filmes FHD" tvg-logo="http://pingotv.app:80/images/0552bcfda3f98940bfecd53296d12c65.jpg" group-title="CANAIS DE FILMES",Bora Filmes FHD
+http://pingotv.app:80/cadu6768/42166768/30413
+#EXTINF:-1 tvg-id="" tvg-name="Entretendo FHD" tvg-logo="http://pingotv.app:80/images/d0b5ee4c44d6a3c1fbd3a16667694ebd.jpg" group-title="CANAIS DE FILMES",Entretendo FHD
+http://pingotv.app:80/cadu6768/42166768/30414
+#EXTINF:-1 tvg-id="" tvg-name="DarkFlix FHD" tvg-logo="http://pingotv.app:80/images/fa2dc7075670d0ffd3fb1c06482e390e.jpg" group-title="CANAIS DE FILMES",DarkFlix FHD
+http://pingotv.app:80/cadu6768/42166768/30415
+#EXTINF:-1 tvg-id="" tvg-name="HTO Filmes HD" tvg-logo="http://pingotv.app:80/images/fefe6f50841fe74e36cf4b207647970a.jpg" group-title="CANAIS DE FILMES",HTO Filmes HD
+http://pingotv.app:80/cadu6768/42166768/30416
+#EXTINF:-1 tvg-id="" tvg-name="Gospel Movies HD" tvg-logo="http://pingotv.app:80/images/0b73465e73398ad31e97fc2f4388a226.jpg" group-title="CANAIS DE FILMES",Gospel Movies HD
+http://pingotv.app:80/cadu6768/42166768/30417
+#EXTINF:-1 tvg-id="" tvg-name="Classique TV HD" tvg-logo="http://pingotv.app:80/images/fdbca2c41531861044e53d47f6bda9e3.jpg" group-title="CANAIS DE FILMES",Classique TV HD
+http://pingotv.app:80/cadu6768/42166768/30418
+#EXTINF:-1 tvg-id="" tvg-name="Grjngo Filmes HD" tvg-logo="http://pingotv.app:80/images/a69fade09b71f3fb709d01c9d89db15d.jpg" group-title="CANAIS DE FILMES",Grjngo Filmes HD
+http://pingotv.app:80/cadu6768/42166768/30419
+#EXTINF:-1 tvg-id="" tvg-name="Universo Loading FHD" tvg-logo="http://pingotv.app:80/images/9e0cb2d7da7907b7128c57b72530a3d1.jpg" group-title="CANAIS DE ANIMES",Universo Loading FHD
+http://pingotv.app:80/cadu6768/42166768/30420
+#EXTINF:-1 tvg-id="" tvg-name="Geekdot FHD" tvg-logo="http://pingotv.app:80/images/c26899af122dccf9a845fcb80effc1fe.jpg" group-title="CANAIS DE ANIMES",Geekdot FHD
+http://pingotv.app:80/cadu6768/42166768/30421
+#EXTINF:-1 tvg-id="" tvg-name="Hallo! Anime FHD" tvg-logo="http://pingotv.app:80/images/598d4c200461b81522a3328565c25f7c.jpg" group-title="CANAIS DE ANIMES",Hallo! Anime FHD
+http://pingotv.app:80/cadu6768/42166768/30422
+#EXTINF:-1 tvg-id="" tvg-name="Otaku Sign HD" tvg-logo="http://pingotv.app:80/images/f08537328e323639378d63d1cdc136a6.jpg" group-title="CANAIS DE ANIMES",Otaku Sign HD
+http://pingotv.app:80/cadu6768/42166768/30433
+#EXTINF:-1 tvg-id="" tvg-name="Anime TV HD" tvg-logo="http://pingotv.app:80/images/5d172af8fa2e4b50dc9adab510e7b94e.jpg" group-title="CANAIS DE ANIMES",Anime TV HD
+http://pingotv.app:80/cadu6768/42166768/30423
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z HD" tvg-logo="http://pingotv.app:80/images/4da47cd8c9da987779c51f2278c93ab1.jpg" group-title="CANAIS DE ANIMES",Dragon Ball Z HD
+http://pingotv.app:80/cadu6768/42166768/15301
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco HD" tvg-logo="http://pingotv.app:80/images/d8e4e3205edf0580e487e715efc7b023.jpg" group-title="CANAIS DE ANIMES",Os Cavaleiros do Zodíaco HD
+http://pingotv.app:80/cadu6768/42166768/28453
+#EXTINF:-1 tvg-id="" tvg-name="Soul Cine Clube HD" tvg-logo="http://pingotv.app:80/images/ecb2bd38e55447668ba1c923f14dbbab.jpg" group-title="CANAIS DE FILMES",Soul Cine Clube HD
+http://pingotv.app:80/cadu6768/42166768/30424
+#EXTINF:-1 tvg-id="" tvg-name="Hello TV FHD" tvg-logo="http://pingotv.app:80/images/f9ff41133380e031705c3b7b14998709.jpg" group-title="CANAIS DE VARIEDADES",Hello TV FHD
+http://pingotv.app:80/cadu6768/42166768/30430
+#EXTINF:-1 tvg-id="" tvg-name="Viajando Pelo Brasil HD" tvg-logo="http://pingotv.app:80/images/d095d0bc16919e7d30867248a419b046.jpg" group-title="CANAIS DE VARIEDADES",Viajando Pelo Brasil HD
+http://pingotv.app:80/cadu6768/42166768/30431
+#EXTINF:-1 tvg-id="" tvg-name="PrimeFlix Action HD" tvg-logo="http://pingotv.app:80/images/418c5509e2171d55b0aee5c2ea4442b5.jpg" group-title="CANAIS PRIMEFLIX",PrimeFlix Action HD
+http://pingotv.app:80/cadu6768/42166768/30451
+#EXTINF:-1 tvg-id="" tvg-name="PrimeFlix Comedy HD" tvg-logo="http://pingotv.app:80/images/8f3049c1fc336dc785a3b055b90cda6d.jpg" group-title="CANAIS PRIMEFLIX",PrimeFlix Comedy HD
+http://pingotv.app:80/cadu6768/42166768/30450
+#EXTINF:-1 tvg-id="" tvg-name="PrimeFlix Drama HD" tvg-logo="http://pingotv.app:80/images/cd672af2314970abf37b948f5b3af622.jpg" group-title="CANAIS PRIMEFLIX",PrimeFlix Drama HD
+http://pingotv.app:80/cadu6768/42166768/30449
+#EXTINF:-1 tvg-id="" tvg-name="PrimeFlix Aventura HD" tvg-logo="http://pingotv.app:80/images/d1d0f023f07f538e9a0a0f010c722b85.jpg" group-title="CANAIS PRIMEFLIX",PrimeFlix Aventura HD
+http://pingotv.app:80/cadu6768/42166768/30448
+#EXTINF:-1 tvg-id="" tvg-name="PrimeFlix Kids HD" tvg-logo="http://pingotv.app:80/images/d2466bd5a5facbe64c9e405e2bfd42df.jpg" group-title="CANAIS PRIMEFLIX",PrimeFlix Kids HD
+http://pingotv.app:80/cadu6768/42166768/30452
+#EXTINF:-1 tvg-id="" tvg-name="PrimeFlix Suspense HD" tvg-logo="http://pingotv.app:80/images/3ffb737bae5f1eb69420ba226b1a2083.jpg" group-title="CANAIS PRIMEFLIX",PrimeFlix Suspense HD
+http://pingotv.app:80/cadu6768/42166768/30437
+#EXTINF:-1 tvg-id="" tvg-name="PrimeFlix Terror HD" tvg-logo="http://pingotv.app:80/images/3a232003be172b49eb64e4d3e9af1434.jpg" group-title="CANAIS PRIMEFLIX",PrimeFlix Terror HD
+http://pingotv.app:80/cadu6768/42166768/30438
+#EXTINF:-1 tvg-id="" tvg-name="PrimeFlix Fiction HD" tvg-logo="http://pingotv.app:80/images/5641b1121c44f4929fde6b274d164e60.jpg" group-title="CANAIS PRIMEFLIX",PrimeFlix Fiction HD
+http://pingotv.app:80/cadu6768/42166768/30446
+#EXTINF:-1 tvg-id="" tvg-name="PrimeFlix Fantasy HD" tvg-logo="http://pingotv.app:80/images/7a1c07ff60f9c07ffe8da34ecbf4edc2.jpg" group-title="CANAIS PRIMEFLIX",PrimeFlix Fantasy HD
+http://pingotv.app:80/cadu6768/42166768/30447
+#EXTINF:-1 tvg-id="" tvg-name="PrimeFlix Love HD" tvg-logo="http://pingotv.app:80/images/b5c0b187fe309af0f4d35982fd961d7e.jpg" group-title="CANAIS PRIMEFLIX",PrimeFlix Love HD
+http://pingotv.app:80/cadu6768/42166768/30434
+#EXTINF:-1 tvg-id="" tvg-name="PrimeFlix Brazuca HD" tvg-logo="http://pingotv.app:80/images/0c3a4168dc29cb3b4ab5120679215e2c.jpg" group-title="CANAIS PRIMEFLIX",PrimeFlix Brazuca HD
+http://pingotv.app:80/cadu6768/42166768/30440
+#EXTINF:-1 tvg-id="" tvg-name="PrimeFlix War HD" tvg-logo="http://pingotv.app:80/images/4ca9d3dcd2b6843e62d75eb191887cf2.jpg" group-title="CANAIS PRIMEFLIX",PrimeFlix War HD
+http://pingotv.app:80/cadu6768/42166768/30442
+#EXTINF:-1 tvg-id="" tvg-name="PrimeFlix Western HD" tvg-logo="http://pingotv.app:80/images/fcbfec12e1a42fe82a57f068a08301dd.jpg" group-title="CANAIS PRIMEFLIX",PrimeFlix Western HD
+http://pingotv.app:80/cadu6768/42166768/30441
+#EXTINF:-1 tvg-id="" tvg-name="PrimeFlix Doc HD" tvg-logo="http://pingotv.app:80/images/9a09b4dfda82e3e665e31092d1c3ec8d.jpg" group-title="CANAIS PRIMEFLIX",PrimeFlix Doc HD
+http://pingotv.app:80/cadu6768/42166768/30439
+#EXTINF:-1 tvg-id="" tvg-name="PrimeFlix Mix HD" tvg-logo="http://pingotv.app:80/images/da386e629171b833abc1e85955664bf4.jpg" group-title="CANAIS PRIMEFLIX",PrimeFlix Mix HD
+http://pingotv.app:80/cadu6768/42166768/30443
+#EXTINF:-1 tvg-id="" tvg-name="PrimeFlix Top HD" tvg-logo="http://pingotv.app:80/images/b28354b543375bfa94dabaeda722927f.jpg" group-title="CANAIS PRIMEFLIX",PrimeFlix Top HD
+http://pingotv.app:80/cadu6768/42166768/30444
+#EXTINF:-1 tvg-id="" tvg-name="PrimeFlix Classic HD" tvg-logo="http://pingotv.app:80/images/f3d64714d1f6e7f71558d4252e84ab58.jpg" group-title="CANAIS PRIMEFLIX",PrimeFlix Classic HD
+http://pingotv.app:80/cadu6768/42166768/30445
+#EXTINF:-1 tvg-id="" tvg-name="PrimeFlix Stand Up HD" tvg-logo="http://pingotv.app:80/images/f1a1778856268dffd7a9f14f4e387fa4.jpg" group-title="CANAIS PRIMEFLIX",PrimeFlix Stand Up HD
+http://pingotv.app:80/cadu6768/42166768/30599
+#EXTINF:-1 tvg-id="" tvg-name="PrimeFlix Marvel HD" tvg-logo="http://pingotv.app:80/images/22bb85ead93d58faf3f41aa65d2cc39b.jpg" group-title="CANAIS PRIMEFLIX",PrimeFlix Marvel HD
+http://pingotv.app:80/cadu6768/42166768/30436
+#EXTINF:-1 tvg-id="" tvg-name="PrimeFlix DC HD" tvg-logo="http://pingotv.app:80/images/3212f5f463edb370ff55d3c3a7a15c8f.jpg" group-title="CANAIS PRIMEFLIX",PrimeFlix DC HD
+http://pingotv.app:80/cadu6768/42166768/30435
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 [01] HD" tvg-logo="http://pingotv.app:80/images/366f1421b77bd177b1c9a16e30c7d39e.jpg" group-title="CANAIS BBB 24",BBB 24 [01] HD
+http://pingotv.app:80/cadu6768/42166768/844
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 [02] HD" tvg-logo="http://pingotv.app:80/images/366f1421b77bd177b1c9a16e30c7d39e.jpg" group-title="CANAIS BBB 24",BBB 24 [02] HD
+http://pingotv.app:80/cadu6768/42166768/845
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 [03] HD" tvg-logo="http://pingotv.app:80/images/366f1421b77bd177b1c9a16e30c7d39e.jpg" group-title="CANAIS BBB 24",BBB 24 [03] HD
+http://pingotv.app:80/cadu6768/42166768/846
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 [04] HD" tvg-logo="http://pingotv.app:80/images/366f1421b77bd177b1c9a16e30c7d39e.jpg" group-title="CANAIS BBB 24",BBB 24 [04] HD
+http://pingotv.app:80/cadu6768/42166768/847
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 [05] HD" tvg-logo="http://pingotv.app:80/images/366f1421b77bd177b1c9a16e30c7d39e.jpg" group-title="CANAIS BBB 24",BBB 24 [05] HD
+http://pingotv.app:80/cadu6768/42166768/848
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 [06] HD" tvg-logo="http://pingotv.app:80/images/366f1421b77bd177b1c9a16e30c7d39e.jpg" group-title="CANAIS BBB 24",BBB 24 [06] HD
+http://pingotv.app:80/cadu6768/42166768/849
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 [07] HD" tvg-logo="http://pingotv.app:80/images/366f1421b77bd177b1c9a16e30c7d39e.jpg" group-title="CANAIS BBB 24",BBB 24 [07] HD
+http://pingotv.app:80/cadu6768/42166768/850
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 [08] HD" tvg-logo="http://pingotv.app:80/images/366f1421b77bd177b1c9a16e30c7d39e.jpg" group-title="CANAIS BBB 24",BBB 24 [08] HD
+http://pingotv.app:80/cadu6768/42166768/851
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 [09] HD" tvg-logo="http://pingotv.app:80/images/366f1421b77bd177b1c9a16e30c7d39e.jpg" group-title="CANAIS BBB 24",BBB 24 [09] HD
+http://pingotv.app:80/cadu6768/42166768/852
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 [10] HD" tvg-logo="http://pingotv.app:80/images/366f1421b77bd177b1c9a16e30c7d39e.jpg" group-title="CANAIS BBB 24",BBB 24 [10] HD
+http://pingotv.app:80/cadu6768/42166768/1024
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 [11] HD" tvg-logo="http://pingotv.app:80/images/366f1421b77bd177b1c9a16e30c7d39e.jpg" group-title="CANAIS BBB 24",BBB 24 [11] HD
+http://pingotv.app:80/cadu6768/42166768/30717
+#EXTINF:-1 tvg-id="" tvg-name="BBB 24 [12] HD" tvg-logo="http://pingotv.app:80/images/366f1421b77bd177b1c9a16e30c7d39e.jpg" group-title="CANAIS BBB 24",BBB 24 [12] HD
+http://pingotv.app:80/cadu6768/42166768/30718
