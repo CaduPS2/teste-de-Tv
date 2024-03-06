@@ -1267,3 +1267,177 @@ http://pingotv.app:80/cadu6768/42166768/1024
 http://pingotv.app:80/cadu6768/42166768/30717
 #EXTINF:-1 tvg-id="" tvg-name="BBB 24 [12] HD" tvg-logo="http://pingotv.app:80/images/366f1421b77bd177b1c9a16e30c7d39e.jpg" group-title="CANAIS BBB 24",BBB 24 [12] HD
 http://pingotv.app:80/cadu6768/42166768/30718
+#EXTINF:-1 tvg-id="" tvg-name="Hunter FM - Rock" tvg-logo="http://pingotv.app:80/images/749bda2794930dd84c5cf37c0e550306.jpg" group-title="RÁDIOS",Hunter FM - Rock
+http://pingotv.app:80/cadu6768/42166768/776
+#EXTINF:-1 tvg-id="" tvg-name="Hunter FM - Sertanejo" tvg-logo="http://pingotv.app:80/images/c4afe22e7ac9d22f4e458a34ac1f9956.jpg" group-title="RÁDIOS",Hunter FM - Sertanejo
+http://pingotv.app:80/cadu6768/42166768/777
+#EXTINF:-1 tvg-id="" tvg-name="Hunter FM - Pop" tvg-logo="http://pingotv.app:80/images/2ed7530ee9e98e0826d1969427d1901a.jpg" group-title="RÁDIOS",Hunter FM - Pop
+http://pingotv.app:80/cadu6768/42166768/778
+#EXTINF:-1 tvg-id="" tvg-name="Hunter FM - Pop2K" tvg-logo="http://pingotv.app:80/images/0fcc1cd2306a33a94b5b02adc3cfba4c.jpg" group-title="RÁDIOS",Hunter FM - Pop2K
+http://pingotv.app:80/cadu6768/42166768/779
+#EXTINF:-1 tvg-id="" tvg-name="Hunter FM - Pisadinha" tvg-logo="http://pingotv.app:80/images/96d4b7e3aa8495b530fc976d8c361e07.jpg" group-title="RÁDIOS",Hunter FM - Pisadinha
+http://pingotv.app:80/cadu6768/42166768/780
+#EXTINF:-1 tvg-id="" tvg-name="Hunter FM - Tropical" tvg-logo="http://pingotv.app:80/images/a6462d492f4e799e7833246962f2dbc0.jpg" group-title="RÁDIOS",Hunter FM - Tropical
+http://pingotv.app:80/cadu6768/42166768/781
+#EXTINF:-1 tvg-id="" tvg-name="Hunter FM - 80s" tvg-logo="http://pingotv.app:80/images/56555a3521026ab2f4755d162c0bdf12.jpg" group-title="RÁDIOS",Hunter FM - 80s
+http://pingotv.app:80/cadu6768/42166768/782
+#EXTINF:-1 tvg-id="" tvg-name="Hunter FM - Lofi" tvg-logo="http://pingotv.app:80/images/2ef5121f1aea4fa9a64d2896fe4a6a84.jpg" group-title="RÁDIOS",Hunter FM - Lofi
+http://pingotv.app:80/cadu6768/42166768/783
+#EXTINF:-1 tvg-id="" tvg-name="Hunter FM - Gospel" tvg-logo="http://pingotv.app:80/images/cc039124df78ecebb403055f5b1cca5f.jpg" group-title="RÁDIOS",Hunter FM - Gospel
+http://pingotv.app:80/cadu6768/42166768/784
+#EXTINF:-1 tvg-id="" tvg-name="BandNews FM" tvg-logo="http://pingotv.app:80/images/10deb336421b49eb047b172d5963eb40.jpg" group-title="RÁDIOS",BandNews FM
+http://pingotv.app:80/cadu6768/42166768/6238
+#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan News FM" tvg-logo="http://pingotv.app:80/images/917f0ee158fe547e15756001b05ad582.jpg" group-title="RÁDIOS",Jovem Pan News FM
+http://pingotv.app:80/cadu6768/42166768/6239
+#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan FM" tvg-logo="http://pingotv.app:80/images/880e5344a80e683327c97902dffa0b28.jpg" group-title="RÁDIOS",Jovem Pan FM
+http://pingotv.app:80/cadu6768/42166768/6240
+#EXTINF:-1 tvg-id="" tvg-name="Rádio Bandeirantes FM" tvg-logo="http://pingotv.app:80/images/ed13ab7cab1f1ac9fd61d96bed9bd0ed.jpg" group-title="RÁDIOS",Rádio Bandeirantes FM
+http://pingotv.app:80/cadu6768/42166768/6241
+#EXTINF:-1 tvg-id="" tvg-name="Super Rádio Tupi FM" tvg-logo="http://pingotv.app:80/images/752e53573888e86cda417ffc73e1a0ec.jpg" group-title="RÁDIOS",Super Rádio Tupi FM
+http://pingotv.app:80/cadu6768/42166768/6242
+#EXTINF:-1 tvg-id="" tvg-name="Clube  101.5 FM" tvg-logo="http://pingotv.app:80/images/fbbfb2d0486e3f72bc5454a88ed89067.jpg" group-title="RÁDIOS",Clube  101.5 FM
+http://pingotv.app:80/cadu6768/42166768/6243
+#EXTINF:-1 tvg-id="" tvg-name="Massa FM" tvg-logo="http://pingotv.app:80/images/12f6b4c160078800ecee41092f6d7a3d.jpg" group-title="RÁDIOS",Massa FM
+http://pingotv.app:80/cadu6768/42166768/6244
+#EXTINF:-1 tvg-id="" tvg-name="Caiobá FM" tvg-logo="http://pingotv.app:80/images/dd6f4b00df3e39e20fcbbd9c2c09effc.jpg" group-title="RÁDIOS",Caiobá FM
+http://pingotv.app:80/cadu6768/42166768/6245
+#EXTINF:-1 tvg-id="" tvg-name="91 Rock FM" tvg-logo="http://pingotv.app:80/images/a7ee1277f78f706073d058ab57615835.jpg" group-title="RÁDIOS",91 Rock FM
+http://pingotv.app:80/cadu6768/42166768/6246
+#EXTINF:-1 tvg-id="" tvg-name="Atlântida 97.3 FM" tvg-logo="http://pingotv.app:80/images/02480b909b487ffa36e2ac38eb03c5ba.jpg" group-title="RÁDIOS",Atlântida 97.3 FM
+http://pingotv.app:80/cadu6768/42166768/6247
+#EXTINF:-1 tvg-id="" tvg-name="Rádio 92 FM" tvg-logo="http://pingotv.app:80/images/a39f1fc7e19db8c40b0889982e4ce506.jpg" group-title="RÁDIOS",Rádio 92 FM
+http://pingotv.app:80/cadu6768/42166768/6248
+#EXTINF:-1 tvg-id="" tvg-name="Som Maior FM" tvg-logo="http://pingotv.app:80/images/4d1d5abbd2c6e79a061b7380b5de161f.jpg" group-title="RÁDIOS",Som Maior FM
+http://pingotv.app:80/cadu6768/42166768/6249
+#EXTINF:-1 tvg-id="" tvg-name="Sulamérica Paradiso FM" tvg-logo="http://pingotv.app:80/images/64427ad53bd35ec3783d69409c671b94.jpg" group-title="RÁDIOS",Sulamérica Paradiso FM
+http://pingotv.app:80/cadu6768/42166768/6250
+#EXTINF:-1 tvg-id="" tvg-name="Gaúcha FM" tvg-logo="http://pingotv.app:80/images/051c86ae0eb23ab8813f0f3bb4b09393.jpg" group-title="RÁDIOS",Gaúcha FM
+http://pingotv.app:80/cadu6768/42166768/6251
+#EXTINF:-1 tvg-id="" tvg-name="Hunter FM - Moda Sertaneja" tvg-logo="http://pingotv.app:80/images/0a97a3ceaca712de5f9a7251edc67293.jpg" group-title="RÁDIOS",Hunter FM - Moda Sertaneja
+http://pingotv.app:80/cadu6768/42166768/32892
+#EXTINF:-1 tvg-id="" tvg-name="Hunter FM - Pagode" tvg-logo="http://pingotv.app:80/images/b0e7c919d3d3dd3493f8d70ee9a4d8c7.jpg" group-title="RÁDIOS",Hunter FM - Pagode
+http://pingotv.app:80/cadu6768/42166768/32893
+#EXTINF:-1 tvg-id="" tvg-name="Hunter FM - Hits Brasil" tvg-logo="http://pingotv.app:80/images/634f7752fcc0a69718b6978f2ba4ff25.jpg" group-title="RÁDIOS",Hunter FM - Hits Brasil
+http://pingotv.app:80/cadu6768/42166768/32894
+#EXTINF:-1 tvg-id="" tvg-name="PRIME XXX 1 HD" tvg-logo="http://pingotv.app:80/images/945220b105cb4c8af2f829c1b25f2069.jpg" group-title="CANAIS ADULTOS",PRIME XXX 1 HD
+http://pingotv.app:80/cadu6768/42166768/32127
+#EXTINF:-1 tvg-id="" tvg-name="PRIME XXX 2 HD" tvg-logo="http://pingotv.app:80/images/849e28d80918d9a8888c89ad37967204.jpg" group-title="CANAIS ADULTOS",PRIME XXX 2 HD
+http://pingotv.app:80/cadu6768/42166768/32126
+#EXTINF:-1 tvg-id="" tvg-name="PRIME XXX 3 HD" tvg-logo="http://pingotv.app:80/images/26706a02e36b3ce6e9e5fcd5dfef5464.jpg" group-title="CANAIS ADULTOS",PRIME XXX 3 HD
+http://pingotv.app:80/cadu6768/42166768/32125
+#EXTINF:-1 tvg-id="" tvg-name="PRIME XXX 4 HD" tvg-logo="http://pingotv.app:80/images/9e5343e49e825c206f8b11ab82d46405.jpg" group-title="CANAIS ADULTOS",PRIME XXX 4 HD
+http://pingotv.app:80/cadu6768/42166768/32124
+#EXTINF:-1 tvg-id="" tvg-name="PRIME XXX 5 HD" tvg-logo="http://pingotv.app:80/images/0337c4c4e2b3be0074b6d0a1b4a0bd02.jpg" group-title="CANAIS ADULTOS",PRIME XXX 5 HD
+http://pingotv.app:80/cadu6768/42166768/32123
+#EXTINF:-1 tvg-id="" tvg-name="PRIME XXX 6 HD" tvg-logo="http://pingotv.app:80/images/e92c636bd03260380b207633c87ea4ff.jpg" group-title="CANAIS ADULTOS",PRIME XXX 6 HD
+http://pingotv.app:80/cadu6768/42166768/32122
+#EXTINF:-1 tvg-id="" tvg-name="PRIME XXX 7 HD" tvg-logo="http://pingotv.app:80/images/2d8f8c4e8c9f15e63cfc69d7f9e058af.jpg" group-title="CANAIS ADULTOS",PRIME XXX 7 HD
+http://pingotv.app:80/cadu6768/42166768/32121
+#EXTINF:-1 tvg-id="" tvg-name="PRIME XXX 8 HD" tvg-logo="http://pingotv.app:80/images/8246d14fbdac098b672340a180349675.jpg" group-title="CANAIS ADULTOS",PRIME XXX 8 HD
+http://pingotv.app:80/cadu6768/42166768/32120
+#EXTINF:-1 tvg-id="" tvg-name="PRIME XXX 9 HD" tvg-logo="http://pingotv.app:80/images/61fada6721d1d3a7fe9559118d7b8b19.jpg" group-title="CANAIS ADULTOS",PRIME XXX 9 HD
+http://pingotv.app:80/cadu6768/42166768/32119
+#EXTINF:-1 tvg-id="" tvg-name="PRIME XXX 10 HD" tvg-logo="http://pingotv.app:80/images/416675a8f87f5e28b28e7e15e53ec338.jpg" group-title="CANAIS ADULTOS",PRIME XXX 10 HD
+http://pingotv.app:80/cadu6768/42166768/32118
+#EXTINF:-1 tvg-id="PlayboyTVBrazil.br" tvg-name="Playboy TV HD" tvg-logo="http://pingotv.app:80/images/cfe819bed5b34b02ccb68ab69ab2055b.jpg" group-title="CANAIS ADULTOS",Playboy TV HD
+http://pingotv.app:80/cadu6768/42166768/85
+#EXTINF:-1 tvg-id="SexyHot.br" tvg-name="Sexy Hot HD" tvg-logo="http://pingotv.app:80/images/b3658cfc746c153f35a7d0569e6c7520.jpg" group-title="CANAIS ADULTOS",Sexy Hot HD
+http://pingotv.app:80/cadu6768/42166768/87
+#EXTINF:-1 tvg-id="" tvg-name="Sexy Hot FHD" tvg-logo="http://pingotv.app:80/images/b3658cfc746c153f35a7d0569e6c7520.jpg" group-title="CANAIS ADULTOS",Sexy Hot FHD
+http://pingotv.app:80/cadu6768/42166768/6683
+#EXTINF:-1 tvg-id="" tvg-name="Venus HD" tvg-logo="http://pingotv.app:80/images/a5717a649d346ed0c51be68888c130cd.jpg" group-title="CANAIS ADULTOS",Venus HD
+http://pingotv.app:80/cadu6768/42166768/328
+#EXTINF:-1 tvg-id="" tvg-name="Venus FHD" tvg-logo="http://pingotv.app:80/images/a5717a649d346ed0c51be68888c130cd.jpg" group-title="CANAIS ADULTOS",Venus FHD
+http://pingotv.app:80/cadu6768/42166768/6682
+#EXTINF:-1 tvg-id="Sextreme.br" tvg-name="SexPrivé HD" tvg-logo="http://pingotv.app:80/images/97c68731655b21deac1f09d391a8d4fd.jpg" group-title="CANAIS ADULTOS",SexPrivé HD
+http://pingotv.app:80/cadu6768/42166768/86
+#EXTINF:-1 tvg-id="" tvg-name="Live Cams HD" tvg-logo="http://pingotv.app:80/images/2cd8b80c05918b1bebdd723492515f40.jpg" group-title="CANAIS ADULTOS",Live Cams HD
+http://pingotv.app:80/cadu6768/42166768/335
+#EXTINF:-1 tvg-id="" tvg-name="MILF HD" tvg-logo="http://pingotv.app:80/images/2cd8b80c05918b1bebdd723492515f40.jpg" group-title="CANAIS ADULTOS",MILF HD
+http://pingotv.app:80/cadu6768/42166768/336
+#EXTINF:-1 tvg-id="" tvg-name="Big Dick HD" tvg-logo="http://pingotv.app:80/images/2cd8b80c05918b1bebdd723492515f40.jpg" group-title="CANAIS ADULTOS",Big Dick HD
+http://pingotv.app:80/cadu6768/42166768/337
+#EXTINF:-1 tvg-id="" tvg-name="Big Tits HD" tvg-logo="http://pingotv.app:80/images/2cd8b80c05918b1bebdd723492515f40.jpg" group-title="CANAIS ADULTOS",Big Tits HD
+http://pingotv.app:80/cadu6768/42166768/338
+#EXTINF:-1 tvg-id="" tvg-name="Fetish HD" tvg-logo="http://pingotv.app:80/images/2cd8b80c05918b1bebdd723492515f40.jpg" group-title="CANAIS ADULTOS",Fetish HD
+http://pingotv.app:80/cadu6768/42166768/339
+#EXTINF:-1 tvg-id="" tvg-name="Pornstar HD" tvg-logo="http://pingotv.app:80/images/2cd8b80c05918b1bebdd723492515f40.jpg" group-title="CANAIS ADULTOS",Pornstar HD
+http://pingotv.app:80/cadu6768/42166768/340
+#EXTINF:-1 tvg-id="" tvg-name="Big Ass HD" tvg-logo="http://pingotv.app:80/images/2cd8b80c05918b1bebdd723492515f40.jpg" group-title="CANAIS ADULTOS",Big Ass HD
+http://pingotv.app:80/cadu6768/42166768/341
+#EXTINF:-1 tvg-id="" tvg-name="Interacial HD" tvg-logo="http://pingotv.app:80/images/2cd8b80c05918b1bebdd723492515f40.jpg" group-title="CANAIS ADULTOS",Interacial HD
+http://pingotv.app:80/cadu6768/42166768/342
+#EXTINF:-1 tvg-id="" tvg-name="Latinas HD" tvg-logo="http://pingotv.app:80/images/2cd8b80c05918b1bebdd723492515f40.jpg" group-title="CANAIS ADULTOS",Latinas HD
+http://pingotv.app:80/cadu6768/42166768/343
+#EXTINF:-1 tvg-id="" tvg-name="POV HD" tvg-logo="http://pingotv.app:80/images/2cd8b80c05918b1bebdd723492515f40.jpg" group-title="CANAIS ADULTOS",POV HD
+http://pingotv.app:80/cadu6768/42166768/344
+#EXTINF:-1 tvg-id="" tvg-name="Blowjob HD" tvg-logo="http://pingotv.app:80/images/2cd8b80c05918b1bebdd723492515f40.jpg" group-title="CANAIS ADULTOS",Blowjob HD
+http://pingotv.app:80/cadu6768/42166768/345
+#EXTINF:-1 tvg-id="" tvg-name="Teen HD" tvg-logo="http://pingotv.app:80/images/2cd8b80c05918b1bebdd723492515f40.jpg" group-title="CANAIS ADULTOS",Teen HD
+http://pingotv.app:80/cadu6768/42166768/346
+#EXTINF:-1 tvg-id="" tvg-name="Hardcore HD" tvg-logo="http://pingotv.app:80/images/2cd8b80c05918b1bebdd723492515f40.jpg" group-title="CANAIS ADULTOS",Hardcore HD
+http://pingotv.app:80/cadu6768/42166768/347
+#EXTINF:-1 tvg-id="" tvg-name="Cuckold HD" tvg-logo="http://pingotv.app:80/images/2cd8b80c05918b1bebdd723492515f40.jpg" group-title="CANAIS ADULTOS",Cuckold HD
+http://pingotv.app:80/cadu6768/42166768/348
+#EXTINF:-1 tvg-id="" tvg-name="Threesome HD" tvg-logo="http://pingotv.app:80/images/2cd8b80c05918b1bebdd723492515f40.jpg" group-title="CANAIS ADULTOS",Threesome HD
+http://pingotv.app:80/cadu6768/42166768/349
+#EXTINF:-1 tvg-id="" tvg-name="Russian HD" tvg-logo="http://pingotv.app:80/images/2cd8b80c05918b1bebdd723492515f40.jpg" group-title="CANAIS ADULTOS",Russian HD
+http://pingotv.app:80/cadu6768/42166768/350
+#EXTINF:-1 tvg-id="" tvg-name="Lesbian HD" tvg-logo="http://pingotv.app:80/images/2cd8b80c05918b1bebdd723492515f40.jpg" group-title="CANAIS ADULTOS",Lesbian HD
+http://pingotv.app:80/cadu6768/42166768/351
+#EXTINF:-1 tvg-id="" tvg-name="Rough HD" tvg-logo="http://pingotv.app:80/images/2cd8b80c05918b1bebdd723492515f40.jpg" group-title="CANAIS ADULTOS",Rough HD
+http://pingotv.app:80/cadu6768/42166768/352
+#EXTINF:-1 tvg-id="" tvg-name="Gangbang HD" tvg-logo="http://pingotv.app:80/images/2cd8b80c05918b1bebdd723492515f40.jpg" group-title="CANAIS ADULTOS",Gangbang HD
+http://pingotv.app:80/cadu6768/42166768/353
+#EXTINF:-1 tvg-id="" tvg-name="Anal HD" tvg-logo="http://pingotv.app:80/images/2cd8b80c05918b1bebdd723492515f40.jpg" group-title="CANAIS ADULTOS",Anal HD
+http://pingotv.app:80/cadu6768/42166768/354
+#EXTINF:-1 tvg-id="" tvg-name="Compilado HD" tvg-logo="http://pingotv.app:80/images/2cd8b80c05918b1bebdd723492515f40.jpg" group-title="CANAIS ADULTOS",Compilado HD
+http://pingotv.app:80/cadu6768/42166768/355
+#EXTINF:-1 tvg-id="" tvg-name="Brunette HD" tvg-logo="http://pingotv.app:80/images/2cd8b80c05918b1bebdd723492515f40.jpg" group-title="CANAIS ADULTOS",Brunette HD
+http://pingotv.app:80/cadu6768/42166768/356
+#EXTINF:-1 tvg-id="" tvg-name="Blonde HD" tvg-logo="http://pingotv.app:80/images/2cd8b80c05918b1bebdd723492515f40.jpg" group-title="CANAIS ADULTOS",Blonde HD
+http://pingotv.app:80/cadu6768/42166768/357
+#EXTINF:-1 tvg-id="" tvg-name="Gay HD" tvg-logo="http://pingotv.app:80/images/2cd8b80c05918b1bebdd723492515f40.jpg" group-title="CANAIS ADULTOS",Gay HD
+http://pingotv.app:80/cadu6768/42166768/358
+#EXTINF:-1 tvg-id="" tvg-name="Asiaticas HD" tvg-logo="http://pingotv.app:80/images/2cd8b80c05918b1bebdd723492515f40.jpg" group-title="CANAIS ADULTOS",Asiaticas HD
+http://pingotv.app:80/cadu6768/42166768/359
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Teen Girls HD" tvg-logo="http://pingotv.app:80/images/ef005b0e4f24672ed0fc00239e3b62c4.jpg" group-title="CANAIS ADULTOS",MyCamTV Teen Girls HD
+http://pingotv.app:80/cadu6768/42166768/360
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV MILF HD" tvg-logo="http://pingotv.app:80/images/ef005b0e4f24672ed0fc00239e3b62c4.jpg" group-title="CANAIS ADULTOS",MyCamTV MILF HD
+http://pingotv.app:80/cadu6768/42166768/361
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Young Girls HD" tvg-logo="http://pingotv.app:80/images/ef005b0e4f24672ed0fc00239e3b62c4.jpg" group-title="CANAIS ADULTOS",MyCamTV Young Girls HD
+http://pingotv.app:80/cadu6768/42166768/362
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Mature HD" tvg-logo="http://pingotv.app:80/images/ef005b0e4f24672ed0fc00239e3b62c4.jpg" group-title="CANAIS ADULTOS",MyCamTV Mature HD
+http://pingotv.app:80/cadu6768/42166768/363
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Arab Girls HD" tvg-logo="http://pingotv.app:80/images/ef005b0e4f24672ed0fc00239e3b62c4.jpg" group-title="CANAIS ADULTOS",MyCamTV Arab Girls HD
+http://pingotv.app:80/cadu6768/42166768/364
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Ebony Girls HD" tvg-logo="http://pingotv.app:80/images/ef005b0e4f24672ed0fc00239e3b62c4.jpg" group-title="CANAIS ADULTOS",MyCamTV Ebony Girls HD
+http://pingotv.app:80/cadu6768/42166768/365
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Asian Girls HD" tvg-logo="http://pingotv.app:80/images/ef005b0e4f24672ed0fc00239e3b62c4.jpg" group-title="CANAIS ADULTOS",MyCamTV Asian Girls HD
+http://pingotv.app:80/cadu6768/42166768/366
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Brunette Girls HD" tvg-logo="http://pingotv.app:80/images/ef005b0e4f24672ed0fc00239e3b62c4.jpg" group-title="CANAIS ADULTOS",MyCamTV Brunette Girls HD
+http://pingotv.app:80/cadu6768/42166768/367
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Latina Girls HD" tvg-logo="http://pingotv.app:80/images/ef005b0e4f24672ed0fc00239e3b62c4.jpg" group-title="CANAIS ADULTOS",MyCamTV Latina Girls HD
+http://pingotv.app:80/cadu6768/42166768/368
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV White Girls HD" tvg-logo="http://pingotv.app:80/images/ef005b0e4f24672ed0fc00239e3b62c4.jpg" group-title="CANAIS ADULTOS",MyCamTV White Girls HD
+http://pingotv.app:80/cadu6768/42166768/369
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Blonde Girls HD" tvg-logo="http://pingotv.app:80/images/ef005b0e4f24672ed0fc00239e3b62c4.jpg" group-title="CANAIS ADULTOS",MyCamTV Blonde Girls HD
+http://pingotv.app:80/cadu6768/42166768/370
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Anal HD" tvg-logo="http://pingotv.app:80/images/ef005b0e4f24672ed0fc00239e3b62c4.jpg" group-title="CANAIS ADULTOS",MyCamTV Anal HD
+http://pingotv.app:80/cadu6768/42166768/371
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Big Ass Girls HD" tvg-logo="http://pingotv.app:80/images/ef005b0e4f24672ed0fc00239e3b62c4.jpg" group-title="CANAIS ADULTOS",MyCamTV Big Ass Girls HD
+http://pingotv.app:80/cadu6768/42166768/372
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Girls Squirt HD" tvg-logo="http://pingotv.app:80/images/ef005b0e4f24672ed0fc00239e3b62c4.jpg" group-title="CANAIS ADULTOS",MyCamTV Girls Squirt HD
+http://pingotv.app:80/cadu6768/42166768/373
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Big Tits Girls HD" tvg-logo="http://pingotv.app:80/images/ef005b0e4f24672ed0fc00239e3b62c4.jpg" group-title="CANAIS ADULTOS",MyCamTV Big Tits Girls HD
+http://pingotv.app:80/cadu6768/42166768/374
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Skinny Girls HD" tvg-logo="http://pingotv.app:80/images/ef005b0e4f24672ed0fc00239e3b62c4.jpg" group-title="CANAIS ADULTOS",MyCamTV Skinny Girls HD
+http://pingotv.app:80/cadu6768/42166768/375
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Medium Girls HD" tvg-logo="http://pingotv.app:80/images/ef005b0e4f24672ed0fc00239e3b62c4.jpg" group-title="CANAIS ADULTOS",MyCamTV Medium Girls HD
+http://pingotv.app:80/cadu6768/42166768/376
+#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Blowjob HD" tvg-logo="http://pingotv.app:80/images/ef005b0e4f24672ed0fc00239e3b62c4.jpg" group-title="CANAIS ADULTOS",MyCamTV Blowjob HD
+http://pingotv.app:80/cadu6768/42166768/377
+#EXTINF:-1 tvg-id="" tvg-name="South Park HD" tvg-logo="http://pingotv.app:80/images/6e77e6ec9ed4394409126116a070253a.jpg" group-title="CANAIS 24H",South Park HD
+http://pingotv.app:80/cadu6768/42166768/14194
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="Adult Swim HD" tvg-logo="http://pingotv.app:80/images/964d72e72d053d501f2949969849b96c.jpg" group-title="CANAIS DE VARIEDADES",Adult Swim HD
+http://pingotv.app:80/cadu6768/42166768/217
