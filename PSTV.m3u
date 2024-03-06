@@ -1,19 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title=""tvg-logo="https://github.com/PS3-4K-Pro/PlayStation-TV/blob/eb2355ef46f14a062c95879c3d7dbe81d7eb4919/icons/animes.png?raw=true",Animes
-https://raw.githubusercontent.com/CaduPS2/teste-de-Tv/main/animes.m3u
-#EXTINF:-1 group-title=""tvg-logo="https://github.com/PS3-4K-Pro/PlayStation-TV/blob/eb2355ef46f14a062c95879c3d7dbe81d7eb4919/icons/cartoons.png?raw=true",Desenhos
-
-#EXTINF:-1 group-title=""tvg-logo="https://github.com/PS3-4K-Pro/PlayStation-TV/blob/eb2355ef46f14a062c95879c3d7dbe81d7eb4919/icons/documentaries.png?raw=true",Documentários
-
-#EXTINF:-1 group-title=""tvg-logo="https://github.com/PS3-4K-Pro/PlayStation-TV/blob/eb2355ef46f14a062c95879c3d7dbe81d7eb4919/icons/humor.png?raw=true",Humor
-
-#EXTINF:-1 group-title=""tvg-logo="https://github.com/PS3-4K-Pro/PlayStation-TV/blob/eb2355ef46f14a062c95879c3d7dbe81d7eb4919/icons/iptv.png?raw=true",TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PS3-4K-Pro/PlayStation-TV/main/icons/iptv.png",TV Ao Vivo
 https://raw.githubusercontent.com/CaduPS2/teste-de-Tv/main/Teste%20da%20Tv%20doida%20a%C3%AD%202024
-#EXTINF:-1 group-title=""tvg-logo="https://github.com/PS3-4K-Pro/PlayStation-TV/blob/eb2355ef46f14a062c95879c3d7dbe81d7eb4919/icons/movies.png?raw=true",Filmes
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PS3-4K-Pro/PlayStation-TV/main/icons/movies.png",Filmes
 https://raw.githubusercontent.com/CaduPS2/teste-de-Tv/main/movies.m3u
-#EXTINF:-1 group-title=""tvg-logo="https://github.com/PS3-4K-Pro/PlayStation-TV/blob/eb2355ef46f14a062c95879c3d7dbe81d7eb4919/icons/music.png?raw=true",Música
-
-#EXTINF:-1 group-title=""tvg-logo="https://github.com/PS3-4K-Pro/PlayStation-TV/blob/eb2355ef46f14a062c95879c3d7dbe81d7eb4919/icons/series.png?raw=true",Séries
-
-#EXTINF:-1 group-title=""tvg-logo="https://github.com/PS3-4K-Pro/PlayStation-TV/blob/eb2355ef46f14a062c95879c3d7dbe81d7eb4919/icons/telenovelas.png?raw=true",TeleNovelas
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PS3-4K-Pro/PlayStation-TV/main/icons/series.png",Séries
+https://raw.githubusercontent.com/CaduPS2/teste-de-Tv/main/Series.m3u
